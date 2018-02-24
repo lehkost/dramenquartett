@@ -1,0 +1,7 @@
+Source,Type,Target,Weight
+anselmo,Undirected,ugolino,5
+anselmo,Undirected,gaddo,5
+anselmo,Undirected,francesco,4
+ugolino,Undirected,gaddo,5
+ugolino,Undirected,francesco,4
+gaddo,Undirected,francesco,4

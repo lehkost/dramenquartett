@@ -1,0 +1,44 @@
+Source,Type,Target,Weight
+Der Arzt,Undirected,Der Sanitäter,1
+Der Ausrufer,Undirected,Der Liliputaner,2
+Der Ausrufer,Undirected,Die dicke Dame,2
+Der Ausrufer,Undirected,Juanita,2
+Der Ausrufer,Undirected,Karoline,1
+Der Ausrufer,Undirected,Kasimir,1
+Der Ausrufer,Undirected,Rauch,1
+Der Ausrufer,Undirected,Speer,1
+Der Liliputaner,Undirected,Die dicke Dame,1
+Der Liliputaner,Undirected,Juanita,2
+Der Liliputaner,Undirected,Karoline,1
+Der Liliputaner,Undirected,Kasimir,1
+Der Liliputaner,Undirected,Rauch,1
+Der Liliputaner,Undirected,Speer,1
+Der Merkl Franz,Undirected,Elli,1
+Der Merkl Franz,Undirected,Erna,10
+Der Merkl Franz,Undirected,Karoline,1
+Der Merkl Franz,Undirected,Kasimir,11
+Der Merkl Franz,Undirected,Maria,1
+Der Merkl Franz,Undirected,Schürzinger,2
+Der Sanitäter,Undirected,Karoline,3
+Der Sanitäter,Undirected,Rauch,1
+Die dicke Dame,Undirected,Juanita,1
+Elli,Undirected,Karoline,1
+Elli,Undirected,Kasimir,1
+Elli,Undirected,Maria,4
+Elli,Undirected,Speer,1
+Erna,Undirected,Karoline,1
+Erna,Undirected,Kasimir,15
+Erna,Undirected,Schürzinger,1
+Karoline,Undirected,Kasimir,6
+Karoline,Undirected,Maria,1
+Karoline,Undirected,Rauch,10
+Karoline,Undirected,Schürzinger,14
+Karoline,Undirected,Speer,4
+Kasimir,Undirected,Maria,1
+Kasimir,Undirected,Rauch,2
+Kasimir,Undirected,Schürzinger,3
+Kasimir,Undirected,Speer,1
+Maria,Undirected,Speer,2
+Rauch,Undirected,Schürzinger,5
+Rauch,Undirected,Speer,13
+Schürzinger,Undirected,Speer,2

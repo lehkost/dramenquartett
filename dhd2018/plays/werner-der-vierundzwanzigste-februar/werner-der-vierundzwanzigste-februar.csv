@@ -1,0 +1,4 @@
+Source,Type,Target,Weight
+trude,Undirected,kunz,2
+trude,Undirected,kurt,1
+kunz,Undirected,kurt,1

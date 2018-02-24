@@ -1,0 +1,14 @@
+Source,Type,Target,Weight
+ulfo,Undirected,estrithe,6
+ulfo,Undirected,godewin,4
+ulfo,Undirected,canut,4
+ulfo,Undirected,godschalk,2
+estrithe,Undirected,gunilde,1
+estrithe,Undirected,godewin,7
+estrithe,Undirected,canut,6
+estrithe,Undirected,haqvin,2
+estrithe,Undirected,godschalk,1
+godewin,Undirected,canut,6
+godewin,Undirected,godschalk,3
+canut,Undirected,haqvin,1
+canut,Undirected,godschalk,3
