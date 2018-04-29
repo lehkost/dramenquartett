@@ -1,0 +1,20 @@
+Author,Title,Subtitle,Year,Original Language,Network Size,Network Diameter,Network Density,Clustering Coefficient,Average Path Length,Maximum Degree,Character with Maximum Degree
+Euripides,Electra,,c. 420–413 BC,Greek,9,2,"0,5","0,8","1,5",8,Electra
+William Shakespeare,The Tragedy of Hamlet,,c. 1599/1602,English,34,3,"0,34","0,86","1,7",30,Horatio
+Ben Jonson,"Volpone; or, the Fox",,1606,English,26,3,"0,5","0,86","1,66",21,Mosca
+Pedro Calderón de la Barca,Life Is a Dream,,1635,Spanish,18,3,"0,4","0,84","1,66",14,Clarin
+Jean Racine,Andromaque,Tragedy,1667,French,8,3,"0,43","0,64","1,79",5,Pyrrhus
+Carlo Goldoni,The Servant of Two Masters,A Comedy,1746,Italian,13,3,"0,59","0,87","1,42",11,Beatrice and Truffaldino
+Johann Wolfgang Goethe,Götz von Berlichingen with the Iron Hand,A Drama,1773,German,79,5,"0,09","0,87","2,49",46,Götz
+Johann Wolfgang Goethe,"Faust, Part One",A Tragedy,1808,German,115,3,"0,2","0,98","1,7",67,Faust
+Alexander Pushkin,Boris Godunov,,1825,Russian,79,6,"0,11","0,92","3,03",29,Tsar Boris
+Mary Russell Mitford,Rienzi,A Tragedy,1828,English,34,2,"0,31","0,87","1,69",33,Cola di Rienzi
+Christian Dietrich Grabbe,"Napoleon; or, The Hundred Days",A Drama,1831,German,259,6,"0,09","0,96","2,83",106,Vitri and Chassecœur
+Nikolai Gogol,The Government Inspector,A Comedy,1836,Russian,31,3,"0,52","0,88","1,54",27,Anton Antonovich
+Imre Madách,The Tragedy of Man,,1862,Hungarian,103,3,"0,23","0,97","1,78",99,Adam and Eva
+Aleksis Kivi,Heath Cobblers,A Comedy,1864,Finnish,25,4,"0,39","0,85","1,71",21,Esko
+Leo Tolstoy,The Power of Darkness,Drama,1887,Russian,24,4,"0,25","0,79","2,11",14,Matryona
+Benito Pérez Galdós,Electra,Drama,1901,Spanish,15,3,"0,53","0,85","1,48",13,Electra
+Arthur Schnitzler,La Ronde,,1903,German,11,5,"0,22","0,15","2,81",3,Graf and Dirne
+Anton Chekhov,The Cherry Orchard,A Comedy,1904,Russian,14,2,"0,73","0,86","1,28",12,Lubov Andreyevna and Lopakhin
+Bertolt Brecht,Mother Courage and Her Children,A Chronicle of the Thirty Years’ War,1941,German,35,3,"0,24","0,89","1,95",30,Mother Courage

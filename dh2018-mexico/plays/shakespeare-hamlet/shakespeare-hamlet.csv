@@ -1,0 +1,193 @@
+Source,Type,Target,Weight
+Bernardo,Undirected,Cornelius,1
+Bernardo,Undirected,Francisco,1
+Bernardo,Undirected,Hamlet,1
+Bernardo,Undirected,Horatio,2
+Bernardo,Undirected,King Claudius,1
+Bernardo,Undirected,Laertes,1
+Bernardo,Undirected,Lord Polonius,1
+Bernardo,Undirected,Marcellus,2
+Bernardo,Undirected,Queen Gertrude,1
+Bernardo,Undirected,Voltimand,1
+Captain,Undirected,Hamlet,1
+Captain,Undirected,Prince Fortinbras,1
+Captain,Undirected,Rosencrantz,1
+Cornelius,Undirected,Hamlet,1
+Cornelius,Undirected,Horatio,1
+Cornelius,Undirected,King Claudius,1
+Cornelius,Undirected,Laertes,1
+Cornelius,Undirected,Lord Polonius,1
+Cornelius,Undirected,Marcellus,1
+Cornelius,Undirected,Queen Gertrude,1
+Cornelius,Undirected,Voltimand,1
+Danes,Undirected,Gentleman,1
+Danes,Undirected,Horatio,1
+Danes,Undirected,King Claudius,1
+Danes,Undirected,Laertes,1
+Danes,Undirected,Ophelia,1
+Danes,Undirected,Queen Gertrude,1
+First Ambassador,Undirected,Hamlet,1
+First Ambassador,Undirected,Horatio,1
+First Ambassador,Undirected,King Claudius,1
+First Ambassador,Undirected,Laertes,1
+First Ambassador,Undirected,Lord,1
+First Ambassador,Undirected,Osric,1
+First Ambassador,Undirected,Prince Fortinbras,1
+First Ambassador,Undirected,Queen Gertrude,1
+First Clown,Undirected,First Priest,1
+First Clown,Undirected,Hamlet,1
+First Clown,Undirected,Horatio,1
+First Clown,Undirected,King Claudius,1
+First Clown,Undirected,Laertes,1
+First Clown,Undirected,Queen Gertrude,1
+First Clown,Undirected,Second Clown,1
+First Player,Undirected,Guildenstern,2
+First Player,Undirected,Hamlet,2
+First Player,Undirected,Horatio,1
+First Player,Undirected,King Claudius,2
+First Player,Undirected,Lord Polonius,2
+First Player,Undirected,Lucianus,1
+First Player,Undirected,Ophelia,1
+First Player,Undirected,Player King,1
+First Player,Undirected,Player Queen,1
+First Player,Undirected,Prologue,1
+First Player,Undirected,Queen Gertrude,2
+First Player,Undirected,Rosencrantz,2
+First Player,Undirected,Voltimand,1
+First Priest,Undirected,Hamlet,1
+First Priest,Undirected,Horatio,1
+First Priest,Undirected,King Claudius,1
+First Priest,Undirected,Laertes,1
+First Priest,Undirected,Queen Gertrude,1
+First Priest,Undirected,Second Clown,1
+First Sailor,Undirected,Horatio,1
+First Sailor,Undirected,Servant,1
+Francisco,Undirected,Horatio,1
+Francisco,Undirected,Marcellus,1
+Gentleman,Undirected,Horatio,1
+Gentleman,Undirected,King Claudius,1
+Gentleman,Undirected,Laertes,1
+Gentleman,Undirected,Ophelia,1
+Gentleman,Undirected,Queen Gertrude,1
+Ghost,Undirected,Hamlet,2
+Ghost,Undirected,Horatio,1
+Ghost,Undirected,Lord Polonius,1
+Ghost,Undirected,Marcellus,1
+Ghost,Undirected,Queen Gertrude,1
+Guildenstern,Undirected,Hamlet,5
+Guildenstern,Undirected,Horatio,1
+Guildenstern,Undirected,King Claudius,4
+Guildenstern,Undirected,Lord Polonius,4
+Guildenstern,Undirected,Lucianus,1
+Guildenstern,Undirected,Ophelia,2
+Guildenstern,Undirected,Player King,1
+Guildenstern,Undirected,Player Queen,1
+Guildenstern,Undirected,Prologue,1
+Guildenstern,Undirected,Queen Gertrude,3
+Guildenstern,Undirected,Rosencrantz,5
+Guildenstern,Undirected,Voltimand,1
+Hamlet,Undirected,Horatio,6
+Hamlet,Undirected,King Claudius,8
+Hamlet,Undirected,Laertes,3
+Hamlet,Undirected,Lord,1
+Hamlet,Undirected,Lord Polonius,6
+Hamlet,Undirected,Lucianus,1
+Hamlet,Undirected,Marcellus,3
+Hamlet,Undirected,Ophelia,2
+Hamlet,Undirected,Osric,1
+Hamlet,Undirected,Player King,1
+Hamlet,Undirected,Player Queen,1
+Hamlet,Undirected,Prince Fortinbras,2
+Hamlet,Undirected,Prologue,1
+Hamlet,Undirected,Queen Gertrude,7
+Hamlet,Undirected,Rosencrantz,7
+Hamlet,Undirected,Second Clown,1
+Hamlet,Undirected,Voltimand,2
+Horatio,Undirected,King Claudius,5
+Horatio,Undirected,Laertes,4
+Horatio,Undirected,Lord,1
+Horatio,Undirected,Lord Polonius,2
+Horatio,Undirected,Lucianus,1
+Horatio,Undirected,Marcellus,4
+Horatio,Undirected,Ophelia,2
+Horatio,Undirected,Osric,1
+Horatio,Undirected,Player King,1
+Horatio,Undirected,Player Queen,1
+Horatio,Undirected,Prince Fortinbras,1
+Horatio,Undirected,Prologue,1
+Horatio,Undirected,Queen Gertrude,5
+Horatio,Undirected,Rosencrantz,1
+Horatio,Undirected,Second Clown,1
+Horatio,Undirected,Servant,1
+Horatio,Undirected,Voltimand,1
+King Claudius,Undirected,Laertes,5
+King Claudius,Undirected,Lord,1
+King Claudius,Undirected,Lord Polonius,5
+King Claudius,Undirected,Lucianus,1
+King Claudius,Undirected,Marcellus,1
+King Claudius,Undirected,Messenger,1
+King Claudius,Undirected,Ophelia,3
+King Claudius,Undirected,Osric,1
+King Claudius,Undirected,Player King,1
+King Claudius,Undirected,Player Queen,1
+King Claudius,Undirected,Prince Fortinbras,1
+King Claudius,Undirected,Prologue,1
+King Claudius,Undirected,Queen Gertrude,9
+King Claudius,Undirected,Rosencrantz,5
+King Claudius,Undirected,Second Clown,1
+King Claudius,Undirected,Voltimand,2
+Laertes,Undirected,Lord,1
+Laertes,Undirected,Lord Polonius,2
+Laertes,Undirected,Marcellus,1
+Laertes,Undirected,Messenger,1
+Laertes,Undirected,Ophelia,2
+Laertes,Undirected,Osric,1
+Laertes,Undirected,Prince Fortinbras,1
+Laertes,Undirected,Queen Gertrude,5
+Laertes,Undirected,Second Clown,1
+Laertes,Undirected,Voltimand,1
+Lord Polonius,Undirected,Lucianus,1
+Lord Polonius,Undirected,Marcellus,1
+Lord Polonius,Undirected,Ophelia,4
+Lord Polonius,Undirected,Player King,1
+Lord Polonius,Undirected,Player Queen,1
+Lord Polonius,Undirected,Prologue,1
+Lord Polonius,Undirected,Queen Gertrude,5
+Lord Polonius,Undirected,Reynaldo,1
+Lord Polonius,Undirected,Rosencrantz,4
+Lord Polonius,Undirected,Voltimand,2
+Lord,Undirected,Osric,1
+Lord,Undirected,Prince Fortinbras,1
+Lord,Undirected,Queen Gertrude,1
+Lucianus,Undirected,Ophelia,1
+Lucianus,Undirected,Player King,1
+Lucianus,Undirected,Player Queen,1
+Lucianus,Undirected,Prologue,1
+Lucianus,Undirected,Queen Gertrude,1
+Lucianus,Undirected,Rosencrantz,1
+Marcellus,Undirected,Queen Gertrude,1
+Marcellus,Undirected,Voltimand,1
+Messenger,Undirected,Queen Gertrude,1
+Ophelia,Undirected,Player King,1
+Ophelia,Undirected,Player Queen,1
+Ophelia,Undirected,Prologue,1
+Ophelia,Undirected,Queen Gertrude,3
+Ophelia,Undirected,Reynaldo,1
+Ophelia,Undirected,Rosencrantz,2
+Osric,Undirected,Prince Fortinbras,1
+Osric,Undirected,Queen Gertrude,1
+Player King,Undirected,Player Queen,1
+Player King,Undirected,Prologue,1
+Player King,Undirected,Queen Gertrude,1
+Player King,Undirected,Rosencrantz,1
+Player Queen,Undirected,Prologue,1
+Player Queen,Undirected,Queen Gertrude,1
+Player Queen,Undirected,Rosencrantz,1
+Prince Fortinbras,Undirected,Queen Gertrude,1
+Prince Fortinbras,Undirected,Rosencrantz,1
+Prologue,Undirected,Queen Gertrude,1
+Prologue,Undirected,Rosencrantz,1
+Queen Gertrude,Undirected,Rosencrantz,3
+Queen Gertrude,Undirected,Second Clown,1
+Queen Gertrude,Undirected,Voltimand,2
+Rosencrantz,Undirected,Voltimand,1

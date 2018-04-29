@@ -1,0 +1,144 @@
+Source,Type,Target,Weight
+Der Bauer (11+12),Undirected,Der Fähnrich,1
+Der Bauer (11+12),Undirected,Der junge Bauer (11),1
+Der Bauer (11+12),Undirected,Die Bäuerin (11+12),2
+Der Bauer (11+12),Undirected,Erster Soldat (11),1
+Der Bauer (11+12),Undirected,Mutter Courage,1
+Der Bauer (11+12),Undirected,Zweiter Soldat (11),1
+Der Feldhauptmann,Undirected,Der Feldprediger,1
+Der Feldhauptmann,Undirected,Der Koch,1
+Der Feldhauptmann,Undirected,Eilif,1
+Der Feldhauptmann,Undirected,Mutter Courage,1
+Der Feldprediger,Undirected,Der Feldwebel (3),1
+Der Feldprediger,Undirected,Der Koch,3
+Der Feldprediger,Undirected,Der Obrist,1
+Der Feldprediger,Undirected,Der Schreiber,1
+Der Feldprediger,Undirected,Der Soldat (3),1
+Der Feldprediger,Undirected,Der Zeugmeister,1
+Der Feldprediger,Undirected,Der junge Mann,1
+Der Feldprediger,Undirected,Der mit der Binde,1
+Der Feldprediger,Undirected,Die Bauersfrau (5),1
+Der Feldprediger,Undirected,Die alte Frau,1
+Der Feldprediger,Undirected,Eilif,2
+Der Feldprediger,Undirected,Ein Bauer (5),1
+Der Feldprediger,Undirected,Ein Soldat (6),1
+Der Feldprediger,Undirected,Ein Soldat (8),1
+Der Feldprediger,Undirected,Erster Soldat (5),1
+Der Feldprediger,Undirected,Mutter Courage,5
+Der Feldprediger,Undirected,Rufe vom Ausschank,1
+Der Feldprediger,Undirected,Schweizerkas,1
+Der Feldprediger,Undirected,Stimme (8),1
+Der Feldprediger,Undirected,Stimmen (8),1
+Der Feldprediger,Undirected,Yvette,2
+Der Feldprediger,Undirected,Zweiter Soldat (5),1
+Der Feldwebel (1),Undirected,Der Werber,1
+Der Feldwebel (1),Undirected,Eilif,1
+Der Feldwebel (1),Undirected,Mutter Courage,1
+Der Feldwebel (1),Undirected,Schweizerkas,1
+Der Feldwebel (3),Undirected,Der Koch,1
+Der Feldwebel (3),Undirected,Der Obrist,1
+Der Feldwebel (3),Undirected,Der Soldat (3),1
+Der Feldwebel (3),Undirected,Der Zeugmeister,1
+Der Feldwebel (3),Undirected,Der mit der Binde,1
+Der Feldwebel (3),Undirected,Mutter Courage,1
+Der Feldwebel (3),Undirected,Schweizerkas,1
+Der Feldwebel (3),Undirected,Yvette,1
+Der Fähnrich,Undirected,Der junge Bauer (11),1
+Der Fähnrich,Undirected,Die Bäuerin (11+12),1
+Der Fähnrich,Undirected,Erster Soldat (11),1
+Der Fähnrich,Undirected,Zweiter Soldat (11),1
+Der Koch,Undirected,Der Obrist,1
+Der Koch,Undirected,Der Soldat (3),1
+Der Koch,Undirected,Der Zeugmeister,1
+Der Koch,Undirected,Der junge Mann,1
+Der Koch,Undirected,Der mit der Binde,1
+Der Koch,Undirected,Die alte Frau,1
+Der Koch,Undirected,Eilif,2
+Der Koch,Undirected,Ein Soldat (8),1
+Der Koch,Undirected,Mutter Courage,4
+Der Koch,Undirected,Schweizerkas,1
+Der Koch,Undirected,Stimme (8),1
+Der Koch,Undirected,Stimme von oben (9),1
+Der Koch,Undirected,Stimmen (8),1
+Der Koch,Undirected,Yvette,2
+Der Obrist,Undirected,Der Soldat (3),1
+Der Obrist,Undirected,Der Zeugmeister,1
+Der Obrist,Undirected,Der mit der Binde,1
+Der Obrist,Undirected,Mutter Courage,1
+Der Obrist,Undirected,Schweizerkas,1
+Der Obrist,Undirected,Yvette,1
+Der Schreiber,Undirected,Ein Soldat (6),1
+Der Schreiber,Undirected,Junger Soldat,1
+Der Schreiber,Undirected,Mutter Courage,2
+Der Schreiber,Undirected,Rufe vom Ausschank,1
+Der Schreiber,Undirected,Älterer Soldat,1
+Der Soldat (3),Undirected,Der Zeugmeister,1
+Der Soldat (3),Undirected,Der mit der Binde,1
+Der Soldat (3),Undirected,Mutter Courage,1
+Der Soldat (3),Undirected,Schweizerkas,1
+Der Soldat (3),Undirected,Yvette,1
+Der Werber,Undirected,Eilif,1
+Der Werber,Undirected,Mutter Courage,1
+Der Werber,Undirected,Schweizerkas,1
+Der Zeugmeister,Undirected,Der mit der Binde,1
+Der Zeugmeister,Undirected,Mutter Courage,1
+Der Zeugmeister,Undirected,Schweizerkas,1
+Der Zeugmeister,Undirected,Yvette,1
+Der junge Bauer (11),Undirected,Die Bäuerin (11+12),1
+Der junge Bauer (11),Undirected,Erster Soldat (11),1
+Der junge Bauer (11),Undirected,Zweiter Soldat (11),1
+Der junge Mann,Undirected,Die alte Frau,1
+Der junge Mann,Undirected,Eilif,1
+Der junge Mann,Undirected,Ein Soldat (8),1
+Der junge Mann,Undirected,Mutter Courage,1
+Der junge Mann,Undirected,Stimme (8),1
+Der junge Mann,Undirected,Stimmen (8),1
+Der junge Mann,Undirected,Yvette,1
+Der mit der Binde,Undirected,Mutter Courage,1
+Der mit der Binde,Undirected,Schweizerkas,1
+Der mit der Binde,Undirected,Yvette,1
+Die Bauersfrau (5),Undirected,Ein Bauer (5),1
+Die Bauersfrau (5),Undirected,Erster Soldat (5),1
+Die Bauersfrau (5),Undirected,Mutter Courage,1
+Die Bauersfrau (5),Undirected,Zweiter Soldat (5),1
+Die Bäuerin (11+12),Undirected,Erster Soldat (11),1
+Die Bäuerin (11+12),Undirected,Mutter Courage,1
+Die Bäuerin (11+12),Undirected,Zweiter Soldat (11),1
+Die alte Frau,Undirected,Eilif,1
+Die alte Frau,Undirected,Ein Soldat (8),1
+Die alte Frau,Undirected,Mutter Courage,1
+Die alte Frau,Undirected,Stimme (8),1
+Die alte Frau,Undirected,Stimmen (8),1
+Die alte Frau,Undirected,Yvette,1
+Eilif,Undirected,Ein Soldat (8),1
+Eilif,Undirected,Mutter Courage,3
+Eilif,Undirected,Schweizerkas,1
+Eilif,Undirected,Stimme (8),1
+Eilif,Undirected,Stimmen (8),1
+Eilif,Undirected,Yvette,1
+Ein Bauer (5),Undirected,Erster Soldat (5),1
+Ein Bauer (5),Undirected,Mutter Courage,1
+Ein Bauer (5),Undirected,Zweiter Soldat (5),1
+Ein Soldat (6),Undirected,Mutter Courage,1
+Ein Soldat (6),Undirected,Rufe vom Ausschank,1
+Ein Soldat (8),Undirected,Mutter Courage,1
+Ein Soldat (8),Undirected,Stimme (8),1
+Ein Soldat (8),Undirected,Stimmen (8),1
+Ein Soldat (8),Undirected,Yvette,1
+Erster Soldat (11),Undirected,Zweiter Soldat (11),1
+Erster Soldat (5),Undirected,Mutter Courage,1
+Erster Soldat (5),Undirected,Zweiter Soldat (5),1
+Junger Soldat,Undirected,Mutter Courage,1
+Junger Soldat,Undirected,Älterer Soldat,1
+Mutter Courage,Undirected,Rufe vom Ausschank,1
+Mutter Courage,Undirected,Schweizerkas,2
+Mutter Courage,Undirected,Stimme (8),1
+Mutter Courage,Undirected,Stimme von oben (9),1
+Mutter Courage,Undirected,Stimmen (8),1
+Mutter Courage,Undirected,Yvette,2
+Mutter Courage,Undirected,Zweiter Soldat (5),1
+Mutter Courage,Undirected,Älterer Soldat,1
+Schweizerkas,Undirected,Yvette,1
+Stimme (8),Undirected,Stimmen (8),1
+Stimme (8),Undirected,Yvette,1
+Stimmen (8),Undirected,Yvette,1

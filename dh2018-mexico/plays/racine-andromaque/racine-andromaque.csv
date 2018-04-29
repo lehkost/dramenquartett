@@ -1,0 +1,13 @@
+Source,Type,Target,Weight
+Andromaque,Undirected,Céphise,4
+Andromaque,Undirected,Hermione,1
+Andromaque,Undirected,Phoenix,1
+Andromaque,Undirected,Pyrrhus,2
+Cléone,Undirected,Hermione,5
+Céphise,Undirected,Phoenix,1
+Céphise,Undirected,Pyrrhus,1
+Hermione,Undirected,Oreste,4
+Hermione,Undirected,Pyrrhus,1
+Oreste,Undirected,Pylade,3
+Oreste,Undirected,Pyrrhus,2
+Phoenix,Undirected,Pyrrhus,4

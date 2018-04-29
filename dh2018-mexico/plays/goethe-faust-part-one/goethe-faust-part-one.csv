@@ -1,0 +1,1350 @@
+Source,Type,Target,Weight
+Alle (Vor dem Tor),Undirected,Alte,1
+Alle (Vor dem Tor),Undirected,Alter Bauer,1
+Alle (Vor dem Tor),Undirected,Andre Handwerksbursche,1
+Alle (Vor dem Tor),Undirected,Andrer Bürger,1
+Alle (Vor dem Tor),Undirected,Andres Dienstmädchen,1
+Alle (Vor dem Tor),Undirected,Bauern,1
+Alle (Vor dem Tor),Undirected,Bauern unter der Linde,1
+Alle (Vor dem Tor),Undirected,Bettler,1
+Alle (Vor dem Tor),Undirected,Bürger,1
+Alle (Vor dem Tor),Undirected,Bürgermädchen,1
+Alle (Vor dem Tor),Undirected,Die Andre,1
+Alle (Vor dem Tor),Undirected,Dritter Bürger,1
+Alle (Vor dem Tor),Undirected,Ein Handwerksbursch,1
+Alle (Vor dem Tor),Undirected,Ein dritter Handwerksbursch,1
+Alle (Vor dem Tor),Undirected,Einige Handwerksbursche,1
+Alle (Vor dem Tor),Undirected,Erster Schüler,1
+Alle (Vor dem Tor),Undirected,Erstes Dienstmädchen,1
+Alle (Vor dem Tor),Undirected,Faust,1
+Alle (Vor dem Tor),Undirected,Fünfter Handwerksbursch,1
+Alle (Vor dem Tor),Undirected,Soldaten,1
+Alle (Vor dem Tor),Undirected,Vierter Handwerksbursch,1
+Alle (Vor dem Tor),Undirected,Wagner,1
+Alle (Vor dem Tor),Undirected,Zweiter Handwerksbursch,1
+Alle (Vor dem Tor),Undirected,Zweiter Schüler,1
+Alter Bauer,Undirected,Andre Handwerksbursche,1
+Alter Bauer,Undirected,Andrer Bürger,1
+Alter Bauer,Undirected,Andres Dienstmädchen,1
+Alter Bauer,Undirected,Bauern,1
+Alter Bauer,Undirected,Bauern unter der Linde,1
+Alter Bauer,Undirected,Bettler,1
+Alter Bauer,Undirected,Bürger,1
+Alter Bauer,Undirected,Bürgermädchen,1
+Alter Bauer,Undirected,Die Andre,1
+Alter Bauer,Undirected,Dritter Bürger,1
+Alter Bauer,Undirected,Ein Handwerksbursch,1
+Alter Bauer,Undirected,Ein dritter Handwerksbursch,1
+Alter Bauer,Undirected,Einige Handwerksbursche,1
+Alter Bauer,Undirected,Erster Schüler,1
+Alter Bauer,Undirected,Erstes Dienstmädchen,1
+Alter Bauer,Undirected,Faust,1
+Alter Bauer,Undirected,Fünfter Handwerksbursch,1
+Alter Bauer,Undirected,Soldaten,1
+Alter Bauer,Undirected,Vierter Handwerksbursch,1
+Alter Bauer,Undirected,Wagner,1
+Alter Bauer,Undirected,Zweiter Handwerksbursch,1
+Alter Bauer,Undirected,Zweiter Schüler,1
+Alte,Undirected,Alter Bauer,1
+Alte,Undirected,Andre Handwerksbursche,1
+Alte,Undirected,Andrer Bürger,1
+Alte,Undirected,Andres Dienstmädchen,1
+Alte,Undirected,Bauern,1
+Alte,Undirected,Bauern unter der Linde,1
+Alte,Undirected,Bettler,1
+Alte,Undirected,Bürger,1
+Alte,Undirected,Bürgermädchen,1
+Alte,Undirected,Die Andre,1
+Alte,Undirected,Dritter Bürger,1
+Alte,Undirected,Ein Handwerksbursch,1
+Alte,Undirected,Ein dritter Handwerksbursch,1
+Alte,Undirected,Einige Handwerksbursche,1
+Alte,Undirected,Erster Schüler,1
+Alte,Undirected,Erstes Dienstmädchen,1
+Alte,Undirected,Faust,1
+Alte,Undirected,Fünfter Handwerksbursch,1
+Alte,Undirected,Soldaten,1
+Alte,Undirected,Vierter Handwerksbursch,1
+Alte,Undirected,Wagner,1
+Alte,Undirected,Zweiter Handwerksbursch,1
+Alte,Undirected,Zweiter Schüler,1
+Altmayer,Undirected,Brander,1
+Altmayer,Undirected,Faust,1
+Altmayer,Undirected,Frosch,1
+Altmayer,Undirected,Mephistopheles,1
+Altmayer,Undirected,Siebel,1
+Andre Handwerksbursche,Undirected,Andrer Bürger,1
+Andre Handwerksbursche,Undirected,Andres Dienstmädchen,1
+Andre Handwerksbursche,Undirected,Bauern,1
+Andre Handwerksbursche,Undirected,Bauern unter der Linde,1
+Andre Handwerksbursche,Undirected,Bettler,1
+Andre Handwerksbursche,Undirected,Bürger,1
+Andre Handwerksbursche,Undirected,Bürgermädchen,1
+Andre Handwerksbursche,Undirected,Die Andre,1
+Andre Handwerksbursche,Undirected,Dritter Bürger,1
+Andre Handwerksbursche,Undirected,Ein Handwerksbursch,1
+Andre Handwerksbursche,Undirected,Ein dritter Handwerksbursch,1
+Andre Handwerksbursche,Undirected,Einige Handwerksbursche,1
+Andre Handwerksbursche,Undirected,Erster Schüler,1
+Andre Handwerksbursche,Undirected,Erstes Dienstmädchen,1
+Andre Handwerksbursche,Undirected,Faust,1
+Andre Handwerksbursche,Undirected,Fünfter Handwerksbursch,1
+Andre Handwerksbursche,Undirected,Soldaten,1
+Andre Handwerksbursche,Undirected,Vierter Handwerksbursch,1
+Andre Handwerksbursche,Undirected,Wagner,1
+Andre Handwerksbursche,Undirected,Zweiter Handwerksbursch,1
+Andre Handwerksbursche,Undirected,Zweiter Schüler,1
+Andrer Bürger,Undirected,Andres Dienstmädchen,1
+Andrer Bürger,Undirected,Bauern,1
+Andrer Bürger,Undirected,Bauern unter der Linde,1
+Andrer Bürger,Undirected,Bettler,1
+Andrer Bürger,Undirected,Bürger,1
+Andrer Bürger,Undirected,Bürgermädchen,1
+Andrer Bürger,Undirected,Die Andre,1
+Andrer Bürger,Undirected,Dritter Bürger,1
+Andrer Bürger,Undirected,Ein Handwerksbursch,1
+Andrer Bürger,Undirected,Ein dritter Handwerksbursch,1
+Andrer Bürger,Undirected,Einige Handwerksbursche,1
+Andrer Bürger,Undirected,Erster Schüler,1
+Andrer Bürger,Undirected,Erstes Dienstmädchen,1
+Andrer Bürger,Undirected,Faust,1
+Andrer Bürger,Undirected,Fünfter Handwerksbursch,1
+Andrer Bürger,Undirected,Soldaten,1
+Andrer Bürger,Undirected,Vierter Handwerksbursch,1
+Andrer Bürger,Undirected,Wagner,1
+Andrer Bürger,Undirected,Zweiter Handwerksbursch,1
+Andrer Bürger,Undirected,Zweiter Schüler,1
+Andres Dienstmädchen,Undirected,Bauern,1
+Andres Dienstmädchen,Undirected,Bauern unter der Linde,1
+Andres Dienstmädchen,Undirected,Bettler,1
+Andres Dienstmädchen,Undirected,Bürger,1
+Andres Dienstmädchen,Undirected,Bürgermädchen,1
+Andres Dienstmädchen,Undirected,Die Andre,1
+Andres Dienstmädchen,Undirected,Dritter Bürger,1
+Andres Dienstmädchen,Undirected,Ein Handwerksbursch,1
+Andres Dienstmädchen,Undirected,Ein dritter Handwerksbursch,1
+Andres Dienstmädchen,Undirected,Einige Handwerksbursche,1
+Andres Dienstmädchen,Undirected,Erster Schüler,1
+Andres Dienstmädchen,Undirected,Erstes Dienstmädchen,1
+Andres Dienstmädchen,Undirected,Faust,1
+Andres Dienstmädchen,Undirected,Fünfter Handwerksbursch,1
+Andres Dienstmädchen,Undirected,Soldaten,1
+Andres Dienstmädchen,Undirected,Vierter Handwerksbursch,1
+Andres Dienstmädchen,Undirected,Wagner,1
+Andres Dienstmädchen,Undirected,Zweiter Handwerksbursch,1
+Andres Dienstmädchen,Undirected,Zweiter Schüler,1
+Ariel,Undirected,Ci-Devant Genius der Zeit,1
+Ariel,Undirected,Die Gewandten,1
+Ariel,Undirected,Die Massiven,1
+Ariel,Undirected,Die Unbehülflichen,1
+Ariel,Undirected,Dogmatiker,1
+Ariel,Undirected,Ein Pärchen,1
+Ariel,Undirected,Fideler,1
+Ariel,Undirected,Geist der sich erst bildet,1
+Ariel,Undirected,Hennings,1
+Ariel,Undirected,Herold,1
+Ariel,Undirected,Idealist,1
+Ariel,Undirected,Irrlichter,1
+Ariel,Undirected,Junge Hexe,1
+Ariel,Undirected,Kapellmeister,1
+Ariel,Undirected,Kranich,1
+Ariel,Undirected,Matrone,1
+Ariel,Undirected,Musaget,1
+Ariel,Undirected,Neugieriger Reisender,1
+Ariel,Undirected,Nordischer Künstler,1
+Ariel,Undirected,Oberon,1
+Ariel,Undirected,Orchester,1
+Ariel,Undirected,Orthodox,1
+Ariel,Undirected,Puck,1
+Ariel,Undirected,Purist,1
+Ariel,Undirected,Realist,1
+Ariel,Undirected,Skeptiker,1
+Ariel,Undirected,Solo,1
+Ariel,Undirected,Sternschnuppe,1
+Ariel,Undirected,Supernaturalist,1
+Ariel,Undirected,Tanzmeister,1
+Ariel,Undirected,Theatermeister,1
+Ariel,Undirected,Titania,1
+Ariel,Undirected,Tänzer,1
+Ariel,Undirected,Weltkind,1
+Ariel,Undirected,Windfahne,1
+Ariel,Undirected,Xenien,1
+Autor,Undirected,Die Alte,1
+Autor,Undirected,Die Schöne,1
+Autor,Undirected,Faust,1
+Autor,Undirected,General,1
+Autor,Undirected,Halbhexe,1
+Autor,Undirected,Hexen,1
+Autor,Undirected,Hexenmeister,1
+Autor,Undirected,Irrlicht,1
+Autor,Undirected,Mephistopheles,1
+Autor,Undirected,Minister,1
+Autor,Undirected,Parvenu,1
+Autor,Undirected,Proktophantasmist,1
+Autor,Undirected,Servibilis,1
+Autor,Undirected,Stimme 1,1
+Autor,Undirected,Stimme 2,1
+Autor,Undirected,Stimme 3,1
+Autor,Undirected,Stimme 4,1
+Autor,Undirected,Stimme 5,1
+Autor,Undirected,Stimme 6,1
+Autor,Undirected,Stimme 7,1
+Autor,Undirected,Stimme 8,1
+Autor,Undirected,Stimme 9,1
+Autor,Undirected,Stimmen,1
+Autor,Undirected,Trödelhexe,1
+Bauern unter der Linde,Undirected,Bettler,1
+Bauern unter der Linde,Undirected,Bürger,1
+Bauern unter der Linde,Undirected,Bürgermädchen,1
+Bauern unter der Linde,Undirected,Die Andre,1
+Bauern unter der Linde,Undirected,Dritter Bürger,1
+Bauern unter der Linde,Undirected,Ein Handwerksbursch,1
+Bauern unter der Linde,Undirected,Ein dritter Handwerksbursch,1
+Bauern unter der Linde,Undirected,Einige Handwerksbursche,1
+Bauern unter der Linde,Undirected,Erster Schüler,1
+Bauern unter der Linde,Undirected,Erstes Dienstmädchen,1
+Bauern unter der Linde,Undirected,Faust,1
+Bauern unter der Linde,Undirected,Fünfter Handwerksbursch,1
+Bauern unter der Linde,Undirected,Soldaten,1
+Bauern unter der Linde,Undirected,Vierter Handwerksbursch,1
+Bauern unter der Linde,Undirected,Wagner,1
+Bauern unter der Linde,Undirected,Zweiter Handwerksbursch,1
+Bauern unter der Linde,Undirected,Zweiter Schüler,1
+Bauern,Undirected,Bauern unter der Linde,1
+Bauern,Undirected,Bettler,1
+Bauern,Undirected,Bürger,1
+Bauern,Undirected,Bürgermädchen,1
+Bauern,Undirected,Die Andre,1
+Bauern,Undirected,Dritter Bürger,1
+Bauern,Undirected,Ein Handwerksbursch,1
+Bauern,Undirected,Ein dritter Handwerksbursch,1
+Bauern,Undirected,Einige Handwerksbursche,1
+Bauern,Undirected,Erster Schüler,1
+Bauern,Undirected,Erstes Dienstmädchen,1
+Bauern,Undirected,Faust,1
+Bauern,Undirected,Fünfter Handwerksbursch,1
+Bauern,Undirected,Soldaten,1
+Bauern,Undirected,Vierter Handwerksbursch,1
+Bauern,Undirected,Wagner,1
+Bauern,Undirected,Zweiter Handwerksbursch,1
+Bauern,Undirected,Zweiter Schüler,1
+Bettler,Undirected,Bürger,1
+Bettler,Undirected,Bürgermädchen,1
+Bettler,Undirected,Die Andre,1
+Bettler,Undirected,Dritter Bürger,1
+Bettler,Undirected,Ein Handwerksbursch,1
+Bettler,Undirected,Ein dritter Handwerksbursch,1
+Bettler,Undirected,Einige Handwerksbursche,1
+Bettler,Undirected,Erster Schüler,1
+Bettler,Undirected,Erstes Dienstmädchen,1
+Bettler,Undirected,Faust,1
+Bettler,Undirected,Fünfter Handwerksbursch,1
+Bettler,Undirected,Soldaten,1
+Bettler,Undirected,Vierter Handwerksbursch,1
+Bettler,Undirected,Wagner,1
+Bettler,Undirected,Zweiter Handwerksbursch,1
+Bettler,Undirected,Zweiter Schüler,1
+Brander,Undirected,Faust,1
+Brander,Undirected,Frosch,1
+Brander,Undirected,Mephistopheles,1
+Brander,Undirected,Siebel,1
+Böser Geist,Undirected,Chor im Dom,1
+Böser Geist,Undirected,Gretchen,1
+Bürgermädchen,Undirected,Die Andre,1
+Bürgermädchen,Undirected,Dritter Bürger,1
+Bürgermädchen,Undirected,Ein Handwerksbursch,1
+Bürgermädchen,Undirected,Ein dritter Handwerksbursch,1
+Bürgermädchen,Undirected,Einige Handwerksbursche,1
+Bürgermädchen,Undirected,Erster Schüler,1
+Bürgermädchen,Undirected,Erstes Dienstmädchen,1
+Bürgermädchen,Undirected,Faust,1
+Bürgermädchen,Undirected,Fünfter Handwerksbursch,1
+Bürgermädchen,Undirected,Soldaten,1
+Bürgermädchen,Undirected,Vierter Handwerksbursch,1
+Bürgermädchen,Undirected,Wagner,1
+Bürgermädchen,Undirected,Zweiter Handwerksbursch,1
+Bürgermädchen,Undirected,Zweiter Schüler,1
+Bürger,Undirected,Bürgermädchen,1
+Bürger,Undirected,Die Andre,1
+Bürger,Undirected,Dritter Bürger,1
+Bürger,Undirected,Ein Handwerksbursch,1
+Bürger,Undirected,Ein dritter Handwerksbursch,1
+Bürger,Undirected,Einige Handwerksbursche,1
+Bürger,Undirected,Erster Schüler,1
+Bürger,Undirected,Erstes Dienstmädchen,1
+Bürger,Undirected,Faust,1
+Bürger,Undirected,Fünfter Handwerksbursch,1
+Bürger,Undirected,Soldaten,1
+Bürger,Undirected,Vierter Handwerksbursch,1
+Bürger,Undirected,Wagner,1
+Bürger,Undirected,Zweiter Handwerksbursch,1
+Bürger,Undirected,Zweiter Schüler,1
+Chor der Engel,Undirected,Chor der Jünger,1
+Chor der Engel,Undirected,Chor der Weiber,1
+Chor der Engel,Undirected,Faust,1
+Chor der Engel,Undirected,Geist,1
+Chor der Engel,Undirected,Wagner,1
+Chor der Jünger,Undirected,Chor der Weiber,1
+Chor der Jünger,Undirected,Faust,1
+Chor der Jünger,Undirected,Geist,1
+Chor der Jünger,Undirected,Wagner,1
+Chor der Weiber,Undirected,Faust,1
+Chor der Weiber,Undirected,Geist,1
+Chor der Weiber,Undirected,Wagner,1
+Chor im Dom,Undirected,Gretchen,1
+Ci-Devant Genius der Zeit,Undirected,Die Gewandten,1
+Ci-Devant Genius der Zeit,Undirected,Die Massiven,1
+Ci-Devant Genius der Zeit,Undirected,Die Unbehülflichen,1
+Ci-Devant Genius der Zeit,Undirected,Dogmatiker,1
+Ci-Devant Genius der Zeit,Undirected,Ein Pärchen,1
+Ci-Devant Genius der Zeit,Undirected,Fideler,1
+Ci-Devant Genius der Zeit,Undirected,Geist der sich erst bildet,1
+Ci-Devant Genius der Zeit,Undirected,Hennings,1
+Ci-Devant Genius der Zeit,Undirected,Herold,1
+Ci-Devant Genius der Zeit,Undirected,Idealist,1
+Ci-Devant Genius der Zeit,Undirected,Irrlichter,1
+Ci-Devant Genius der Zeit,Undirected,Junge Hexe,1
+Ci-Devant Genius der Zeit,Undirected,Kapellmeister,1
+Ci-Devant Genius der Zeit,Undirected,Kranich,1
+Ci-Devant Genius der Zeit,Undirected,Matrone,1
+Ci-Devant Genius der Zeit,Undirected,Musaget,1
+Ci-Devant Genius der Zeit,Undirected,Neugieriger Reisender,1
+Ci-Devant Genius der Zeit,Undirected,Nordischer Künstler,1
+Ci-Devant Genius der Zeit,Undirected,Oberon,1
+Ci-Devant Genius der Zeit,Undirected,Orchester,1
+Ci-Devant Genius der Zeit,Undirected,Orthodox,1
+Ci-Devant Genius der Zeit,Undirected,Puck,1
+Ci-Devant Genius der Zeit,Undirected,Purist,1
+Ci-Devant Genius der Zeit,Undirected,Realist,1
+Ci-Devant Genius der Zeit,Undirected,Skeptiker,1
+Ci-Devant Genius der Zeit,Undirected,Solo,1
+Ci-Devant Genius der Zeit,Undirected,Sternschnuppe,1
+Ci-Devant Genius der Zeit,Undirected,Supernaturalist,1
+Ci-Devant Genius der Zeit,Undirected,Tanzmeister,1
+Ci-Devant Genius der Zeit,Undirected,Theatermeister,1
+Ci-Devant Genius der Zeit,Undirected,Titania,1
+Ci-Devant Genius der Zeit,Undirected,Tänzer,1
+Ci-Devant Genius der Zeit,Undirected,Weltkind,1
+Ci-Devant Genius der Zeit,Undirected,Windfahne,1
+Ci-Devant Genius der Zeit,Undirected,Xenien,1
+Der Herr,Undirected,Gabriel,1
+Der Herr,Undirected,Mephistopheles,1
+Der Herr,Undirected,Michael,1
+Der Herr,Undirected,Raphael,1
+Der Kater,Undirected,Die Hexe,1
+Der Kater,Undirected,Die Kätzin,1
+Der Kater,Undirected,Die Tiere,1
+Der Kater,Undirected,Faust,1
+Der Kater,Undirected,Mephistopheles,1
+Dichter,Undirected,Direktor,1
+Dichter,Undirected,Lustige Person,1
+Die Alte,Undirected,Die Schöne,1
+Die Alte,Undirected,Faust,1
+Die Alte,Undirected,General,1
+Die Alte,Undirected,Halbhexe,1
+Die Alte,Undirected,Hexen,1
+Die Alte,Undirected,Hexenmeister,1
+Die Alte,Undirected,Irrlicht,1
+Die Alte,Undirected,Mephistopheles,1
+Die Alte,Undirected,Minister,1
+Die Alte,Undirected,Parvenu,1
+Die Alte,Undirected,Proktophantasmist,1
+Die Alte,Undirected,Servibilis,1
+Die Alte,Undirected,Stimme 1,1
+Die Alte,Undirected,Stimme 2,1
+Die Alte,Undirected,Stimme 3,1
+Die Alte,Undirected,Stimme 4,1
+Die Alte,Undirected,Stimme 5,1
+Die Alte,Undirected,Stimme 6,1
+Die Alte,Undirected,Stimme 7,1
+Die Alte,Undirected,Stimme 8,1
+Die Alte,Undirected,Stimme 9,1
+Die Alte,Undirected,Stimmen,1
+Die Alte,Undirected,Trödelhexe,1
+Die Andre,Undirected,Dritter Bürger,1
+Die Andre,Undirected,Ein Handwerksbursch,1
+Die Andre,Undirected,Ein dritter Handwerksbursch,1
+Die Andre,Undirected,Einige Handwerksbursche,1
+Die Andre,Undirected,Erster Schüler,1
+Die Andre,Undirected,Erstes Dienstmädchen,1
+Die Andre,Undirected,Faust,1
+Die Andre,Undirected,Fünfter Handwerksbursch,1
+Die Andre,Undirected,Soldaten,1
+Die Andre,Undirected,Vierter Handwerksbursch,1
+Die Andre,Undirected,Wagner,1
+Die Andre,Undirected,Zweiter Handwerksbursch,1
+Die Andre,Undirected,Zweiter Schüler,1
+Die Gewandten,Undirected,Die Massiven,1
+Die Gewandten,Undirected,Die Unbehülflichen,1
+Die Gewandten,Undirected,Dogmatiker,1
+Die Gewandten,Undirected,Ein Pärchen,1
+Die Gewandten,Undirected,Fideler,1
+Die Gewandten,Undirected,Geist der sich erst bildet,1
+Die Gewandten,Undirected,Hennings,1
+Die Gewandten,Undirected,Herold,1
+Die Gewandten,Undirected,Idealist,1
+Die Gewandten,Undirected,Irrlichter,1
+Die Gewandten,Undirected,Junge Hexe,1
+Die Gewandten,Undirected,Kapellmeister,1
+Die Gewandten,Undirected,Kranich,1
+Die Gewandten,Undirected,Matrone,1
+Die Gewandten,Undirected,Musaget,1
+Die Gewandten,Undirected,Neugieriger Reisender,1
+Die Gewandten,Undirected,Nordischer Künstler,1
+Die Gewandten,Undirected,Oberon,1
+Die Gewandten,Undirected,Orchester,1
+Die Gewandten,Undirected,Orthodox,1
+Die Gewandten,Undirected,Puck,1
+Die Gewandten,Undirected,Purist,1
+Die Gewandten,Undirected,Realist,1
+Die Gewandten,Undirected,Skeptiker,1
+Die Gewandten,Undirected,Solo,1
+Die Gewandten,Undirected,Sternschnuppe,1
+Die Gewandten,Undirected,Supernaturalist,1
+Die Gewandten,Undirected,Tanzmeister,1
+Die Gewandten,Undirected,Theatermeister,1
+Die Gewandten,Undirected,Titania,1
+Die Gewandten,Undirected,Tänzer,1
+Die Gewandten,Undirected,Weltkind,1
+Die Gewandten,Undirected,Windfahne,1
+Die Gewandten,Undirected,Xenien,1
+Die Hexe,Undirected,Die Kätzin,1
+Die Hexe,Undirected,Die Tiere,1
+Die Hexe,Undirected,Faust,1
+Die Hexe,Undirected,Mephistopheles,1
+Die Kätzin,Undirected,Die Tiere,1
+Die Kätzin,Undirected,Faust,1
+Die Kätzin,Undirected,Mephistopheles,1
+Die Massiven,Undirected,Die Unbehülflichen,1
+Die Massiven,Undirected,Dogmatiker,1
+Die Massiven,Undirected,Ein Pärchen,1
+Die Massiven,Undirected,Fideler,1
+Die Massiven,Undirected,Geist der sich erst bildet,1
+Die Massiven,Undirected,Hennings,1
+Die Massiven,Undirected,Herold,1
+Die Massiven,Undirected,Idealist,1
+Die Massiven,Undirected,Irrlichter,1
+Die Massiven,Undirected,Junge Hexe,1
+Die Massiven,Undirected,Kapellmeister,1
+Die Massiven,Undirected,Kranich,1
+Die Massiven,Undirected,Matrone,1
+Die Massiven,Undirected,Musaget,1
+Die Massiven,Undirected,Neugieriger Reisender,1
+Die Massiven,Undirected,Nordischer Künstler,1
+Die Massiven,Undirected,Oberon,1
+Die Massiven,Undirected,Orchester,1
+Die Massiven,Undirected,Orthodox,1
+Die Massiven,Undirected,Puck,1
+Die Massiven,Undirected,Purist,1
+Die Massiven,Undirected,Realist,1
+Die Massiven,Undirected,Skeptiker,1
+Die Massiven,Undirected,Solo,1
+Die Massiven,Undirected,Sternschnuppe,1
+Die Massiven,Undirected,Supernaturalist,1
+Die Massiven,Undirected,Tanzmeister,1
+Die Massiven,Undirected,Theatermeister,1
+Die Massiven,Undirected,Titania,1
+Die Massiven,Undirected,Tänzer,1
+Die Massiven,Undirected,Weltkind,1
+Die Massiven,Undirected,Windfahne,1
+Die Massiven,Undirected,Xenien,1
+Die Schöne,Undirected,Faust,1
+Die Schöne,Undirected,General,1
+Die Schöne,Undirected,Halbhexe,1
+Die Schöne,Undirected,Hexen,1
+Die Schöne,Undirected,Hexenmeister,1
+Die Schöne,Undirected,Irrlicht,1
+Die Schöne,Undirected,Mephistopheles,1
+Die Schöne,Undirected,Minister,1
+Die Schöne,Undirected,Parvenu,1
+Die Schöne,Undirected,Proktophantasmist,1
+Die Schöne,Undirected,Servibilis,1
+Die Schöne,Undirected,Stimme 1,1
+Die Schöne,Undirected,Stimme 2,1
+Die Schöne,Undirected,Stimme 3,1
+Die Schöne,Undirected,Stimme 4,1
+Die Schöne,Undirected,Stimme 5,1
+Die Schöne,Undirected,Stimme 6,1
+Die Schöne,Undirected,Stimme 7,1
+Die Schöne,Undirected,Stimme 8,1
+Die Schöne,Undirected,Stimme 9,1
+Die Schöne,Undirected,Stimmen,1
+Die Schöne,Undirected,Trödelhexe,1
+Die Tiere,Undirected,Faust,1
+Die Tiere,Undirected,Mephistopheles,1
+Die Unbehülflichen,Undirected,Dogmatiker,1
+Die Unbehülflichen,Undirected,Ein Pärchen,1
+Die Unbehülflichen,Undirected,Fideler,1
+Die Unbehülflichen,Undirected,Geist der sich erst bildet,1
+Die Unbehülflichen,Undirected,Hennings,1
+Die Unbehülflichen,Undirected,Herold,1
+Die Unbehülflichen,Undirected,Idealist,1
+Die Unbehülflichen,Undirected,Irrlichter,1
+Die Unbehülflichen,Undirected,Junge Hexe,1
+Die Unbehülflichen,Undirected,Kapellmeister,1
+Die Unbehülflichen,Undirected,Kranich,1
+Die Unbehülflichen,Undirected,Matrone,1
+Die Unbehülflichen,Undirected,Musaget,1
+Die Unbehülflichen,Undirected,Neugieriger Reisender,1
+Die Unbehülflichen,Undirected,Nordischer Künstler,1
+Die Unbehülflichen,Undirected,Oberon,1
+Die Unbehülflichen,Undirected,Orchester,1
+Die Unbehülflichen,Undirected,Orthodox,1
+Die Unbehülflichen,Undirected,Puck,1
+Die Unbehülflichen,Undirected,Purist,1
+Die Unbehülflichen,Undirected,Realist,1
+Die Unbehülflichen,Undirected,Skeptiker,1
+Die Unbehülflichen,Undirected,Solo,1
+Die Unbehülflichen,Undirected,Sternschnuppe,1
+Die Unbehülflichen,Undirected,Supernaturalist,1
+Die Unbehülflichen,Undirected,Tanzmeister,1
+Die Unbehülflichen,Undirected,Theatermeister,1
+Die Unbehülflichen,Undirected,Titania,1
+Die Unbehülflichen,Undirected,Tänzer,1
+Die Unbehülflichen,Undirected,Weltkind,1
+Die Unbehülflichen,Undirected,Windfahne,1
+Die Unbehülflichen,Undirected,Xenien,1
+Direktor,Undirected,Lustige Person,1
+Dogmatiker,Undirected,Ein Pärchen,1
+Dogmatiker,Undirected,Fideler,1
+Dogmatiker,Undirected,Geist der sich erst bildet,1
+Dogmatiker,Undirected,Hennings,1
+Dogmatiker,Undirected,Herold,1
+Dogmatiker,Undirected,Idealist,1
+Dogmatiker,Undirected,Irrlichter,1
+Dogmatiker,Undirected,Junge Hexe,1
+Dogmatiker,Undirected,Kapellmeister,1
+Dogmatiker,Undirected,Kranich,1
+Dogmatiker,Undirected,Matrone,1
+Dogmatiker,Undirected,Musaget,1
+Dogmatiker,Undirected,Neugieriger Reisender,1
+Dogmatiker,Undirected,Nordischer Künstler,1
+Dogmatiker,Undirected,Oberon,1
+Dogmatiker,Undirected,Orchester,1
+Dogmatiker,Undirected,Orthodox,1
+Dogmatiker,Undirected,Puck,1
+Dogmatiker,Undirected,Purist,1
+Dogmatiker,Undirected,Realist,1
+Dogmatiker,Undirected,Skeptiker,1
+Dogmatiker,Undirected,Solo,1
+Dogmatiker,Undirected,Sternschnuppe,1
+Dogmatiker,Undirected,Supernaturalist,1
+Dogmatiker,Undirected,Tanzmeister,1
+Dogmatiker,Undirected,Theatermeister,1
+Dogmatiker,Undirected,Titania,1
+Dogmatiker,Undirected,Tänzer,1
+Dogmatiker,Undirected,Weltkind,1
+Dogmatiker,Undirected,Windfahne,1
+Dogmatiker,Undirected,Xenien,1
+Dritter Bürger,Undirected,Ein Handwerksbursch,1
+Dritter Bürger,Undirected,Ein dritter Handwerksbursch,1
+Dritter Bürger,Undirected,Einige Handwerksbursche,1
+Dritter Bürger,Undirected,Erster Schüler,1
+Dritter Bürger,Undirected,Erstes Dienstmädchen,1
+Dritter Bürger,Undirected,Faust,1
+Dritter Bürger,Undirected,Fünfter Handwerksbursch,1
+Dritter Bürger,Undirected,Soldaten,1
+Dritter Bürger,Undirected,Vierter Handwerksbursch,1
+Dritter Bürger,Undirected,Wagner,1
+Dritter Bürger,Undirected,Zweiter Handwerksbursch,1
+Dritter Bürger,Undirected,Zweiter Schüler,1
+Ein Handwerksbursch,Undirected,Ein dritter Handwerksbursch,1
+Ein Handwerksbursch,Undirected,Einige Handwerksbursche,1
+Ein Handwerksbursch,Undirected,Erster Schüler,1
+Ein Handwerksbursch,Undirected,Erstes Dienstmädchen,1
+Ein Handwerksbursch,Undirected,Faust,1
+Ein Handwerksbursch,Undirected,Fünfter Handwerksbursch,1
+Ein Handwerksbursch,Undirected,Soldaten,1
+Ein Handwerksbursch,Undirected,Vierter Handwerksbursch,1
+Ein Handwerksbursch,Undirected,Wagner,1
+Ein Handwerksbursch,Undirected,Zweiter Handwerksbursch,1
+Ein Handwerksbursch,Undirected,Zweiter Schüler,1
+Ein Pärchen,Undirected,Fideler,1
+Ein Pärchen,Undirected,Geist der sich erst bildet,1
+Ein Pärchen,Undirected,Hennings,1
+Ein Pärchen,Undirected,Herold,1
+Ein Pärchen,Undirected,Idealist,1
+Ein Pärchen,Undirected,Irrlichter,1
+Ein Pärchen,Undirected,Junge Hexe,1
+Ein Pärchen,Undirected,Kapellmeister,1
+Ein Pärchen,Undirected,Kranich,1
+Ein Pärchen,Undirected,Matrone,1
+Ein Pärchen,Undirected,Musaget,1
+Ein Pärchen,Undirected,Neugieriger Reisender,1
+Ein Pärchen,Undirected,Nordischer Künstler,1
+Ein Pärchen,Undirected,Oberon,1
+Ein Pärchen,Undirected,Orchester,1
+Ein Pärchen,Undirected,Orthodox,1
+Ein Pärchen,Undirected,Puck,1
+Ein Pärchen,Undirected,Purist,1
+Ein Pärchen,Undirected,Realist,1
+Ein Pärchen,Undirected,Skeptiker,1
+Ein Pärchen,Undirected,Solo,1
+Ein Pärchen,Undirected,Sternschnuppe,1
+Ein Pärchen,Undirected,Supernaturalist,1
+Ein Pärchen,Undirected,Tanzmeister,1
+Ein Pärchen,Undirected,Theatermeister,1
+Ein Pärchen,Undirected,Titania,1
+Ein Pärchen,Undirected,Tänzer,1
+Ein Pärchen,Undirected,Weltkind,1
+Ein Pärchen,Undirected,Windfahne,1
+Ein Pärchen,Undirected,Xenien,1
+Ein dritter Handwerksbursch,Undirected,Einige Handwerksbursche,1
+Ein dritter Handwerksbursch,Undirected,Erster Schüler,1
+Ein dritter Handwerksbursch,Undirected,Erstes Dienstmädchen,1
+Ein dritter Handwerksbursch,Undirected,Faust,1
+Ein dritter Handwerksbursch,Undirected,Fünfter Handwerksbursch,1
+Ein dritter Handwerksbursch,Undirected,Soldaten,1
+Ein dritter Handwerksbursch,Undirected,Vierter Handwerksbursch,1
+Ein dritter Handwerksbursch,Undirected,Wagner,1
+Ein dritter Handwerksbursch,Undirected,Zweiter Handwerksbursch,1
+Ein dritter Handwerksbursch,Undirected,Zweiter Schüler,1
+Einige Handwerksbursche,Undirected,Erster Schüler,1
+Einige Handwerksbursche,Undirected,Erstes Dienstmädchen,1
+Einige Handwerksbursche,Undirected,Faust,1
+Einige Handwerksbursche,Undirected,Fünfter Handwerksbursch,1
+Einige Handwerksbursche,Undirected,Soldaten,1
+Einige Handwerksbursche,Undirected,Vierter Handwerksbursch,1
+Einige Handwerksbursche,Undirected,Wagner,1
+Einige Handwerksbursche,Undirected,Zweiter Handwerksbursch,1
+Einige Handwerksbursche,Undirected,Zweiter Schüler,1
+Erster Schüler,Undirected,Erstes Dienstmädchen,1
+Erster Schüler,Undirected,Faust,1
+Erster Schüler,Undirected,Fünfter Handwerksbursch,1
+Erster Schüler,Undirected,Soldaten,1
+Erster Schüler,Undirected,Vierter Handwerksbursch,1
+Erster Schüler,Undirected,Wagner,1
+Erster Schüler,Undirected,Zweiter Handwerksbursch,1
+Erster Schüler,Undirected,Zweiter Schüler,1
+Erstes Dienstmädchen,Undirected,Faust,1
+Erstes Dienstmädchen,Undirected,Fünfter Handwerksbursch,1
+Erstes Dienstmädchen,Undirected,Soldaten,1
+Erstes Dienstmädchen,Undirected,Vierter Handwerksbursch,1
+Erstes Dienstmädchen,Undirected,Wagner,1
+Erstes Dienstmädchen,Undirected,Zweiter Handwerksbursch,1
+Erstes Dienstmädchen,Undirected,Zweiter Schüler,1
+Faust,Undirected,Frosch,1
+Faust,Undirected,Fünfter Handwerksbursch,1
+Faust,Undirected,Geist,1
+Faust,Undirected,Geister,1
+Faust,Undirected,Geisterchor,1
+Faust,Undirected,General,1
+Faust,Undirected,Gretchen,7
+Faust,Undirected,Halbhexe,1
+Faust,Undirected,Hexen,1
+Faust,Undirected,Hexenmeister,1
+Faust,Undirected,Irrlicht,1
+Faust,Undirected,Marthe,3
+Faust,Undirected,Mephistopheles,17
+Faust,Undirected,Minister,1
+Faust,Undirected,Parvenu,1
+Faust,Undirected,Proktophantasmist,1
+Faust,Undirected,Schüler,1
+Faust,Undirected,Servibilis,1
+Faust,Undirected,Siebel,1
+Faust,Undirected,Soldaten,1
+Faust,Undirected,Stimme 1,1
+Faust,Undirected,Stimme 2,1
+Faust,Undirected,Stimme 3,1
+Faust,Undirected,Stimme 4,1
+Faust,Undirected,Stimme 5,1
+Faust,Undirected,Stimme 6,1
+Faust,Undirected,Stimme 7,1
+Faust,Undirected,Stimme 8,1
+Faust,Undirected,Stimme 9,1
+Faust,Undirected,Stimme von oben,1
+Faust,Undirected,Stimmen,1
+Faust,Undirected,Trödelhexe,1
+Faust,Undirected,Valentin,1
+Faust,Undirected,Vierter Handwerksbursch,1
+Faust,Undirected,Volk,1
+Faust,Undirected,Wagner,2
+Faust,Undirected,Zweiter Handwerksbursch,1
+Faust,Undirected,Zweiter Schüler,1
+Fideler,Undirected,Geist der sich erst bildet,1
+Fideler,Undirected,Hennings,1
+Fideler,Undirected,Herold,1
+Fideler,Undirected,Idealist,1
+Fideler,Undirected,Irrlichter,1
+Fideler,Undirected,Junge Hexe,1
+Fideler,Undirected,Kapellmeister,1
+Fideler,Undirected,Kranich,1
+Fideler,Undirected,Matrone,1
+Fideler,Undirected,Musaget,1
+Fideler,Undirected,Neugieriger Reisender,1
+Fideler,Undirected,Nordischer Künstler,1
+Fideler,Undirected,Oberon,1
+Fideler,Undirected,Orchester,1
+Fideler,Undirected,Orthodox,1
+Fideler,Undirected,Puck,1
+Fideler,Undirected,Purist,1
+Fideler,Undirected,Realist,1
+Fideler,Undirected,Skeptiker,1
+Fideler,Undirected,Solo,1
+Fideler,Undirected,Sternschnuppe,1
+Fideler,Undirected,Supernaturalist,1
+Fideler,Undirected,Tanzmeister,1
+Fideler,Undirected,Theatermeister,1
+Fideler,Undirected,Titania,1
+Fideler,Undirected,Tänzer,1
+Fideler,Undirected,Weltkind,1
+Fideler,Undirected,Windfahne,1
+Fideler,Undirected,Xenien,1
+Frosch,Undirected,Mephistopheles,1
+Frosch,Undirected,Siebel,1
+Fünfter Handwerksbursch,Undirected,Soldaten,1
+Fünfter Handwerksbursch,Undirected,Vierter Handwerksbursch,1
+Fünfter Handwerksbursch,Undirected,Wagner,1
+Fünfter Handwerksbursch,Undirected,Zweiter Handwerksbursch,1
+Fünfter Handwerksbursch,Undirected,Zweiter Schüler,1
+Gabriel,Undirected,Mephistopheles,1
+Gabriel,Undirected,Michael,1
+Gabriel,Undirected,Raphael,1
+Geist der sich erst bildet,Undirected,Hennings,1
+Geist der sich erst bildet,Undirected,Herold,1
+Geist der sich erst bildet,Undirected,Idealist,1
+Geist der sich erst bildet,Undirected,Irrlichter,1
+Geist der sich erst bildet,Undirected,Junge Hexe,1
+Geist der sich erst bildet,Undirected,Kapellmeister,1
+Geist der sich erst bildet,Undirected,Kranich,1
+Geist der sich erst bildet,Undirected,Matrone,1
+Geist der sich erst bildet,Undirected,Musaget,1
+Geist der sich erst bildet,Undirected,Neugieriger Reisender,1
+Geist der sich erst bildet,Undirected,Nordischer Künstler,1
+Geist der sich erst bildet,Undirected,Oberon,1
+Geist der sich erst bildet,Undirected,Orchester,1
+Geist der sich erst bildet,Undirected,Orthodox,1
+Geist der sich erst bildet,Undirected,Puck,1
+Geist der sich erst bildet,Undirected,Purist,1
+Geist der sich erst bildet,Undirected,Realist,1
+Geist der sich erst bildet,Undirected,Skeptiker,1
+Geist der sich erst bildet,Undirected,Solo,1
+Geist der sich erst bildet,Undirected,Sternschnuppe,1
+Geist der sich erst bildet,Undirected,Supernaturalist,1
+Geist der sich erst bildet,Undirected,Tanzmeister,1
+Geist der sich erst bildet,Undirected,Theatermeister,1
+Geist der sich erst bildet,Undirected,Titania,1
+Geist der sich erst bildet,Undirected,Tänzer,1
+Geist der sich erst bildet,Undirected,Weltkind,1
+Geist der sich erst bildet,Undirected,Windfahne,1
+Geist der sich erst bildet,Undirected,Xenien,1
+Geisterchor,Undirected,Mephistopheles,1
+Geisterchor,Undirected,Schüler,1
+Geister,Undirected,Mephistopheles,1
+Geist,Undirected,Wagner,1
+General,Undirected,Halbhexe,1
+General,Undirected,Hexen,1
+General,Undirected,Hexenmeister,1
+General,Undirected,Irrlicht,1
+General,Undirected,Mephistopheles,1
+General,Undirected,Minister,1
+General,Undirected,Parvenu,1
+General,Undirected,Proktophantasmist,1
+General,Undirected,Servibilis,1
+General,Undirected,Stimme 1,1
+General,Undirected,Stimme 2,1
+General,Undirected,Stimme 3,1
+General,Undirected,Stimme 4,1
+General,Undirected,Stimme 5,1
+General,Undirected,Stimme 6,1
+General,Undirected,Stimme 7,1
+General,Undirected,Stimme 8,1
+General,Undirected,Stimme 9,1
+General,Undirected,Stimmen,1
+General,Undirected,Trödelhexe,1
+Gretchen,Undirected,Lieschen,1
+Gretchen,Undirected,Marthe,4
+Gretchen,Undirected,Mephistopheles,8
+Gretchen,Undirected,Stimme von oben,1
+Gretchen,Undirected,Valentin,1
+Gretchen,Undirected,Volk,1
+Halbhexe,Undirected,Hexen,1
+Halbhexe,Undirected,Hexenmeister,1
+Halbhexe,Undirected,Irrlicht,1
+Halbhexe,Undirected,Mephistopheles,1
+Halbhexe,Undirected,Minister,1
+Halbhexe,Undirected,Parvenu,1
+Halbhexe,Undirected,Proktophantasmist,1
+Halbhexe,Undirected,Servibilis,1
+Halbhexe,Undirected,Stimme 1,1
+Halbhexe,Undirected,Stimme 2,1
+Halbhexe,Undirected,Stimme 3,1
+Halbhexe,Undirected,Stimme 4,1
+Halbhexe,Undirected,Stimme 5,1
+Halbhexe,Undirected,Stimme 6,1
+Halbhexe,Undirected,Stimme 7,1
+Halbhexe,Undirected,Stimme 8,1
+Halbhexe,Undirected,Stimme 9,1
+Halbhexe,Undirected,Stimmen,1
+Halbhexe,Undirected,Trödelhexe,1
+Hennings,Undirected,Herold,1
+Hennings,Undirected,Idealist,1
+Hennings,Undirected,Irrlichter,1
+Hennings,Undirected,Junge Hexe,1
+Hennings,Undirected,Kapellmeister,1
+Hennings,Undirected,Kranich,1
+Hennings,Undirected,Matrone,1
+Hennings,Undirected,Musaget,1
+Hennings,Undirected,Neugieriger Reisender,1
+Hennings,Undirected,Nordischer Künstler,1
+Hennings,Undirected,Oberon,1
+Hennings,Undirected,Orchester,1
+Hennings,Undirected,Orthodox,1
+Hennings,Undirected,Puck,1
+Hennings,Undirected,Purist,1
+Hennings,Undirected,Realist,1
+Hennings,Undirected,Skeptiker,1
+Hennings,Undirected,Solo,1
+Hennings,Undirected,Sternschnuppe,1
+Hennings,Undirected,Supernaturalist,1
+Hennings,Undirected,Tanzmeister,1
+Hennings,Undirected,Theatermeister,1
+Hennings,Undirected,Titania,1
+Hennings,Undirected,Tänzer,1
+Hennings,Undirected,Weltkind,1
+Hennings,Undirected,Windfahne,1
+Hennings,Undirected,Xenien,1
+Herold,Undirected,Idealist,1
+Herold,Undirected,Irrlichter,1
+Herold,Undirected,Junge Hexe,1
+Herold,Undirected,Kapellmeister,1
+Herold,Undirected,Kranich,1
+Herold,Undirected,Matrone,1
+Herold,Undirected,Musaget,1
+Herold,Undirected,Neugieriger Reisender,1
+Herold,Undirected,Nordischer Künstler,1
+Herold,Undirected,Oberon,1
+Herold,Undirected,Orchester,1
+Herold,Undirected,Orthodox,1
+Herold,Undirected,Puck,1
+Herold,Undirected,Purist,1
+Herold,Undirected,Realist,1
+Herold,Undirected,Skeptiker,1
+Herold,Undirected,Solo,1
+Herold,Undirected,Sternschnuppe,1
+Herold,Undirected,Supernaturalist,1
+Herold,Undirected,Tanzmeister,1
+Herold,Undirected,Theatermeister,1
+Herold,Undirected,Titania,1
+Herold,Undirected,Tänzer,1
+Herold,Undirected,Weltkind,1
+Herold,Undirected,Windfahne,1
+Herold,Undirected,Xenien,1
+Hexenmeister,Undirected,Irrlicht,1
+Hexenmeister,Undirected,Mephistopheles,1
+Hexenmeister,Undirected,Minister,1
+Hexenmeister,Undirected,Parvenu,1
+Hexenmeister,Undirected,Proktophantasmist,1
+Hexenmeister,Undirected,Servibilis,1
+Hexenmeister,Undirected,Stimme 1,1
+Hexenmeister,Undirected,Stimme 2,1
+Hexenmeister,Undirected,Stimme 3,1
+Hexenmeister,Undirected,Stimme 4,1
+Hexenmeister,Undirected,Stimme 5,1
+Hexenmeister,Undirected,Stimme 6,1
+Hexenmeister,Undirected,Stimme 7,1
+Hexenmeister,Undirected,Stimme 8,1
+Hexenmeister,Undirected,Stimme 9,1
+Hexenmeister,Undirected,Stimmen,1
+Hexenmeister,Undirected,Trödelhexe,1
+Hexen,Undirected,Hexenmeister,1
+Hexen,Undirected,Irrlicht,1
+Hexen,Undirected,Mephistopheles,1
+Hexen,Undirected,Minister,1
+Hexen,Undirected,Parvenu,1
+Hexen,Undirected,Proktophantasmist,1
+Hexen,Undirected,Servibilis,1
+Hexen,Undirected,Stimme 1,1
+Hexen,Undirected,Stimme 2,1
+Hexen,Undirected,Stimme 3,1
+Hexen,Undirected,Stimme 4,1
+Hexen,Undirected,Stimme 5,1
+Hexen,Undirected,Stimme 6,1
+Hexen,Undirected,Stimme 7,1
+Hexen,Undirected,Stimme 8,1
+Hexen,Undirected,Stimme 9,1
+Hexen,Undirected,Stimmen,1
+Hexen,Undirected,Trödelhexe,1
+Idealist,Undirected,Irrlichter,1
+Idealist,Undirected,Junge Hexe,1
+Idealist,Undirected,Kapellmeister,1
+Idealist,Undirected,Kranich,1
+Idealist,Undirected,Matrone,1
+Idealist,Undirected,Musaget,1
+Idealist,Undirected,Neugieriger Reisender,1
+Idealist,Undirected,Nordischer Künstler,1
+Idealist,Undirected,Oberon,1
+Idealist,Undirected,Orchester,1
+Idealist,Undirected,Orthodox,1
+Idealist,Undirected,Puck,1
+Idealist,Undirected,Purist,1
+Idealist,Undirected,Realist,1
+Idealist,Undirected,Skeptiker,1
+Idealist,Undirected,Solo,1
+Idealist,Undirected,Sternschnuppe,1
+Idealist,Undirected,Supernaturalist,1
+Idealist,Undirected,Tanzmeister,1
+Idealist,Undirected,Theatermeister,1
+Idealist,Undirected,Titania,1
+Idealist,Undirected,Tänzer,1
+Idealist,Undirected,Weltkind,1
+Idealist,Undirected,Windfahne,1
+Idealist,Undirected,Xenien,1
+Irrlichter,Undirected,Junge Hexe,1
+Irrlichter,Undirected,Kapellmeister,1
+Irrlichter,Undirected,Kranich,1
+Irrlichter,Undirected,Matrone,1
+Irrlichter,Undirected,Musaget,1
+Irrlichter,Undirected,Neugieriger Reisender,1
+Irrlichter,Undirected,Nordischer Künstler,1
+Irrlichter,Undirected,Oberon,1
+Irrlichter,Undirected,Orchester,1
+Irrlichter,Undirected,Orthodox,1
+Irrlichter,Undirected,Puck,1
+Irrlichter,Undirected,Purist,1
+Irrlichter,Undirected,Realist,1
+Irrlichter,Undirected,Skeptiker,1
+Irrlichter,Undirected,Solo,1
+Irrlichter,Undirected,Sternschnuppe,1
+Irrlichter,Undirected,Supernaturalist,1
+Irrlichter,Undirected,Tanzmeister,1
+Irrlichter,Undirected,Theatermeister,1
+Irrlichter,Undirected,Titania,1
+Irrlichter,Undirected,Tänzer,1
+Irrlichter,Undirected,Weltkind,1
+Irrlichter,Undirected,Windfahne,1
+Irrlichter,Undirected,Xenien,1
+Irrlicht,Undirected,Mephistopheles,1
+Irrlicht,Undirected,Minister,1
+Irrlicht,Undirected,Parvenu,1
+Irrlicht,Undirected,Proktophantasmist,1
+Irrlicht,Undirected,Servibilis,1
+Irrlicht,Undirected,Stimme 1,1
+Irrlicht,Undirected,Stimme 2,1
+Irrlicht,Undirected,Stimme 3,1
+Irrlicht,Undirected,Stimme 4,1
+Irrlicht,Undirected,Stimme 5,1
+Irrlicht,Undirected,Stimme 6,1
+Irrlicht,Undirected,Stimme 7,1
+Irrlicht,Undirected,Stimme 8,1
+Irrlicht,Undirected,Stimme 9,1
+Irrlicht,Undirected,Stimmen,1
+Irrlicht,Undirected,Trödelhexe,1
+Junge Hexe,Undirected,Kapellmeister,1
+Junge Hexe,Undirected,Kranich,1
+Junge Hexe,Undirected,Matrone,1
+Junge Hexe,Undirected,Musaget,1
+Junge Hexe,Undirected,Neugieriger Reisender,1
+Junge Hexe,Undirected,Nordischer Künstler,1
+Junge Hexe,Undirected,Oberon,1
+Junge Hexe,Undirected,Orchester,1
+Junge Hexe,Undirected,Orthodox,1
+Junge Hexe,Undirected,Puck,1
+Junge Hexe,Undirected,Purist,1
+Junge Hexe,Undirected,Realist,1
+Junge Hexe,Undirected,Skeptiker,1
+Junge Hexe,Undirected,Solo,1
+Junge Hexe,Undirected,Sternschnuppe,1
+Junge Hexe,Undirected,Supernaturalist,1
+Junge Hexe,Undirected,Tanzmeister,1
+Junge Hexe,Undirected,Theatermeister,1
+Junge Hexe,Undirected,Titania,1
+Junge Hexe,Undirected,Tänzer,1
+Junge Hexe,Undirected,Weltkind,1
+Junge Hexe,Undirected,Windfahne,1
+Junge Hexe,Undirected,Xenien,1
+Kapellmeister,Undirected,Kranich,1
+Kapellmeister,Undirected,Matrone,1
+Kapellmeister,Undirected,Musaget,1
+Kapellmeister,Undirected,Neugieriger Reisender,1
+Kapellmeister,Undirected,Nordischer Künstler,1
+Kapellmeister,Undirected,Oberon,1
+Kapellmeister,Undirected,Orchester,1
+Kapellmeister,Undirected,Orthodox,1
+Kapellmeister,Undirected,Puck,1
+Kapellmeister,Undirected,Purist,1
+Kapellmeister,Undirected,Realist,1
+Kapellmeister,Undirected,Skeptiker,1
+Kapellmeister,Undirected,Solo,1
+Kapellmeister,Undirected,Sternschnuppe,1
+Kapellmeister,Undirected,Supernaturalist,1
+Kapellmeister,Undirected,Tanzmeister,1
+Kapellmeister,Undirected,Theatermeister,1
+Kapellmeister,Undirected,Titania,1
+Kapellmeister,Undirected,Tänzer,1
+Kapellmeister,Undirected,Weltkind,1
+Kapellmeister,Undirected,Windfahne,1
+Kapellmeister,Undirected,Xenien,1
+Kranich,Undirected,Matrone,1
+Kranich,Undirected,Musaget,1
+Kranich,Undirected,Neugieriger Reisender,1
+Kranich,Undirected,Nordischer Künstler,1
+Kranich,Undirected,Oberon,1
+Kranich,Undirected,Orchester,1
+Kranich,Undirected,Orthodox,1
+Kranich,Undirected,Puck,1
+Kranich,Undirected,Purist,1
+Kranich,Undirected,Realist,1
+Kranich,Undirected,Skeptiker,1
+Kranich,Undirected,Solo,1
+Kranich,Undirected,Sternschnuppe,1
+Kranich,Undirected,Supernaturalist,1
+Kranich,Undirected,Tanzmeister,1
+Kranich,Undirected,Theatermeister,1
+Kranich,Undirected,Titania,1
+Kranich,Undirected,Tänzer,1
+Kranich,Undirected,Weltkind,1
+Kranich,Undirected,Windfahne,1
+Kranich,Undirected,Xenien,1
+Marthe,Undirected,Mephistopheles,4
+Marthe,Undirected,Valentin,1
+Marthe,Undirected,Volk,1
+Matrone,Undirected,Musaget,1
+Matrone,Undirected,Neugieriger Reisender,1
+Matrone,Undirected,Nordischer Künstler,1
+Matrone,Undirected,Oberon,1
+Matrone,Undirected,Orchester,1
+Matrone,Undirected,Orthodox,1
+Matrone,Undirected,Puck,1
+Matrone,Undirected,Purist,1
+Matrone,Undirected,Realist,1
+Matrone,Undirected,Skeptiker,1
+Matrone,Undirected,Solo,1
+Matrone,Undirected,Sternschnuppe,1
+Matrone,Undirected,Supernaturalist,1
+Matrone,Undirected,Tanzmeister,1
+Matrone,Undirected,Theatermeister,1
+Matrone,Undirected,Titania,1
+Matrone,Undirected,Tänzer,1
+Matrone,Undirected,Weltkind,1
+Matrone,Undirected,Windfahne,1
+Matrone,Undirected,Xenien,1
+Mephistopheles,Undirected,Michael,1
+Mephistopheles,Undirected,Minister,1
+Mephistopheles,Undirected,Parvenu,1
+Mephistopheles,Undirected,Proktophantasmist,1
+Mephistopheles,Undirected,Raphael,1
+Mephistopheles,Undirected,Schüler,1
+Mephistopheles,Undirected,Servibilis,1
+Mephistopheles,Undirected,Siebel,1
+Mephistopheles,Undirected,Stimme 1,1
+Mephistopheles,Undirected,Stimme 2,1
+Mephistopheles,Undirected,Stimme 3,1
+Mephistopheles,Undirected,Stimme 4,1
+Mephistopheles,Undirected,Stimme 5,1
+Mephistopheles,Undirected,Stimme 6,1
+Mephistopheles,Undirected,Stimme 7,1
+Mephistopheles,Undirected,Stimme 8,1
+Mephistopheles,Undirected,Stimme 9,1
+Mephistopheles,Undirected,Stimme von oben,1
+Mephistopheles,Undirected,Stimmen,1
+Mephistopheles,Undirected,Trödelhexe,1
+Mephistopheles,Undirected,Valentin,1
+Mephistopheles,Undirected,Volk,1
+Michael,Undirected,Raphael,1
+Minister,Undirected,Parvenu,1
+Minister,Undirected,Proktophantasmist,1
+Minister,Undirected,Servibilis,1
+Minister,Undirected,Stimme 1,1
+Minister,Undirected,Stimme 2,1
+Minister,Undirected,Stimme 3,1
+Minister,Undirected,Stimme 4,1
+Minister,Undirected,Stimme 5,1
+Minister,Undirected,Stimme 6,1
+Minister,Undirected,Stimme 7,1
+Minister,Undirected,Stimme 8,1
+Minister,Undirected,Stimme 9,1
+Minister,Undirected,Stimmen,1
+Minister,Undirected,Trödelhexe,1
+Musaget,Undirected,Neugieriger Reisender,1
+Musaget,Undirected,Nordischer Künstler,1
+Musaget,Undirected,Oberon,1
+Musaget,Undirected,Orchester,1
+Musaget,Undirected,Orthodox,1
+Musaget,Undirected,Puck,1
+Musaget,Undirected,Purist,1
+Musaget,Undirected,Realist,1
+Musaget,Undirected,Skeptiker,1
+Musaget,Undirected,Solo,1
+Musaget,Undirected,Sternschnuppe,1
+Musaget,Undirected,Supernaturalist,1
+Musaget,Undirected,Tanzmeister,1
+Musaget,Undirected,Theatermeister,1
+Musaget,Undirected,Titania,1
+Musaget,Undirected,Tänzer,1
+Musaget,Undirected,Weltkind,1
+Musaget,Undirected,Windfahne,1
+Musaget,Undirected,Xenien,1
+Neugieriger Reisender,Undirected,Nordischer Künstler,1
+Neugieriger Reisender,Undirected,Oberon,1
+Neugieriger Reisender,Undirected,Orchester,1
+Neugieriger Reisender,Undirected,Orthodox,1
+Neugieriger Reisender,Undirected,Puck,1
+Neugieriger Reisender,Undirected,Purist,1
+Neugieriger Reisender,Undirected,Realist,1
+Neugieriger Reisender,Undirected,Skeptiker,1
+Neugieriger Reisender,Undirected,Solo,1
+Neugieriger Reisender,Undirected,Sternschnuppe,1
+Neugieriger Reisender,Undirected,Supernaturalist,1
+Neugieriger Reisender,Undirected,Tanzmeister,1
+Neugieriger Reisender,Undirected,Theatermeister,1
+Neugieriger Reisender,Undirected,Titania,1
+Neugieriger Reisender,Undirected,Tänzer,1
+Neugieriger Reisender,Undirected,Weltkind,1
+Neugieriger Reisender,Undirected,Windfahne,1
+Neugieriger Reisender,Undirected,Xenien,1
+Nordischer Künstler,Undirected,Oberon,1
+Nordischer Künstler,Undirected,Orchester,1
+Nordischer Künstler,Undirected,Orthodox,1
+Nordischer Künstler,Undirected,Puck,1
+Nordischer Künstler,Undirected,Purist,1
+Nordischer Künstler,Undirected,Realist,1
+Nordischer Künstler,Undirected,Skeptiker,1
+Nordischer Künstler,Undirected,Solo,1
+Nordischer Künstler,Undirected,Sternschnuppe,1
+Nordischer Künstler,Undirected,Supernaturalist,1
+Nordischer Künstler,Undirected,Tanzmeister,1
+Nordischer Künstler,Undirected,Theatermeister,1
+Nordischer Künstler,Undirected,Titania,1
+Nordischer Künstler,Undirected,Tänzer,1
+Nordischer Künstler,Undirected,Weltkind,1
+Nordischer Künstler,Undirected,Windfahne,1
+Nordischer Künstler,Undirected,Xenien,1
+Oberon,Undirected,Orchester,1
+Oberon,Undirected,Orthodox,1
+Oberon,Undirected,Puck,1
+Oberon,Undirected,Purist,1
+Oberon,Undirected,Realist,1
+Oberon,Undirected,Skeptiker,1
+Oberon,Undirected,Solo,1
+Oberon,Undirected,Sternschnuppe,1
+Oberon,Undirected,Supernaturalist,1
+Oberon,Undirected,Tanzmeister,1
+Oberon,Undirected,Theatermeister,1
+Oberon,Undirected,Titania,1
+Oberon,Undirected,Tänzer,1
+Oberon,Undirected,Weltkind,1
+Oberon,Undirected,Windfahne,1
+Oberon,Undirected,Xenien,1
+Orchester,Undirected,Orthodox,1
+Orchester,Undirected,Puck,1
+Orchester,Undirected,Purist,1
+Orchester,Undirected,Realist,1
+Orchester,Undirected,Skeptiker,1
+Orchester,Undirected,Solo,1
+Orchester,Undirected,Sternschnuppe,1
+Orchester,Undirected,Supernaturalist,1
+Orchester,Undirected,Tanzmeister,1
+Orchester,Undirected,Theatermeister,1
+Orchester,Undirected,Titania,1
+Orchester,Undirected,Tänzer,1
+Orchester,Undirected,Weltkind,1
+Orchester,Undirected,Windfahne,1
+Orchester,Undirected,Xenien,1
+Orthodox,Undirected,Puck,1
+Orthodox,Undirected,Purist,1
+Orthodox,Undirected,Realist,1
+Orthodox,Undirected,Skeptiker,1
+Orthodox,Undirected,Solo,1
+Orthodox,Undirected,Sternschnuppe,1
+Orthodox,Undirected,Supernaturalist,1
+Orthodox,Undirected,Tanzmeister,1
+Orthodox,Undirected,Theatermeister,1
+Orthodox,Undirected,Titania,1
+Orthodox,Undirected,Tänzer,1
+Orthodox,Undirected,Weltkind,1
+Orthodox,Undirected,Windfahne,1
+Orthodox,Undirected,Xenien,1
+Parvenu,Undirected,Proktophantasmist,1
+Parvenu,Undirected,Servibilis,1
+Parvenu,Undirected,Stimme 1,1
+Parvenu,Undirected,Stimme 2,1
+Parvenu,Undirected,Stimme 3,1
+Parvenu,Undirected,Stimme 4,1
+Parvenu,Undirected,Stimme 5,1
+Parvenu,Undirected,Stimme 6,1
+Parvenu,Undirected,Stimme 7,1
+Parvenu,Undirected,Stimme 8,1
+Parvenu,Undirected,Stimme 9,1
+Parvenu,Undirected,Stimmen,1
+Parvenu,Undirected,Trödelhexe,1
+Proktophantasmist,Undirected,Servibilis,1
+Proktophantasmist,Undirected,Stimme 1,1
+Proktophantasmist,Undirected,Stimme 2,1
+Proktophantasmist,Undirected,Stimme 3,1
+Proktophantasmist,Undirected,Stimme 4,1
+Proktophantasmist,Undirected,Stimme 5,1
+Proktophantasmist,Undirected,Stimme 6,1
+Proktophantasmist,Undirected,Stimme 7,1
+Proktophantasmist,Undirected,Stimme 8,1
+Proktophantasmist,Undirected,Stimme 9,1
+Proktophantasmist,Undirected,Stimmen,1
+Proktophantasmist,Undirected,Trödelhexe,1
+Puck,Undirected,Purist,1
+Puck,Undirected,Realist,1
+Puck,Undirected,Skeptiker,1
+Puck,Undirected,Solo,1
+Puck,Undirected,Sternschnuppe,1
+Puck,Undirected,Supernaturalist,1
+Puck,Undirected,Tanzmeister,1
+Puck,Undirected,Theatermeister,1
+Puck,Undirected,Titania,1
+Puck,Undirected,Tänzer,1
+Puck,Undirected,Weltkind,1
+Puck,Undirected,Windfahne,1
+Puck,Undirected,Xenien,1
+Purist,Undirected,Realist,1
+Purist,Undirected,Skeptiker,1
+Purist,Undirected,Solo,1
+Purist,Undirected,Sternschnuppe,1
+Purist,Undirected,Supernaturalist,1
+Purist,Undirected,Tanzmeister,1
+Purist,Undirected,Theatermeister,1
+Purist,Undirected,Titania,1
+Purist,Undirected,Tänzer,1
+Purist,Undirected,Weltkind,1
+Purist,Undirected,Windfahne,1
+Purist,Undirected,Xenien,1
+Realist,Undirected,Skeptiker,1
+Realist,Undirected,Solo,1
+Realist,Undirected,Sternschnuppe,1
+Realist,Undirected,Supernaturalist,1
+Realist,Undirected,Tanzmeister,1
+Realist,Undirected,Theatermeister,1
+Realist,Undirected,Titania,1
+Realist,Undirected,Tänzer,1
+Realist,Undirected,Weltkind,1
+Realist,Undirected,Windfahne,1
+Realist,Undirected,Xenien,1
+Servibilis,Undirected,Stimme 1,1
+Servibilis,Undirected,Stimme 2,1
+Servibilis,Undirected,Stimme 3,1
+Servibilis,Undirected,Stimme 4,1
+Servibilis,Undirected,Stimme 5,1
+Servibilis,Undirected,Stimme 6,1
+Servibilis,Undirected,Stimme 7,1
+Servibilis,Undirected,Stimme 8,1
+Servibilis,Undirected,Stimme 9,1
+Servibilis,Undirected,Stimmen,1
+Servibilis,Undirected,Trödelhexe,1
+Skeptiker,Undirected,Solo,1
+Skeptiker,Undirected,Sternschnuppe,1
+Skeptiker,Undirected,Supernaturalist,1
+Skeptiker,Undirected,Tanzmeister,1
+Skeptiker,Undirected,Theatermeister,1
+Skeptiker,Undirected,Titania,1
+Skeptiker,Undirected,Tänzer,1
+Skeptiker,Undirected,Weltkind,1
+Skeptiker,Undirected,Windfahne,1
+Skeptiker,Undirected,Xenien,1
+Soldaten,Undirected,Vierter Handwerksbursch,1
+Soldaten,Undirected,Wagner,1
+Soldaten,Undirected,Zweiter Handwerksbursch,1
+Soldaten,Undirected,Zweiter Schüler,1
+Solo,Undirected,Sternschnuppe,1
+Solo,Undirected,Supernaturalist,1
+Solo,Undirected,Tanzmeister,1
+Solo,Undirected,Theatermeister,1
+Solo,Undirected,Titania,1
+Solo,Undirected,Tänzer,1
+Solo,Undirected,Weltkind,1
+Solo,Undirected,Windfahne,1
+Solo,Undirected,Xenien,1
+Sternschnuppe,Undirected,Supernaturalist,1
+Sternschnuppe,Undirected,Tanzmeister,1
+Sternschnuppe,Undirected,Theatermeister,1
+Sternschnuppe,Undirected,Titania,1
+Sternschnuppe,Undirected,Tänzer,1
+Sternschnuppe,Undirected,Weltkind,1
+Sternschnuppe,Undirected,Windfahne,1
+Sternschnuppe,Undirected,Xenien,1
+Stimme 1,Undirected,Stimme 2,1
+Stimme 1,Undirected,Stimme 3,1
+Stimme 1,Undirected,Stimme 4,1
+Stimme 1,Undirected,Stimme 5,1
+Stimme 1,Undirected,Stimme 6,1
+Stimme 1,Undirected,Stimme 7,1
+Stimme 1,Undirected,Stimme 8,1
+Stimme 1,Undirected,Stimme 9,1
+Stimme 1,Undirected,Stimmen,1
+Stimme 1,Undirected,Trödelhexe,1
+Stimme 2,Undirected,Stimme 3,1
+Stimme 2,Undirected,Stimme 4,1
+Stimme 2,Undirected,Stimme 5,1
+Stimme 2,Undirected,Stimme 6,1
+Stimme 2,Undirected,Stimme 7,1
+Stimme 2,Undirected,Stimme 8,1
+Stimme 2,Undirected,Stimme 9,1
+Stimme 2,Undirected,Stimmen,1
+Stimme 2,Undirected,Trödelhexe,1
+Stimme 3,Undirected,Stimme 4,1
+Stimme 3,Undirected,Stimme 5,1
+Stimme 3,Undirected,Stimme 6,1
+Stimme 3,Undirected,Stimme 7,1
+Stimme 3,Undirected,Stimme 8,1
+Stimme 3,Undirected,Stimme 9,1
+Stimme 3,Undirected,Stimmen,1
+Stimme 3,Undirected,Trödelhexe,1
+Stimme 4,Undirected,Stimme 5,1
+Stimme 4,Undirected,Stimme 6,1
+Stimme 4,Undirected,Stimme 7,1
+Stimme 4,Undirected,Stimme 8,1
+Stimme 4,Undirected,Stimme 9,1
+Stimme 4,Undirected,Stimmen,1
+Stimme 4,Undirected,Trödelhexe,1
+Stimme 5,Undirected,Stimme 6,1
+Stimme 5,Undirected,Stimme 7,1
+Stimme 5,Undirected,Stimme 8,1
+Stimme 5,Undirected,Stimme 9,1
+Stimme 5,Undirected,Stimmen,1
+Stimme 5,Undirected,Trödelhexe,1
+Stimme 6,Undirected,Stimme 7,1
+Stimme 6,Undirected,Stimme 8,1
+Stimme 6,Undirected,Stimme 9,1
+Stimme 6,Undirected,Stimmen,1
+Stimme 6,Undirected,Trödelhexe,1
+Stimme 7,Undirected,Stimme 8,1
+Stimme 7,Undirected,Stimme 9,1
+Stimme 7,Undirected,Stimmen,1
+Stimme 7,Undirected,Trödelhexe,1
+Stimme 8,Undirected,Stimme 9,1
+Stimme 8,Undirected,Stimmen,1
+Stimme 8,Undirected,Trödelhexe,1
+Stimme 9,Undirected,Stimmen,1
+Stimme 9,Undirected,Trödelhexe,1
+Stimmen,Undirected,Trödelhexe,1
+Supernaturalist,Undirected,Tanzmeister,1
+Supernaturalist,Undirected,Theatermeister,1
+Supernaturalist,Undirected,Titania,1
+Supernaturalist,Undirected,Tänzer,1
+Supernaturalist,Undirected,Weltkind,1
+Supernaturalist,Undirected,Windfahne,1
+Supernaturalist,Undirected,Xenien,1
+Tanzmeister,Undirected,Theatermeister,1
+Tanzmeister,Undirected,Titania,1
+Tanzmeister,Undirected,Tänzer,1
+Tanzmeister,Undirected,Weltkind,1
+Tanzmeister,Undirected,Windfahne,1
+Tanzmeister,Undirected,Xenien,1
+Theatermeister,Undirected,Titania,1
+Theatermeister,Undirected,Tänzer,1
+Theatermeister,Undirected,Weltkind,1
+Theatermeister,Undirected,Windfahne,1
+Theatermeister,Undirected,Xenien,1
+Titania,Undirected,Tänzer,1
+Titania,Undirected,Weltkind,1
+Titania,Undirected,Windfahne,1
+Titania,Undirected,Xenien,1
+Tänzer,Undirected,Weltkind,1
+Tänzer,Undirected,Windfahne,1
+Tänzer,Undirected,Xenien,1
+Valentin,Undirected,Volk,1
+Vierter Handwerksbursch,Undirected,Wagner,1
+Vierter Handwerksbursch,Undirected,Zweiter Handwerksbursch,1
+Vierter Handwerksbursch,Undirected,Zweiter Schüler,1
+Wagner,Undirected,Zweiter Handwerksbursch,1
+Wagner,Undirected,Zweiter Schüler,1
+Weltkind,Undirected,Windfahne,1
+Weltkind,Undirected,Xenien,1
+Windfahne,Undirected,Xenien,1
+Zweiter Handwerksbursch,Undirected,Zweiter Schüler,1

@@ -1,0 +1,163 @@
+Source,Type,Target,Weight
+1 Avocatore,Undirected,2 Avocatore,3
+1 Avocatore,Undirected,3 Avocatore,3
+1 Avocatore,Undirected,4 Avocatore,3
+1 Avocatore,Undirected,Androgyno,1
+1 Avocatore,Undirected,Bonario,3
+1 Avocatore,Undirected,Celia,3
+1 Avocatore,Undirected,Commandadore,2
+1 Avocatore,Undirected,Corbaccio,3
+1 Avocatore,Undirected,Corvino,3
+1 Avocatore,Undirected,Lady Politick Would-be,1
+1 Avocatore,Undirected,Mosca,2
+1 Avocatore,Undirected,Notario,2
+1 Avocatore,Undirected,Volpone,2
+1 Avocatore,Undirected,Voltore,3
+1 Merchant,Undirected,2 Merchant,1
+1 Merchant,Undirected,3 Merchant,1
+1 Merchant,Undirected,Peregrine,1
+1 Merchant,Undirected,Sir Politick Would-be,1
+1 Merchant,Undirected,Waiting-woman,1
+1 Woman,Undirected,Androgyno,1
+1 Woman,Undirected,Castrone,1
+1 Woman,Undirected,Lady Politick Would-be,2
+1 Woman,Undirected,Mosca,2
+1 Woman,Undirected,Nano,2
+1 Woman,Undirected,Peregrine,1
+1 Woman,Undirected,Sir Politick Would-be,1
+1 Woman,Undirected,Volpone,1
+2 Avocatore,Undirected,3 Avocatore,3
+2 Avocatore,Undirected,4 Avocatore,3
+2 Avocatore,Undirected,Androgyno,1
+2 Avocatore,Undirected,Bonario,3
+2 Avocatore,Undirected,Celia,3
+2 Avocatore,Undirected,Commandadore,2
+2 Avocatore,Undirected,Corbaccio,3
+2 Avocatore,Undirected,Corvino,3
+2 Avocatore,Undirected,Lady Politick Would-be,1
+2 Avocatore,Undirected,Mosca,2
+2 Avocatore,Undirected,Notario,2
+2 Avocatore,Undirected,Volpone,2
+2 Avocatore,Undirected,Voltore,3
+2 Merchant,Undirected,3 Merchant,1
+2 Merchant,Undirected,Peregrine,1
+2 Merchant,Undirected,Sir Politick Would-be,1
+2 Merchant,Undirected,Waiting-woman,1
+3 Avocatore,Undirected,4 Avocatore,3
+3 Avocatore,Undirected,Androgyno,1
+3 Avocatore,Undirected,Bonario,3
+3 Avocatore,Undirected,Celia,3
+3 Avocatore,Undirected,Commandadore,2
+3 Avocatore,Undirected,Corbaccio,3
+3 Avocatore,Undirected,Corvino,3
+3 Avocatore,Undirected,Lady Politick Would-be,1
+3 Avocatore,Undirected,Mosca,2
+3 Avocatore,Undirected,Notario,2
+3 Avocatore,Undirected,Volpone,2
+3 Avocatore,Undirected,Voltore,3
+3 Merchant,Undirected,Peregrine,1
+3 Merchant,Undirected,Sir Politick Would-be,1
+3 Merchant,Undirected,Waiting-woman,1
+4 Avocatore,Undirected,Androgyno,1
+4 Avocatore,Undirected,Bonario,3
+4 Avocatore,Undirected,Celia,3
+4 Avocatore,Undirected,Commandadore,2
+4 Avocatore,Undirected,Corbaccio,3
+4 Avocatore,Undirected,Corvino,3
+4 Avocatore,Undirected,Lady Politick Would-be,1
+4 Avocatore,Undirected,Mosca,2
+4 Avocatore,Undirected,Notario,2
+4 Avocatore,Undirected,Volpone,2
+4 Avocatore,Undirected,Voltore,3
+Androgyno,Undirected,Bonario,2
+Androgyno,Undirected,Castrone,3
+Androgyno,Undirected,Celia,1
+Androgyno,Undirected,Commandadore,1
+Androgyno,Undirected,Corbaccio,2
+Androgyno,Undirected,Corvino,2
+Androgyno,Undirected,Lady Politick Would-be,1
+Androgyno,Undirected,Mosca,4
+Androgyno,Undirected,Nano,4
+Androgyno,Undirected,Volpone,5
+Androgyno,Undirected,Voltore,2
+Bonario,Undirected,Castrone,1
+Bonario,Undirected,Celia,4
+Bonario,Undirected,Commandadore,2
+Bonario,Undirected,Corbaccio,5
+Bonario,Undirected,Corvino,5
+Bonario,Undirected,Lady Politick Would-be,1
+Bonario,Undirected,Mosca,7
+Bonario,Undirected,Nano,1
+Bonario,Undirected,Notario,2
+Bonario,Undirected,Volpone,4
+Bonario,Undirected,Voltore,5
+Castrone,Undirected,Corbaccio,1
+Castrone,Undirected,Corvino,1
+Castrone,Undirected,Lady Politick Would-be,1
+Castrone,Undirected,Mosca,3
+Castrone,Undirected,Nano,3
+Castrone,Undirected,Volpone,3
+Castrone,Undirected,Voltore,1
+Celia,Undirected,Commandadore,2
+Celia,Undirected,Corbaccio,4
+Celia,Undirected,Corvino,6
+Celia,Undirected,Lady Politick Would-be,1
+Celia,Undirected,Mosca,5
+Celia,Undirected,Notario,2
+Celia,Undirected,Servant,1
+Celia,Undirected,Volpone,3
+Celia,Undirected,Voltore,4
+Commandadore,Undirected,Corbaccio,2
+Commandadore,Undirected,Corvino,2
+Commandadore,Undirected,Mosca,1
+Commandadore,Undirected,Notario,1
+Commandadore,Undirected,Volpone,2
+Commandadore,Undirected,Voltore,2
+Corbaccio,Undirected,Corvino,8
+Corbaccio,Undirected,Lady Politick Would-be,2
+Corbaccio,Undirected,Mosca,6
+Corbaccio,Undirected,Nano,2
+Corbaccio,Undirected,Notario,2
+Corbaccio,Undirected,Volpone,7
+Corbaccio,Undirected,Voltore,8
+Corvino,Undirected,Lady Politick Would-be,2
+Corvino,Undirected,Mob,1
+Corvino,Undirected,Mosca,9
+Corvino,Undirected,Nano,3
+Corvino,Undirected,Notario,2
+Corvino,Undirected,Peregrine,1
+Corvino,Undirected,Servant,1
+Corvino,Undirected,Sir Politick Would-be,1
+Corvino,Undirected,Volpone,8
+Corvino,Undirected,Voltore,8
+Lady Politick Would-be,Undirected,Mosca,4
+Lady Politick Would-be,Undirected,Nano,3
+Lady Politick Would-be,Undirected,Notario,1
+Lady Politick Would-be,Undirected,Peregrine,1
+Lady Politick Would-be,Undirected,Sir Politick Would-be,1
+Lady Politick Would-be,Undirected,Volpone,2
+Lady Politick Would-be,Undirected,Voltore,2
+Mob,Undirected,Mosca,1
+Mob,Undirected,Nano,1
+Mob,Undirected,Peregrine,1
+Mob,Undirected,Sir Politick Would-be,1
+Mob,Undirected,Volpone,1
+Mosca,Undirected,Nano,6
+Mosca,Undirected,Notario,1
+Mosca,Undirected,Peregrine,2
+Mosca,Undirected,Servant,1
+Mosca,Undirected,Sir Politick Would-be,2
+Mosca,Undirected,Volpone,9
+Mosca,Undirected,Voltore,6
+Nano,Undirected,Peregrine,2
+Nano,Undirected,Sir Politick Would-be,2
+Nano,Undirected,Volpone,6
+Nano,Undirected,Voltore,2
+Notario,Undirected,Volpone,1
+Notario,Undirected,Voltore,2
+Peregrine,Undirected,Sir Politick Would-be,3
+Peregrine,Undirected,Volpone,1
+Peregrine,Undirected,Waiting-woman,1
+Sir Politick Would-be,Undirected,Volpone,1
+Sir Politick Would-be,Undirected,Waiting-woman,1
+Volpone,Undirected,Voltore,7

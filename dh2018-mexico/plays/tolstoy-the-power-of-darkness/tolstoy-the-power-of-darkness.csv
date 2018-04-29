@@ -1,0 +1,69 @@
+Source,Type,Target,Weight
+1-я девка,Undirected,2-я девка,2
+1-я девка,Undirected,Марина,1
+2-я девка,Undirected,Марина,1
+Аким,Undirected,Акулина,3
+Аким,Undirected,Анисья,9
+Аким,Undirected,Анютка,3
+Аким,Undirected,Кума,1
+Аким,Undirected,Матрена,5
+Аким,Undirected,Митрич,4
+Аким,Undirected,Никита,9
+Аким,Undirected,Петр,5
+Аким,Undirected,Сваха,1
+Аким,Undirected,Урядник,1
+Акулина,Undirected,Анисья,7
+Акулина,Undirected,Анютка,3
+Акулина,Undirected,Марфа,1
+Акулина,Undirected,Матрена,2
+Акулина,Undirected,Митрич,2
+Акулина,Undirected,Никита,11
+Акулина,Undirected,Петр,3
+Акулина,Undirected,Сваха,1
+Акулина,Undirected,Староста,1
+Акулина,Undirected,Урядник,2
+Анисья,Undirected,Анютка,8
+Анисья,Undirected,Голос мужика,1
+Анисья,Undirected,Дружко,1
+Анисья,Undirected,Извозчик,1
+Анисья,Undirected,Кума,4
+Анисья,Undirected,Матрена,17
+Анисья,Undirected,Митрич,6
+Анисья,Undirected,Никита,15
+Анисья,Undirected,Петр,8
+Анисья,Undirected,Сваха,2
+Анисья,Undirected,Урядник,1
+Анютка,Undirected,Кума,1
+Анютка,Undirected,Марина,1
+Анютка,Undirected,Матрена,2
+Анютка,Undirected,Митрич,4
+Анютка,Undirected,Муж Марины,1
+Анютка,Undirected,Никита,7
+Анютка,Undirected,Петр,3
+Голос бабы из сеней,Undirected,Матрена,1
+Голос бабы из сеней,Undirected,Сват,1
+Голос мужика,Undirected,Кума,1
+Голос мужика,Undirected,Матрена,1
+Дружко,Undirected,Извозчик,1
+Дружко,Undirected,Сваха,1
+Извозчик,Undirected,Сваха,1
+Кума,Undirected,Матрена,1
+Кума,Undirected,Митрич,2
+Кума,Undirected,Соседка,1
+Марина,Undirected,Муж Марины,1
+Марина,Undirected,Никита,3
+Марфа,Undirected,Матрена,1
+Матрена,Undirected,Никита,17
+Матрена,Undirected,Один голос из народа,1
+Матрена,Undirected,Петр,8
+Матрена,Undirected,Сват,1
+Матрена,Undirected,Сваха,1
+Матрена,Undirected,Урядник,1
+Митрич,Undirected,Никита,5
+Муж Марины,Undirected,Никита,1
+Никита,Undirected,Петр,4
+Никита,Undirected,Сваха,1
+Никита,Undirected,Староста,1
+Никита,Undirected,Урядник,2
+Сваха,Undirected,Урядник,1
+Староста,Undirected,Урядник,1

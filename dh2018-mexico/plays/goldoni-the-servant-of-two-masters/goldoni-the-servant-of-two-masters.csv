@@ -1,0 +1,47 @@
+Source,Type,Target,Weight
+Beatrice,Undirected,Brighella,7
+Beatrice,Undirected,Clarice,8
+Beatrice,Undirected,Dottore,2
+Beatrice,Undirected,Florindo,8
+Beatrice,Undirected,Pantalone,12
+Beatrice,Undirected,Silvio,5
+Beatrice,Undirected,Smeraldina,4
+Beatrice,Undirected,Truffaldino,13
+Beatrice,Undirected,Un altro facchino,1
+Beatrice,Undirected,Un cameriere,3
+Beatrice,Undirected,Un servitore,1
+Brighella,Undirected,Clarice,4
+Brighella,Undirected,Dottore,4
+Brighella,Undirected,Florindo,3
+Brighella,Undirected,Pantalone,5
+Brighella,Undirected,Silvio,4
+Brighella,Undirected,Smeraldina,3
+Brighella,Undirected,Truffaldino,5
+Brighella,Undirected,Un cameriere,2
+Clarice,Undirected,Dottore,6
+Clarice,Undirected,Florindo,1
+Clarice,Undirected,Pantalone,10
+Clarice,Undirected,Silvio,9
+Clarice,Undirected,Smeraldina,9
+Clarice,Undirected,Truffaldino,3
+Dottore,Undirected,Pantalone,8
+Dottore,Undirected,Silvio,7
+Dottore,Undirected,Smeraldina,5
+Dottore,Undirected,Truffaldino,1
+Florindo,Undirected,Pantalone,1
+Florindo,Undirected,Silvio,2
+Florindo,Undirected,Smeraldina,1
+Florindo,Undirected,Truffaldino,15
+Florindo,Undirected,Un cameriere,3
+Florindo,Undirected,Un facchino,1
+Pantalone,Undirected,Silvio,11
+Pantalone,Undirected,Smeraldina,9
+Pantalone,Undirected,Truffaldino,8
+Pantalone,Undirected,Un servitore,1
+Silvio,Undirected,Smeraldina,8
+Silvio,Undirected,Truffaldino,5
+Smeraldina,Undirected,Truffaldino,5
+Smeraldina,Undirected,Un cameriere,1
+Truffaldino,Undirected,Un altro facchino,2
+Truffaldino,Undirected,Un cameriere,3
+Truffaldino,Undirected,Un facchino,1

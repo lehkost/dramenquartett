@@ -1,0 +1,13 @@
+Source;Target;Type;Weight
+das_suesse_maedel;der_dichter;Undirected;1
+dirne;graf;Undirected;1
+der_junge_herr;die_junge_frau;Undirected;1
+graf;schauspielerin;Undirected;1
+das_suesse_maedel;der_gatte;Undirected;1
+der_gatte;die_junge_frau;Undirected;1
+der_dichter;schauspielerin;Undirected;1
+graf;stubenmaedchen_letzte_szene;Undirected;1
+der_junge_herr;stubenmaedchen;Undirected;1
+soldat;stubenmaedchen;Undirected;1
+dirne;soldat;Undirected;1
+dirne;stubenmaedchen_letzte_szene;Undirected;1

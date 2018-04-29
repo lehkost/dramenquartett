@@ -1,0 +1,57 @@
+Source,Type,Target,Weight
+Balbina,Undirected,Cuesta,1
+Balbina,Undirected,Don Urbano,3
+Balbina,Undirected,Electra,1
+Balbina,Undirected,Evarista,2
+Balbina,Undirected,Marqués,2
+Balbina,Undirected,Pantoja,2
+Balbina,Undirected,Patros,1
+Cuesta,Undirected,Don Urbano,8
+Cuesta,Undirected,Electra,8
+Cuesta,Undirected,Evarista,8
+Cuesta,Undirected,José,1
+Cuesta,Undirected,Marqués,6
+Cuesta,Undirected,Máximo,1
+Cuesta,Undirected,Pantoja,8
+Cuesta,Undirected,Patros,2
+Don Urbano,Undirected,Dorotea,1
+Don Urbano,Undirected,Electra,10
+Don Urbano,Undirected,Evarista,17
+Don Urbano,Undirected,José,3
+Don Urbano,Undirected,Marqués,17
+Don Urbano,Undirected,Máximo,6
+Don Urbano,Undirected,Pantoja,11
+Don Urbano,Undirected,Patros,2
+Dorotea,Undirected,Electra,3
+Dorotea,Undirected,Evarista,2
+Dorotea,Undirected,Marqués,1
+Dorotea,Undirected,Máximo,1
+Dorotea,Undirected,Pantoja,1
+Electra,Undirected,Evarista,11
+Electra,Undirected,Gil,1
+Electra,Undirected,La Sombra,1
+Electra,Undirected,Mariano,4
+Electra,Undirected,Marqués,18
+Electra,Undirected,Máximo,15
+Electra,Undirected,Operario,1
+Electra,Undirected,Pantoja,13
+Electra,Undirected,Patros,4
+Evarista,Undirected,José,3
+Evarista,Undirected,Marqués,15
+Evarista,Undirected,Máximo,9
+Evarista,Undirected,Pantoja,15
+Evarista,Undirected,Patros,1
+Gil,Undirected,Mariano,1
+Gil,Undirected,Máximo,2
+José,Undirected,Marqués,2
+José,Undirected,Máximo,1
+José,Undirected,Pantoja,2
+Mariano,Undirected,Marqués,2
+Mariano,Undirected,Máximo,4
+Marqués,Undirected,Máximo,13
+Marqués,Undirected,Pantoja,15
+Marqués,Undirected,Patros,2
+Máximo,Undirected,Operario,2
+Máximo,Undirected,Pantoja,7
+Máximo,Undirected,Patros,1
+Pantoja,Undirected,Patros,1

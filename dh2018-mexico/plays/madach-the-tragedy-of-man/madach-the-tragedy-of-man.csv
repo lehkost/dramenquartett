@@ -1,0 +1,1199 @@
+Source,Type,Target,Weight
+1. Arbeiter,Undirected,1. Bettler,1
+1. Arbeiter,Undirected,1. Bürgermädchen,1
+1. Arbeiter,Undirected,1. Fabrikant,1
+1. Arbeiter,Undirected,1. Handwerksbursche,1
+1. Arbeiter,Undirected,1. Schüler,1
+1. Arbeiter,Undirected,2. Arbeiter,1
+1. Arbeiter,Undirected,2. Bettler,1
+1. Arbeiter,Undirected,2. Bürgermädchen,1
+1. Arbeiter,Undirected,2. Fabrikant,1
+1. Arbeiter,Undirected,2. Handwerksbursche,1
+1. Arbeiter,Undirected,2. Händler,1
+1. Arbeiter,Undirected,2. Schüler,1
+1. Arbeiter,Undirected,3. Arbeiter,1
+1. Arbeiter,Undirected,3. Schüler,1
+1. Arbeiter,Undirected,4. Schüler,1
+1. Arbeiter,Undirected,Adam,1
+1. Arbeiter,Undirected,Aus der Menge,1
+1. Arbeiter,Undirected,Chor,1
+1. Arbeiter,Undirected,Der Verurteilte,1
+1. Arbeiter,Undirected,Ein Arbeiter,1
+1. Arbeiter,Undirected,Ein Händler,1
+1. Arbeiter,Undirected,Ein Juwelier,1
+1. Arbeiter,Undirected,Ein Mädchen,1
+1. Arbeiter,Undirected,Ein Schüler (11. Bild),1
+1. Arbeiter,Undirected,Eine (andere) Mutter,1
+1. Arbeiter,Undirected,Eine Dirne,1
+1. Arbeiter,Undirected,Eine Mutter,1
+1. Arbeiter,Undirected,Eva,1
+1. Arbeiter,Undirected,Gastwirt,1
+1. Arbeiter,Undirected,Jüngling (Arthur),1
+1. Arbeiter,Undirected,Kleines Mädchen,1
+1. Arbeiter,Undirected,Lovel,1
+1. Arbeiter,Undirected,Luzifer,1
+1. Arbeiter,Undirected,Musikant,1
+1. Arbeiter,Undirected,Puppenspieler,1
+1. Arbeiter,Undirected,Scharlatan,1
+1. Arbeiter,Undirected,Soldat,1
+1. Arbeiter,Undirected,Zigeunerin,1
+1. Bettler,Undirected,1. Bürgermädchen,1
+1. Bettler,Undirected,1. Fabrikant,1
+1. Bettler,Undirected,1. Handwerksbursche,1
+1. Bettler,Undirected,1. Schüler,1
+1. Bettler,Undirected,2. Arbeiter,1
+1. Bettler,Undirected,2. Bettler,1
+1. Bettler,Undirected,2. Bürgermädchen,1
+1. Bettler,Undirected,2. Fabrikant,1
+1. Bettler,Undirected,2. Handwerksbursche,1
+1. Bettler,Undirected,2. Händler,1
+1. Bettler,Undirected,2. Schüler,1
+1. Bettler,Undirected,3. Arbeiter,1
+1. Bettler,Undirected,3. Schüler,1
+1. Bettler,Undirected,4. Schüler,1
+1. Bettler,Undirected,Adam,1
+1. Bettler,Undirected,Aus der Menge,1
+1. Bettler,Undirected,Chor,1
+1. Bettler,Undirected,Der Verurteilte,1
+1. Bettler,Undirected,Ein Arbeiter,1
+1. Bettler,Undirected,Ein Händler,1
+1. Bettler,Undirected,Ein Juwelier,1
+1. Bettler,Undirected,Ein Mädchen,1
+1. Bettler,Undirected,Ein Schüler (11. Bild),1
+1. Bettler,Undirected,Eine (andere) Mutter,1
+1. Bettler,Undirected,Eine Dirne,1
+1. Bettler,Undirected,Eine Mutter,1
+1. Bettler,Undirected,Eva,1
+1. Bettler,Undirected,Gastwirt,1
+1. Bettler,Undirected,Jüngling (Arthur),1
+1. Bettler,Undirected,Kleines Mädchen,1
+1. Bettler,Undirected,Lovel,1
+1. Bettler,Undirected,Luzifer,1
+1. Bettler,Undirected,Musikant,1
+1. Bettler,Undirected,Puppenspieler,1
+1. Bettler,Undirected,Scharlatan,1
+1. Bettler,Undirected,Soldat,1
+1. Bettler,Undirected,Zigeunerin,1
+1. Bürger (5. Bild),Undirected,1. Demagog,1
+1. Bürger (5. Bild),Undirected,1. aus dem Volk,1
+1. Bürger (5. Bild),Undirected,2. Bürger (5. Bild),1
+1. Bürger (5. Bild),Undirected,2. Demagog,1
+1. Bürger (5. Bild),Undirected,2. aus dem Volk,1
+1. Bürger (5. Bild),Undirected,3. aus dem Volk,1
+1. Bürger (5. Bild),Undirected,Adam,1
+1. Bürger (5. Bild),Undirected,Aus dem Volk,1
+1. Bürger (5. Bild),Undirected,Chariten,1
+1. Bürger (5. Bild),Undirected,Dienerinnen,1
+1. Bürger (5. Bild),Undirected,Eros,1
+1. Bürger (5. Bild),Undirected,Eva,1
+1. Bürger (5. Bild),Undirected,Kimon,1
+1. Bürger (5. Bild),Undirected,Krispos,1
+1. Bürger (5. Bild),Undirected,Luzifer,1
+1. Bürger (5. Bild),Undirected,Thersites,1
+1. Bürger (7. Bild),Undirected,2. Bürger (7. Bild),1
+1. Bürger (7. Bild),Undirected,3. Bürger (7. Bild),1
+1. Bürger (7. Bild),Undirected,4. Bürger (7. Bild),1
+1. Bürger (7. Bild),Undirected,Adam,1
+1. Bürger (7. Bild),Undirected,Das Gerippe,1
+1. Bürger (7. Bild),Undirected,Die Ketzer,1
+1. Bürger (7. Bild),Undirected,Die Kreuzfahrer,1
+1. Bürger (7. Bild),Undirected,Die Mönche,1
+1. Bürger (7. Bild),Undirected,Ein (anderer) Mönch,1
+1. Bürger (7. Bild),Undirected,Ein Mönch,1
+1. Bürger (7. Bild),Undirected,Ein alter Ketzer,1
+1. Bürger (7. Bild),Undirected,Eva,1
+1. Bürger (7. Bild),Undirected,Helene,1
+1. Bürger (7. Bild),Undirected,Hexen,1
+1. Bürger (7. Bild),Undirected,Luzifer,1
+1. Bürger (7. Bild),Undirected,Mehrere,1
+1. Bürger (7. Bild),Undirected,Patriarch,1
+1. Bürgermädchen,Undirected,1. Fabrikant,1
+1. Bürgermädchen,Undirected,1. Handwerksbursche,1
+1. Bürgermädchen,Undirected,1. Schüler,1
+1. Bürgermädchen,Undirected,2. Arbeiter,1
+1. Bürgermädchen,Undirected,2. Bettler,1
+1. Bürgermädchen,Undirected,2. Bürgermädchen,1
+1. Bürgermädchen,Undirected,2. Fabrikant,1
+1. Bürgermädchen,Undirected,2. Handwerksbursche,1
+1. Bürgermädchen,Undirected,2. Händler,1
+1. Bürgermädchen,Undirected,2. Schüler,1
+1. Bürgermädchen,Undirected,3. Arbeiter,1
+1. Bürgermädchen,Undirected,3. Schüler,1
+1. Bürgermädchen,Undirected,4. Schüler,1
+1. Bürgermädchen,Undirected,Adam,1
+1. Bürgermädchen,Undirected,Aus der Menge,1
+1. Bürgermädchen,Undirected,Chor,1
+1. Bürgermädchen,Undirected,Der Verurteilte,1
+1. Bürgermädchen,Undirected,Ein Arbeiter,1
+1. Bürgermädchen,Undirected,Ein Händler,1
+1. Bürgermädchen,Undirected,Ein Juwelier,1
+1. Bürgermädchen,Undirected,Ein Mädchen,1
+1. Bürgermädchen,Undirected,Ein Schüler (11. Bild),1
+1. Bürgermädchen,Undirected,Eine (andere) Mutter,1
+1. Bürgermädchen,Undirected,Eine Dirne,1
+1. Bürgermädchen,Undirected,Eine Mutter,1
+1. Bürgermädchen,Undirected,Eva,1
+1. Bürgermädchen,Undirected,Gastwirt,1
+1. Bürgermädchen,Undirected,Jüngling (Arthur),1
+1. Bürgermädchen,Undirected,Kleines Mädchen,1
+1. Bürgermädchen,Undirected,Lovel,1
+1. Bürgermädchen,Undirected,Luzifer,1
+1. Bürgermädchen,Undirected,Musikant,1
+1. Bürgermädchen,Undirected,Puppenspieler,1
+1. Bürgermädchen,Undirected,Scharlatan,1
+1. Bürgermädchen,Undirected,Soldat,1
+1. Bürgermädchen,Undirected,Zigeunerin,1
+1. Demagog,Undirected,1. aus dem Volk,1
+1. Demagog,Undirected,2. Bürger (5. Bild),1
+1. Demagog,Undirected,2. Demagog,1
+1. Demagog,Undirected,2. aus dem Volk,1
+1. Demagog,Undirected,3. aus dem Volk,1
+1. Demagog,Undirected,Adam,1
+1. Demagog,Undirected,Aus dem Volk,1
+1. Demagog,Undirected,Chariten,1
+1. Demagog,Undirected,Dienerinnen,1
+1. Demagog,Undirected,Eros,1
+1. Demagog,Undirected,Eva,1
+1. Demagog,Undirected,Kimon,1
+1. Demagog,Undirected,Krispos,1
+1. Demagog,Undirected,Luzifer,1
+1. Demagog,Undirected,Thersites,1
+1. Fabrikant,Undirected,1. Handwerksbursche,1
+1. Fabrikant,Undirected,1. Schüler,1
+1. Fabrikant,Undirected,2. Arbeiter,1
+1. Fabrikant,Undirected,2. Bettler,1
+1. Fabrikant,Undirected,2. Bürgermädchen,1
+1. Fabrikant,Undirected,2. Fabrikant,1
+1. Fabrikant,Undirected,2. Handwerksbursche,1
+1. Fabrikant,Undirected,2. Händler,1
+1. Fabrikant,Undirected,2. Schüler,1
+1. Fabrikant,Undirected,3. Arbeiter,1
+1. Fabrikant,Undirected,3. Schüler,1
+1. Fabrikant,Undirected,4. Schüler,1
+1. Fabrikant,Undirected,Adam,1
+1. Fabrikant,Undirected,Aus der Menge,1
+1. Fabrikant,Undirected,Chor,1
+1. Fabrikant,Undirected,Der Verurteilte,1
+1. Fabrikant,Undirected,Ein Arbeiter,1
+1. Fabrikant,Undirected,Ein Händler,1
+1. Fabrikant,Undirected,Ein Juwelier,1
+1. Fabrikant,Undirected,Ein Mädchen,1
+1. Fabrikant,Undirected,Ein Schüler (11. Bild),1
+1. Fabrikant,Undirected,Eine (andere) Mutter,1
+1. Fabrikant,Undirected,Eine Dirne,1
+1. Fabrikant,Undirected,Eine Mutter,1
+1. Fabrikant,Undirected,Eva,1
+1. Fabrikant,Undirected,Gastwirt,1
+1. Fabrikant,Undirected,Jüngling (Arthur),1
+1. Fabrikant,Undirected,Kleines Mädchen,1
+1. Fabrikant,Undirected,Lovel,1
+1. Fabrikant,Undirected,Luzifer,1
+1. Fabrikant,Undirected,Musikant,1
+1. Fabrikant,Undirected,Puppenspieler,1
+1. Fabrikant,Undirected,Scharlatan,1
+1. Fabrikant,Undirected,Soldat,1
+1. Fabrikant,Undirected,Zigeunerin,1
+1. Handwerksbursche,Undirected,1. Schüler,1
+1. Handwerksbursche,Undirected,2. Arbeiter,1
+1. Handwerksbursche,Undirected,2. Bettler,1
+1. Handwerksbursche,Undirected,2. Bürgermädchen,1
+1. Handwerksbursche,Undirected,2. Fabrikant,1
+1. Handwerksbursche,Undirected,2. Handwerksbursche,1
+1. Handwerksbursche,Undirected,2. Händler,1
+1. Handwerksbursche,Undirected,2. Schüler,1
+1. Handwerksbursche,Undirected,3. Arbeiter,1
+1. Handwerksbursche,Undirected,3. Schüler,1
+1. Handwerksbursche,Undirected,4. Schüler,1
+1. Handwerksbursche,Undirected,Adam,1
+1. Handwerksbursche,Undirected,Aus der Menge,1
+1. Handwerksbursche,Undirected,Chor,1
+1. Handwerksbursche,Undirected,Der Verurteilte,1
+1. Handwerksbursche,Undirected,Ein Arbeiter,1
+1. Handwerksbursche,Undirected,Ein Händler,1
+1. Handwerksbursche,Undirected,Ein Juwelier,1
+1. Handwerksbursche,Undirected,Ein Mädchen,1
+1. Handwerksbursche,Undirected,Ein Schüler (11. Bild),1
+1. Handwerksbursche,Undirected,Eine (andere) Mutter,1
+1. Handwerksbursche,Undirected,Eine Dirne,1
+1. Handwerksbursche,Undirected,Eine Mutter,1
+1. Handwerksbursche,Undirected,Eva,1
+1. Handwerksbursche,Undirected,Gastwirt,1
+1. Handwerksbursche,Undirected,Jüngling (Arthur),1
+1. Handwerksbursche,Undirected,Kleines Mädchen,1
+1. Handwerksbursche,Undirected,Lovel,1
+1. Handwerksbursche,Undirected,Luzifer,1
+1. Handwerksbursche,Undirected,Musikant,1
+1. Handwerksbursche,Undirected,Puppenspieler,1
+1. Handwerksbursche,Undirected,Scharlatan,1
+1. Handwerksbursche,Undirected,Soldat,1
+1. Handwerksbursche,Undirected,Zigeunerin,1
+1. Höfling,Undirected,2. Höfling,1
+1. Höfling,Undirected,3. Höfling,1
+1. Höfling,Undirected,4. Höfling,1
+1. Höfling,Undirected,Adam,1
+1. Höfling,Undirected,Eva,1
+1. Höfling,Undirected,Luzifer,1
+1. Höfling,Undirected,Rudolf,1
+1. Schüler,Undirected,2. Arbeiter,1
+1. Schüler,Undirected,2. Bettler,1
+1. Schüler,Undirected,2. Bürgermädchen,1
+1. Schüler,Undirected,2. Fabrikant,1
+1. Schüler,Undirected,2. Handwerksbursche,1
+1. Schüler,Undirected,2. Händler,1
+1. Schüler,Undirected,2. Schüler,1
+1. Schüler,Undirected,3. Arbeiter,1
+1. Schüler,Undirected,3. Schüler,1
+1. Schüler,Undirected,4. Schüler,1
+1. Schüler,Undirected,Adam,1
+1. Schüler,Undirected,Aus der Menge,1
+1. Schüler,Undirected,Chor,1
+1. Schüler,Undirected,Der Verurteilte,1
+1. Schüler,Undirected,Ein Arbeiter,1
+1. Schüler,Undirected,Ein Händler,1
+1. Schüler,Undirected,Ein Juwelier,1
+1. Schüler,Undirected,Ein Mädchen,1
+1. Schüler,Undirected,Ein Schüler (11. Bild),1
+1. Schüler,Undirected,Eine (andere) Mutter,1
+1. Schüler,Undirected,Eine Dirne,1
+1. Schüler,Undirected,Eine Mutter,1
+1. Schüler,Undirected,Eva,1
+1. Schüler,Undirected,Gastwirt,1
+1. Schüler,Undirected,Jüngling (Arthur),1
+1. Schüler,Undirected,Kleines Mädchen,1
+1. Schüler,Undirected,Lovel,1
+1. Schüler,Undirected,Luzifer,1
+1. Schüler,Undirected,Musikant,1
+1. Schüler,Undirected,Puppenspieler,1
+1. Schüler,Undirected,Scharlatan,1
+1. Schüler,Undirected,Soldat,1
+1. Schüler,Undirected,Zigeunerin,1
+1. aus dem Volk,Undirected,2. Bürger (5. Bild),1
+1. aus dem Volk,Undirected,2. Demagog,1
+1. aus dem Volk,Undirected,2. aus dem Volk,1
+1. aus dem Volk,Undirected,3. aus dem Volk,1
+1. aus dem Volk,Undirected,Adam,1
+1. aus dem Volk,Undirected,Aus dem Volk,1
+1. aus dem Volk,Undirected,Chariten,1
+1. aus dem Volk,Undirected,Dienerinnen,1
+1. aus dem Volk,Undirected,Eros,1
+1. aus dem Volk,Undirected,Eva,1
+1. aus dem Volk,Undirected,Kimon,1
+1. aus dem Volk,Undirected,Krispos,1
+1. aus dem Volk,Undirected,Luzifer,1
+1. aus dem Volk,Undirected,Thersites,1
+2. Arbeiter,Undirected,2. Bettler,1
+2. Arbeiter,Undirected,2. Bürgermädchen,1
+2. Arbeiter,Undirected,2. Fabrikant,1
+2. Arbeiter,Undirected,2. Handwerksbursche,1
+2. Arbeiter,Undirected,2. Händler,1
+2. Arbeiter,Undirected,2. Schüler,1
+2. Arbeiter,Undirected,3. Arbeiter,1
+2. Arbeiter,Undirected,3. Schüler,1
+2. Arbeiter,Undirected,4. Schüler,1
+2. Arbeiter,Undirected,Adam,1
+2. Arbeiter,Undirected,Aus der Menge,1
+2. Arbeiter,Undirected,Chor,1
+2. Arbeiter,Undirected,Der Verurteilte,1
+2. Arbeiter,Undirected,Ein Arbeiter,1
+2. Arbeiter,Undirected,Ein Händler,1
+2. Arbeiter,Undirected,Ein Juwelier,1
+2. Arbeiter,Undirected,Ein Mädchen,1
+2. Arbeiter,Undirected,Ein Schüler (11. Bild),1
+2. Arbeiter,Undirected,Eine (andere) Mutter,1
+2. Arbeiter,Undirected,Eine Dirne,1
+2. Arbeiter,Undirected,Eine Mutter,1
+2. Arbeiter,Undirected,Eva,1
+2. Arbeiter,Undirected,Gastwirt,1
+2. Arbeiter,Undirected,Jüngling (Arthur),1
+2. Arbeiter,Undirected,Kleines Mädchen,1
+2. Arbeiter,Undirected,Lovel,1
+2. Arbeiter,Undirected,Luzifer,1
+2. Arbeiter,Undirected,Musikant,1
+2. Arbeiter,Undirected,Puppenspieler,1
+2. Arbeiter,Undirected,Scharlatan,1
+2. Arbeiter,Undirected,Soldat,1
+2. Arbeiter,Undirected,Zigeunerin,1
+2. Bettler,Undirected,2. Bürgermädchen,1
+2. Bettler,Undirected,2. Fabrikant,1
+2. Bettler,Undirected,2. Handwerksbursche,1
+2. Bettler,Undirected,2. Händler,1
+2. Bettler,Undirected,2. Schüler,1
+2. Bettler,Undirected,3. Arbeiter,1
+2. Bettler,Undirected,3. Schüler,1
+2. Bettler,Undirected,4. Schüler,1
+2. Bettler,Undirected,Adam,1
+2. Bettler,Undirected,Aus der Menge,1
+2. Bettler,Undirected,Chor,1
+2. Bettler,Undirected,Der Verurteilte,1
+2. Bettler,Undirected,Ein Arbeiter,1
+2. Bettler,Undirected,Ein Händler,1
+2. Bettler,Undirected,Ein Juwelier,1
+2. Bettler,Undirected,Ein Mädchen,1
+2. Bettler,Undirected,Ein Schüler (11. Bild),1
+2. Bettler,Undirected,Eine (andere) Mutter,1
+2. Bettler,Undirected,Eine Dirne,1
+2. Bettler,Undirected,Eine Mutter,1
+2. Bettler,Undirected,Eva,1
+2. Bettler,Undirected,Gastwirt,1
+2. Bettler,Undirected,Jüngling (Arthur),1
+2. Bettler,Undirected,Kleines Mädchen,1
+2. Bettler,Undirected,Lovel,1
+2. Bettler,Undirected,Luzifer,1
+2. Bettler,Undirected,Musikant,1
+2. Bettler,Undirected,Puppenspieler,1
+2. Bettler,Undirected,Scharlatan,1
+2. Bettler,Undirected,Soldat,1
+2. Bettler,Undirected,Zigeunerin,1
+2. Bürger (5. Bild),Undirected,2. Demagog,1
+2. Bürger (5. Bild),Undirected,2. aus dem Volk,1
+2. Bürger (5. Bild),Undirected,3. aus dem Volk,1
+2. Bürger (5. Bild),Undirected,Adam,1
+2. Bürger (5. Bild),Undirected,Aus dem Volk,1
+2. Bürger (5. Bild),Undirected,Chariten,1
+2. Bürger (5. Bild),Undirected,Dienerinnen,1
+2. Bürger (5. Bild),Undirected,Eros,1
+2. Bürger (5. Bild),Undirected,Eva,1
+2. Bürger (5. Bild),Undirected,Kimon,1
+2. Bürger (5. Bild),Undirected,Krispos,1
+2. Bürger (5. Bild),Undirected,Luzifer,1
+2. Bürger (5. Bild),Undirected,Thersites,1
+2. Bürger (7. Bild),Undirected,3. Bürger (7. Bild),1
+2. Bürger (7. Bild),Undirected,4. Bürger (7. Bild),1
+2. Bürger (7. Bild),Undirected,Adam,1
+2. Bürger (7. Bild),Undirected,Das Gerippe,1
+2. Bürger (7. Bild),Undirected,Die Ketzer,1
+2. Bürger (7. Bild),Undirected,Die Kreuzfahrer,1
+2. Bürger (7. Bild),Undirected,Die Mönche,1
+2. Bürger (7. Bild),Undirected,Ein (anderer) Mönch,1
+2. Bürger (7. Bild),Undirected,Ein Mönch,1
+2. Bürger (7. Bild),Undirected,Ein alter Ketzer,1
+2. Bürger (7. Bild),Undirected,Eva,1
+2. Bürger (7. Bild),Undirected,Helene,1
+2. Bürger (7. Bild),Undirected,Hexen,1
+2. Bürger (7. Bild),Undirected,Luzifer,1
+2. Bürger (7. Bild),Undirected,Mehrere,1
+2. Bürger (7. Bild),Undirected,Patriarch,1
+2. Bürgermädchen,Undirected,2. Fabrikant,1
+2. Bürgermädchen,Undirected,2. Handwerksbursche,1
+2. Bürgermädchen,Undirected,2. Händler,1
+2. Bürgermädchen,Undirected,2. Schüler,1
+2. Bürgermädchen,Undirected,3. Arbeiter,1
+2. Bürgermädchen,Undirected,3. Schüler,1
+2. Bürgermädchen,Undirected,4. Schüler,1
+2. Bürgermädchen,Undirected,Adam,1
+2. Bürgermädchen,Undirected,Aus der Menge,1
+2. Bürgermädchen,Undirected,Chor,1
+2. Bürgermädchen,Undirected,Der Verurteilte,1
+2. Bürgermädchen,Undirected,Ein Arbeiter,1
+2. Bürgermädchen,Undirected,Ein Händler,1
+2. Bürgermädchen,Undirected,Ein Juwelier,1
+2. Bürgermädchen,Undirected,Ein Mädchen,1
+2. Bürgermädchen,Undirected,Ein Schüler (11. Bild),1
+2. Bürgermädchen,Undirected,Eine (andere) Mutter,1
+2. Bürgermädchen,Undirected,Eine Dirne,1
+2. Bürgermädchen,Undirected,Eine Mutter,1
+2. Bürgermädchen,Undirected,Eva,1
+2. Bürgermädchen,Undirected,Gastwirt,1
+2. Bürgermädchen,Undirected,Jüngling (Arthur),1
+2. Bürgermädchen,Undirected,Kleines Mädchen,1
+2. Bürgermädchen,Undirected,Lovel,1
+2. Bürgermädchen,Undirected,Luzifer,1
+2. Bürgermädchen,Undirected,Musikant,1
+2. Bürgermädchen,Undirected,Puppenspieler,1
+2. Bürgermädchen,Undirected,Scharlatan,1
+2. Bürgermädchen,Undirected,Soldat,1
+2. Bürgermädchen,Undirected,Zigeunerin,1
+2. Demagog,Undirected,2. aus dem Volk,1
+2. Demagog,Undirected,3. aus dem Volk,1
+2. Demagog,Undirected,Adam,1
+2. Demagog,Undirected,Aus dem Volk,1
+2. Demagog,Undirected,Chariten,1
+2. Demagog,Undirected,Dienerinnen,1
+2. Demagog,Undirected,Eros,1
+2. Demagog,Undirected,Eva,1
+2. Demagog,Undirected,Kimon,1
+2. Demagog,Undirected,Krispos,1
+2. Demagog,Undirected,Luzifer,1
+2. Demagog,Undirected,Thersites,1
+2. Fabrikant,Undirected,2. Handwerksbursche,1
+2. Fabrikant,Undirected,2. Händler,1
+2. Fabrikant,Undirected,2. Schüler,1
+2. Fabrikant,Undirected,3. Arbeiter,1
+2. Fabrikant,Undirected,3. Schüler,1
+2. Fabrikant,Undirected,4. Schüler,1
+2. Fabrikant,Undirected,Adam,1
+2. Fabrikant,Undirected,Aus der Menge,1
+2. Fabrikant,Undirected,Chor,1
+2. Fabrikant,Undirected,Der Verurteilte,1
+2. Fabrikant,Undirected,Ein Arbeiter,1
+2. Fabrikant,Undirected,Ein Händler,1
+2. Fabrikant,Undirected,Ein Juwelier,1
+2. Fabrikant,Undirected,Ein Mädchen,1
+2. Fabrikant,Undirected,Ein Schüler (11. Bild),1
+2. Fabrikant,Undirected,Eine (andere) Mutter,1
+2. Fabrikant,Undirected,Eine Dirne,1
+2. Fabrikant,Undirected,Eine Mutter,1
+2. Fabrikant,Undirected,Eva,1
+2. Fabrikant,Undirected,Gastwirt,1
+2. Fabrikant,Undirected,Jüngling (Arthur),1
+2. Fabrikant,Undirected,Kleines Mädchen,1
+2. Fabrikant,Undirected,Lovel,1
+2. Fabrikant,Undirected,Luzifer,1
+2. Fabrikant,Undirected,Musikant,1
+2. Fabrikant,Undirected,Puppenspieler,1
+2. Fabrikant,Undirected,Scharlatan,1
+2. Fabrikant,Undirected,Soldat,1
+2. Fabrikant,Undirected,Zigeunerin,1
+2. Handwerksbursche,Undirected,2. Händler,1
+2. Handwerksbursche,Undirected,2. Schüler,1
+2. Handwerksbursche,Undirected,3. Arbeiter,1
+2. Handwerksbursche,Undirected,3. Schüler,1
+2. Handwerksbursche,Undirected,4. Schüler,1
+2. Handwerksbursche,Undirected,Adam,1
+2. Handwerksbursche,Undirected,Aus der Menge,1
+2. Handwerksbursche,Undirected,Chor,1
+2. Handwerksbursche,Undirected,Der Verurteilte,1
+2. Handwerksbursche,Undirected,Ein Arbeiter,1
+2. Handwerksbursche,Undirected,Ein Händler,1
+2. Handwerksbursche,Undirected,Ein Juwelier,1
+2. Handwerksbursche,Undirected,Ein Mädchen,1
+2. Handwerksbursche,Undirected,Ein Schüler (11. Bild),1
+2. Handwerksbursche,Undirected,Eine (andere) Mutter,1
+2. Handwerksbursche,Undirected,Eine Dirne,1
+2. Handwerksbursche,Undirected,Eine Mutter,1
+2. Handwerksbursche,Undirected,Eva,1
+2. Handwerksbursche,Undirected,Gastwirt,1
+2. Handwerksbursche,Undirected,Jüngling (Arthur),1
+2. Handwerksbursche,Undirected,Kleines Mädchen,1
+2. Handwerksbursche,Undirected,Lovel,1
+2. Handwerksbursche,Undirected,Luzifer,1
+2. Handwerksbursche,Undirected,Musikant,1
+2. Handwerksbursche,Undirected,Puppenspieler,1
+2. Handwerksbursche,Undirected,Scharlatan,1
+2. Handwerksbursche,Undirected,Soldat,1
+2. Handwerksbursche,Undirected,Zigeunerin,1
+2. Händler,Undirected,2. Schüler,1
+2. Händler,Undirected,3. Arbeiter,1
+2. Händler,Undirected,3. Schüler,1
+2. Händler,Undirected,4. Schüler,1
+2. Händler,Undirected,Adam,1
+2. Händler,Undirected,Aus der Menge,1
+2. Händler,Undirected,Chor,1
+2. Händler,Undirected,Der Verurteilte,1
+2. Händler,Undirected,Ein Arbeiter,1
+2. Händler,Undirected,Ein Händler,1
+2. Händler,Undirected,Ein Juwelier,1
+2. Händler,Undirected,Ein Mädchen,1
+2. Händler,Undirected,Ein Schüler (11. Bild),1
+2. Händler,Undirected,Eine (andere) Mutter,1
+2. Händler,Undirected,Eine Dirne,1
+2. Händler,Undirected,Eine Mutter,1
+2. Händler,Undirected,Eva,1
+2. Händler,Undirected,Gastwirt,1
+2. Händler,Undirected,Jüngling (Arthur),1
+2. Händler,Undirected,Kleines Mädchen,1
+2. Händler,Undirected,Lovel,1
+2. Händler,Undirected,Luzifer,1
+2. Händler,Undirected,Musikant,1
+2. Händler,Undirected,Puppenspieler,1
+2. Händler,Undirected,Scharlatan,1
+2. Händler,Undirected,Soldat,1
+2. Händler,Undirected,Zigeunerin,1
+2. Höfling,Undirected,3. Höfling,1
+2. Höfling,Undirected,4. Höfling,1
+2. Höfling,Undirected,Adam,1
+2. Höfling,Undirected,Eva,1
+2. Höfling,Undirected,Luzifer,1
+2. Höfling,Undirected,Rudolf,1
+2. Schüler,Undirected,3. Arbeiter,1
+2. Schüler,Undirected,3. Schüler,1
+2. Schüler,Undirected,4. Schüler,1
+2. Schüler,Undirected,Adam,1
+2. Schüler,Undirected,Aus der Menge,1
+2. Schüler,Undirected,Chor,1
+2. Schüler,Undirected,Der Verurteilte,1
+2. Schüler,Undirected,Ein Arbeiter,1
+2. Schüler,Undirected,Ein Händler,1
+2. Schüler,Undirected,Ein Juwelier,1
+2. Schüler,Undirected,Ein Mädchen,1
+2. Schüler,Undirected,Ein Schüler (11. Bild),1
+2. Schüler,Undirected,Eine (andere) Mutter,1
+2. Schüler,Undirected,Eine Dirne,1
+2. Schüler,Undirected,Eine Mutter,1
+2. Schüler,Undirected,Eva,1
+2. Schüler,Undirected,Gastwirt,1
+2. Schüler,Undirected,Jüngling (Arthur),1
+2. Schüler,Undirected,Kleines Mädchen,1
+2. Schüler,Undirected,Lovel,1
+2. Schüler,Undirected,Luzifer,1
+2. Schüler,Undirected,Musikant,1
+2. Schüler,Undirected,Puppenspieler,1
+2. Schüler,Undirected,Scharlatan,1
+2. Schüler,Undirected,Soldat,1
+2. Schüler,Undirected,Zigeunerin,1
+2. aus dem Volk,Undirected,3. aus dem Volk,1
+2. aus dem Volk,Undirected,Adam,1
+2. aus dem Volk,Undirected,Aus dem Volk,1
+2. aus dem Volk,Undirected,Chariten,1
+2. aus dem Volk,Undirected,Dienerinnen,1
+2. aus dem Volk,Undirected,Eros,1
+2. aus dem Volk,Undirected,Eva,1
+2. aus dem Volk,Undirected,Kimon,1
+2. aus dem Volk,Undirected,Krispos,1
+2. aus dem Volk,Undirected,Luzifer,1
+2. aus dem Volk,Undirected,Thersites,1
+3. Arbeiter,Undirected,3. Schüler,1
+3. Arbeiter,Undirected,4. Schüler,1
+3. Arbeiter,Undirected,Adam,1
+3. Arbeiter,Undirected,Aus der Menge,1
+3. Arbeiter,Undirected,Chor,1
+3. Arbeiter,Undirected,Der Verurteilte,1
+3. Arbeiter,Undirected,Ein Arbeiter,1
+3. Arbeiter,Undirected,Ein Händler,1
+3. Arbeiter,Undirected,Ein Juwelier,1
+3. Arbeiter,Undirected,Ein Mädchen,1
+3. Arbeiter,Undirected,Ein Schüler (11. Bild),1
+3. Arbeiter,Undirected,Eine (andere) Mutter,1
+3. Arbeiter,Undirected,Eine Dirne,1
+3. Arbeiter,Undirected,Eine Mutter,1
+3. Arbeiter,Undirected,Eva,1
+3. Arbeiter,Undirected,Gastwirt,1
+3. Arbeiter,Undirected,Jüngling (Arthur),1
+3. Arbeiter,Undirected,Kleines Mädchen,1
+3. Arbeiter,Undirected,Lovel,1
+3. Arbeiter,Undirected,Luzifer,1
+3. Arbeiter,Undirected,Musikant,1
+3. Arbeiter,Undirected,Puppenspieler,1
+3. Arbeiter,Undirected,Scharlatan,1
+3. Arbeiter,Undirected,Soldat,1
+3. Arbeiter,Undirected,Zigeunerin,1
+3. Bürger (7. Bild),Undirected,4. Bürger (7. Bild),1
+3. Bürger (7. Bild),Undirected,Adam,1
+3. Bürger (7. Bild),Undirected,Das Gerippe,1
+3. Bürger (7. Bild),Undirected,Die Ketzer,1
+3. Bürger (7. Bild),Undirected,Die Kreuzfahrer,1
+3. Bürger (7. Bild),Undirected,Die Mönche,1
+3. Bürger (7. Bild),Undirected,Ein (anderer) Mönch,1
+3. Bürger (7. Bild),Undirected,Ein Mönch,1
+3. Bürger (7. Bild),Undirected,Ein alter Ketzer,1
+3. Bürger (7. Bild),Undirected,Eva,1
+3. Bürger (7. Bild),Undirected,Helene,1
+3. Bürger (7. Bild),Undirected,Hexen,1
+3. Bürger (7. Bild),Undirected,Luzifer,1
+3. Bürger (7. Bild),Undirected,Mehrere,1
+3. Bürger (7. Bild),Undirected,Patriarch,1
+3. Höfling,Undirected,4. Höfling,1
+3. Höfling,Undirected,Adam,2
+3. Höfling,Undirected,Ein Schüler (10. Bild),1
+3. Höfling,Undirected,Eva,2
+3. Höfling,Undirected,Luzifer,2
+3. Höfling,Undirected,Rudolf,1
+3. Schüler,Undirected,4. Schüler,1
+3. Schüler,Undirected,Adam,1
+3. Schüler,Undirected,Aus der Menge,1
+3. Schüler,Undirected,Chor,1
+3. Schüler,Undirected,Der Verurteilte,1
+3. Schüler,Undirected,Ein Arbeiter,1
+3. Schüler,Undirected,Ein Händler,1
+3. Schüler,Undirected,Ein Juwelier,1
+3. Schüler,Undirected,Ein Mädchen,1
+3. Schüler,Undirected,Ein Schüler (11. Bild),1
+3. Schüler,Undirected,Eine (andere) Mutter,1
+3. Schüler,Undirected,Eine Dirne,1
+3. Schüler,Undirected,Eine Mutter,1
+3. Schüler,Undirected,Eva,1
+3. Schüler,Undirected,Gastwirt,1
+3. Schüler,Undirected,Jüngling (Arthur),1
+3. Schüler,Undirected,Kleines Mädchen,1
+3. Schüler,Undirected,Lovel,1
+3. Schüler,Undirected,Luzifer,1
+3. Schüler,Undirected,Musikant,1
+3. Schüler,Undirected,Puppenspieler,1
+3. Schüler,Undirected,Scharlatan,1
+3. Schüler,Undirected,Soldat,1
+3. Schüler,Undirected,Zigeunerin,1
+3. aus dem Volk,Undirected,Adam,1
+3. aus dem Volk,Undirected,Aus dem Volk,1
+3. aus dem Volk,Undirected,Chariten,1
+3. aus dem Volk,Undirected,Dienerinnen,1
+3. aus dem Volk,Undirected,Eros,1
+3. aus dem Volk,Undirected,Eva,1
+3. aus dem Volk,Undirected,Kimon,1
+3. aus dem Volk,Undirected,Krispos,1
+3. aus dem Volk,Undirected,Luzifer,1
+3. aus dem Volk,Undirected,Thersites,1
+4. Bürger (7. Bild),Undirected,Adam,1
+4. Bürger (7. Bild),Undirected,Das Gerippe,1
+4. Bürger (7. Bild),Undirected,Die Ketzer,1
+4. Bürger (7. Bild),Undirected,Die Kreuzfahrer,1
+4. Bürger (7. Bild),Undirected,Die Mönche,1
+4. Bürger (7. Bild),Undirected,Ein (anderer) Mönch,1
+4. Bürger (7. Bild),Undirected,Ein Mönch,1
+4. Bürger (7. Bild),Undirected,Ein alter Ketzer,1
+4. Bürger (7. Bild),Undirected,Eva,1
+4. Bürger (7. Bild),Undirected,Helene,1
+4. Bürger (7. Bild),Undirected,Hexen,1
+4. Bürger (7. Bild),Undirected,Luzifer,1
+4. Bürger (7. Bild),Undirected,Mehrere,1
+4. Bürger (7. Bild),Undirected,Patriarch,1
+4. Höfling,Undirected,Adam,1
+4. Höfling,Undirected,Eva,1
+4. Höfling,Undirected,Luzifer,1
+4. Höfling,Undirected,Rudolf,1
+4. Schüler,Undirected,Adam,1
+4. Schüler,Undirected,Aus der Menge,1
+4. Schüler,Undirected,Chor,1
+4. Schüler,Undirected,Der Verurteilte,1
+4. Schüler,Undirected,Ein Arbeiter,1
+4. Schüler,Undirected,Ein Händler,1
+4. Schüler,Undirected,Ein Juwelier,1
+4. Schüler,Undirected,Ein Mädchen,1
+4. Schüler,Undirected,Ein Schüler (11. Bild),1
+4. Schüler,Undirected,Eine (andere) Mutter,1
+4. Schüler,Undirected,Eine Dirne,1
+4. Schüler,Undirected,Eine Mutter,1
+4. Schüler,Undirected,Eva,1
+4. Schüler,Undirected,Gastwirt,1
+4. Schüler,Undirected,Jüngling (Arthur),1
+4. Schüler,Undirected,Kleines Mädchen,1
+4. Schüler,Undirected,Lovel,1
+4. Schüler,Undirected,Luzifer,1
+4. Schüler,Undirected,Musikant,1
+4. Schüler,Undirected,Puppenspieler,1
+4. Schüler,Undirected,Scharlatan,1
+4. Schüler,Undirected,Soldat,1
+4. Schüler,Undirected,Zigeunerin,1
+Adam,Undirected,Alle,1
+Adam,Undirected,Aus dem Volk,1
+Adam,Undirected,Aus der Menge,1
+Adam,Undirected,Cassius,1
+Adam,Undirected,Catulus,1
+Adam,Undirected,Chariten,1
+Adam,Undirected,Cherub,1
+Adam,Undirected,Chor,1
+Adam,Undirected,Chor der Engel,1
+Adam,Undirected,Cluvia,1
+Adam,Undirected,Das Gerippe,1
+Adam,Undirected,Der Herr,2
+Adam,Undirected,Der Marquis,1
+Adam,Undirected,Der Sklave,1
+Adam,Undirected,Der Verurteilte,1
+Adam,Undirected,Der Älteste,1
+Adam,Undirected,Die Ketzer,1
+Adam,Undirected,Die Kreuzfahrer,1
+Adam,Undirected,Die Mönche,1
+Adam,Undirected,Dienerinnen,1
+Adam,Undirected,Ein (anderer) Mönch,1
+Adam,Undirected,Ein (anderer) Sansculotte,1
+Adam,Undirected,Ein Arbeiter,1
+Adam,Undirected,Ein Händler,1
+Adam,Undirected,Ein Juwelier,1
+Adam,Undirected,Ein Mädchen,1
+Adam,Undirected,Ein Mönch,1
+Adam,Undirected,Ein Sansculotte,1
+Adam,Undirected,Ein Schüler (10. Bild),1
+Adam,Undirected,Ein Schüler (11. Bild),1
+Adam,Undirected,Ein alter Ketzer,1
+Adam,Undirected,Eine (andere) Mutter,1
+Adam,Undirected,Eine Dirne,1
+Adam,Undirected,Eine Mutter,1
+Adam,Undirected,Eros,1
+Adam,Undirected,Eskimo,1
+Adam,Undirected,Eva,13
+Adam,Undirected,Gastwirt,1
+Adam,Undirected,Gelehrter,1
+Adam,Undirected,Helene,1
+Adam,Undirected,Hexen,1
+Adam,Undirected,Himmelschor,1
+Adam,Undirected,Hippia,1
+Adam,Undirected,Jüngling (Arthur),1
+Adam,Undirected,Kimon,1
+Adam,Undirected,Kleines Mädchen,1
+Adam,Undirected,Krispos,1
+Adam,Undirected,Lovel,1
+Adam,Undirected,Luther,1
+Adam,Undirected,Luzifer,13
+Adam,Undirected,Mehrere,1
+Adam,Undirected,Michelangelo,1
+Adam,Undirected,Musikant,1
+Adam,Undirected,Offizier,1
+Adam,Undirected,Patriarch,1
+Adam,Undirected,Petrus,1
+Adam,Undirected,Platon,1
+Adam,Undirected,Puppenspieler,1
+Adam,Undirected,Rekruten,1
+Adam,Undirected,Robespierre,1
+Adam,Undirected,Rudolf,1
+Adam,Undirected,Saint-Just,1
+Adam,Undirected,Scharlatan,1
+Adam,Undirected,Soldat,1
+Adam,Undirected,Stimme des Erdgeistes,3
+Adam,Undirected,Thersites,1
+Adam,Undirected,Volksmenge,1
+Adam,Undirected,Zigeunerin,1
+Alle,Undirected,Catulus,1
+Alle,Undirected,Cluvia,1
+Alle,Undirected,Eva,1
+Alle,Undirected,Hippia,1
+Alle,Undirected,Luzifer,1
+Alle,Undirected,Petrus,1
+Aus dem Volk,Undirected,Chariten,1
+Aus dem Volk,Undirected,Dienerinnen,1
+Aus dem Volk,Undirected,Eros,1
+Aus dem Volk,Undirected,Eva,1
+Aus dem Volk,Undirected,Kimon,1
+Aus dem Volk,Undirected,Krispos,1
+Aus dem Volk,Undirected,Luzifer,1
+Aus dem Volk,Undirected,Thersites,1
+Aus der Menge,Undirected,Chor,1
+Aus der Menge,Undirected,Der Verurteilte,1
+Aus der Menge,Undirected,Ein Arbeiter,1
+Aus der Menge,Undirected,Ein Händler,1
+Aus der Menge,Undirected,Ein Juwelier,1
+Aus der Menge,Undirected,Ein Mädchen,1
+Aus der Menge,Undirected,Ein Schüler (11. Bild),1
+Aus der Menge,Undirected,Eine (andere) Mutter,1
+Aus der Menge,Undirected,Eine Dirne,1
+Aus der Menge,Undirected,Eine Mutter,1
+Aus der Menge,Undirected,Eva,1
+Aus der Menge,Undirected,Gastwirt,1
+Aus der Menge,Undirected,Jüngling (Arthur),1
+Aus der Menge,Undirected,Kleines Mädchen,1
+Aus der Menge,Undirected,Lovel,1
+Aus der Menge,Undirected,Luzifer,1
+Aus der Menge,Undirected,Musikant,1
+Aus der Menge,Undirected,Puppenspieler,1
+Aus der Menge,Undirected,Scharlatan,1
+Aus der Menge,Undirected,Soldat,1
+Aus der Menge,Undirected,Zigeunerin,1
+Cassius,Undirected,Der Älteste,1
+Cassius,Undirected,Eva,1
+Cassius,Undirected,Gelehrter,1
+Cassius,Undirected,Luther,1
+Cassius,Undirected,Luzifer,1
+Cassius,Undirected,Michelangelo,1
+Cassius,Undirected,Platon,1
+Cassius,Undirected,Stimme des Erdgeistes,1
+Catulus,Undirected,Cluvia,1
+Catulus,Undirected,Eva,1
+Catulus,Undirected,Hippia,1
+Catulus,Undirected,Luzifer,1
+Catulus,Undirected,Petrus,1
+Chariten,Undirected,Dienerinnen,1
+Chariten,Undirected,Eros,1
+Chariten,Undirected,Eva,1
+Chariten,Undirected,Kimon,1
+Chariten,Undirected,Krispos,1
+Chariten,Undirected,Luzifer,1
+Chariten,Undirected,Thersites,1
+Cherub,Undirected,Der Herr,1
+Cherub,Undirected,Eva,1
+Cherub,Undirected,Himmelschor,1
+Cherub,Undirected,Luzifer,1
+Chor der Engel,Undirected,Der Herr,2
+Chor der Engel,Undirected,Erzengel Gabriel,1
+Chor der Engel,Undirected,Erzengel Michael,1
+Chor der Engel,Undirected,Erzengel Raphael,1
+Chor der Engel,Undirected,Eva,1
+Chor der Engel,Undirected,Luzifer,2
+Chor,Undirected,Der Verurteilte,1
+Chor,Undirected,Ein Arbeiter,1
+Chor,Undirected,Ein Händler,1
+Chor,Undirected,Ein Juwelier,1
+Chor,Undirected,Ein Mädchen,1
+Chor,Undirected,Ein Schüler (11. Bild),1
+Chor,Undirected,Eine (andere) Mutter,1
+Chor,Undirected,Eine Dirne,1
+Chor,Undirected,Eine Mutter,1
+Chor,Undirected,Eva,1
+Chor,Undirected,Gastwirt,1
+Chor,Undirected,Jüngling (Arthur),1
+Chor,Undirected,Kleines Mädchen,1
+Chor,Undirected,Lovel,1
+Chor,Undirected,Luzifer,1
+Chor,Undirected,Musikant,1
+Chor,Undirected,Puppenspieler,1
+Chor,Undirected,Scharlatan,1
+Chor,Undirected,Soldat,1
+Chor,Undirected,Zigeunerin,1
+Cluvia,Undirected,Eva,1
+Cluvia,Undirected,Hippia,1
+Cluvia,Undirected,Luzifer,1
+Cluvia,Undirected,Petrus,1
+Das Gerippe,Undirected,Die Ketzer,1
+Das Gerippe,Undirected,Die Kreuzfahrer,1
+Das Gerippe,Undirected,Die Mönche,1
+Das Gerippe,Undirected,Ein (anderer) Mönch,1
+Das Gerippe,Undirected,Ein Mönch,1
+Das Gerippe,Undirected,Ein alter Ketzer,1
+Das Gerippe,Undirected,Eva,1
+Das Gerippe,Undirected,Helene,1
+Das Gerippe,Undirected,Hexen,1
+Das Gerippe,Undirected,Luzifer,1
+Das Gerippe,Undirected,Mehrere,1
+Das Gerippe,Undirected,Patriarch,1
+Der Herr,Undirected,Erzengel Gabriel,1
+Der Herr,Undirected,Erzengel Michael,1
+Der Herr,Undirected,Erzengel Raphael,1
+Der Herr,Undirected,Eva,2
+Der Herr,Undirected,Himmelschor,1
+Der Herr,Undirected,Luzifer,3
+Der Marquis,Undirected,Ein (anderer) Sansculotte,1
+Der Marquis,Undirected,Ein Sansculotte,1
+Der Marquis,Undirected,Eva,1
+Der Marquis,Undirected,Offizier,1
+Der Marquis,Undirected,Rekruten,1
+Der Marquis,Undirected,Robespierre,1
+Der Marquis,Undirected,Saint-Just,1
+Der Marquis,Undirected,Volksmenge,1
+Der Sklave,Undirected,Eva,1
+Der Sklave,Undirected,Luzifer,1
+Der Verurteilte,Undirected,Ein Arbeiter,1
+Der Verurteilte,Undirected,Ein Händler,1
+Der Verurteilte,Undirected,Ein Juwelier,1
+Der Verurteilte,Undirected,Ein Mädchen,1
+Der Verurteilte,Undirected,Ein Schüler (11. Bild),1
+Der Verurteilte,Undirected,Eine (andere) Mutter,1
+Der Verurteilte,Undirected,Eine Dirne,1
+Der Verurteilte,Undirected,Eine Mutter,1
+Der Verurteilte,Undirected,Eva,1
+Der Verurteilte,Undirected,Gastwirt,1
+Der Verurteilte,Undirected,Jüngling (Arthur),1
+Der Verurteilte,Undirected,Kleines Mädchen,1
+Der Verurteilte,Undirected,Lovel,1
+Der Verurteilte,Undirected,Luzifer,1
+Der Verurteilte,Undirected,Musikant,1
+Der Verurteilte,Undirected,Puppenspieler,1
+Der Verurteilte,Undirected,Scharlatan,1
+Der Verurteilte,Undirected,Soldat,1
+Der Verurteilte,Undirected,Zigeunerin,1
+Der Älteste,Undirected,Eva,1
+Der Älteste,Undirected,Gelehrter,1
+Der Älteste,Undirected,Luther,1
+Der Älteste,Undirected,Luzifer,1
+Der Älteste,Undirected,Michelangelo,1
+Der Älteste,Undirected,Platon,1
+Der Älteste,Undirected,Stimme des Erdgeistes,1
+Die Ketzer,Undirected,Die Kreuzfahrer,1
+Die Ketzer,Undirected,Die Mönche,1
+Die Ketzer,Undirected,Ein (anderer) Mönch,1
+Die Ketzer,Undirected,Ein Mönch,1
+Die Ketzer,Undirected,Ein alter Ketzer,1
+Die Ketzer,Undirected,Eva,1
+Die Ketzer,Undirected,Helene,1
+Die Ketzer,Undirected,Hexen,1
+Die Ketzer,Undirected,Luzifer,1
+Die Ketzer,Undirected,Mehrere,1
+Die Ketzer,Undirected,Patriarch,1
+Die Kreuzfahrer,Undirected,Die Mönche,1
+Die Kreuzfahrer,Undirected,Ein (anderer) Mönch,1
+Die Kreuzfahrer,Undirected,Ein Mönch,1
+Die Kreuzfahrer,Undirected,Ein alter Ketzer,1
+Die Kreuzfahrer,Undirected,Eva,1
+Die Kreuzfahrer,Undirected,Helene,1
+Die Kreuzfahrer,Undirected,Hexen,1
+Die Kreuzfahrer,Undirected,Luzifer,1
+Die Kreuzfahrer,Undirected,Mehrere,1
+Die Kreuzfahrer,Undirected,Patriarch,1
+Die Mönche,Undirected,Ein (anderer) Mönch,1
+Die Mönche,Undirected,Ein Mönch,1
+Die Mönche,Undirected,Ein alter Ketzer,1
+Die Mönche,Undirected,Eva,1
+Die Mönche,Undirected,Helene,1
+Die Mönche,Undirected,Hexen,1
+Die Mönche,Undirected,Luzifer,1
+Die Mönche,Undirected,Mehrere,1
+Die Mönche,Undirected,Patriarch,1
+Dienerinnen,Undirected,Eros,1
+Dienerinnen,Undirected,Eva,1
+Dienerinnen,Undirected,Kimon,1
+Dienerinnen,Undirected,Krispos,1
+Dienerinnen,Undirected,Luzifer,1
+Dienerinnen,Undirected,Thersites,1
+Ein (anderer) Mönch,Undirected,Ein Mönch,1
+Ein (anderer) Mönch,Undirected,Ein alter Ketzer,1
+Ein (anderer) Mönch,Undirected,Eva,1
+Ein (anderer) Mönch,Undirected,Helene,1
+Ein (anderer) Mönch,Undirected,Hexen,1
+Ein (anderer) Mönch,Undirected,Luzifer,1
+Ein (anderer) Mönch,Undirected,Mehrere,1
+Ein (anderer) Mönch,Undirected,Patriarch,1
+Ein (anderer) Sansculotte,Undirected,Ein Sansculotte,1
+Ein (anderer) Sansculotte,Undirected,Eva,1
+Ein (anderer) Sansculotte,Undirected,Offizier,1
+Ein (anderer) Sansculotte,Undirected,Rekruten,1
+Ein (anderer) Sansculotte,Undirected,Robespierre,1
+Ein (anderer) Sansculotte,Undirected,Saint-Just,1
+Ein (anderer) Sansculotte,Undirected,Volksmenge,1
+Ein Arbeiter,Undirected,Ein Händler,1
+Ein Arbeiter,Undirected,Ein Juwelier,1
+Ein Arbeiter,Undirected,Ein Mädchen,1
+Ein Arbeiter,Undirected,Ein Schüler (11. Bild),1
+Ein Arbeiter,Undirected,Eine (andere) Mutter,1
+Ein Arbeiter,Undirected,Eine Dirne,1
+Ein Arbeiter,Undirected,Eine Mutter,1
+Ein Arbeiter,Undirected,Eva,1
+Ein Arbeiter,Undirected,Gastwirt,1
+Ein Arbeiter,Undirected,Jüngling (Arthur),1
+Ein Arbeiter,Undirected,Kleines Mädchen,1
+Ein Arbeiter,Undirected,Lovel,1
+Ein Arbeiter,Undirected,Luzifer,1
+Ein Arbeiter,Undirected,Musikant,1
+Ein Arbeiter,Undirected,Puppenspieler,1
+Ein Arbeiter,Undirected,Scharlatan,1
+Ein Arbeiter,Undirected,Soldat,1
+Ein Arbeiter,Undirected,Zigeunerin,1
+Ein Händler,Undirected,Ein Juwelier,1
+Ein Händler,Undirected,Ein Mädchen,1
+Ein Händler,Undirected,Ein Schüler (11. Bild),1
+Ein Händler,Undirected,Eine (andere) Mutter,1
+Ein Händler,Undirected,Eine Dirne,1
+Ein Händler,Undirected,Eine Mutter,1
+Ein Händler,Undirected,Eva,1
+Ein Händler,Undirected,Gastwirt,1
+Ein Händler,Undirected,Jüngling (Arthur),1
+Ein Händler,Undirected,Kleines Mädchen,1
+Ein Händler,Undirected,Lovel,1
+Ein Händler,Undirected,Luzifer,1
+Ein Händler,Undirected,Musikant,1
+Ein Händler,Undirected,Puppenspieler,1
+Ein Händler,Undirected,Scharlatan,1
+Ein Händler,Undirected,Soldat,1
+Ein Händler,Undirected,Zigeunerin,1
+Ein Juwelier,Undirected,Ein Mädchen,1
+Ein Juwelier,Undirected,Ein Schüler (11. Bild),1
+Ein Juwelier,Undirected,Eine (andere) Mutter,1
+Ein Juwelier,Undirected,Eine Dirne,1
+Ein Juwelier,Undirected,Eine Mutter,1
+Ein Juwelier,Undirected,Eva,1
+Ein Juwelier,Undirected,Gastwirt,1
+Ein Juwelier,Undirected,Jüngling (Arthur),1
+Ein Juwelier,Undirected,Kleines Mädchen,1
+Ein Juwelier,Undirected,Lovel,1
+Ein Juwelier,Undirected,Luzifer,1
+Ein Juwelier,Undirected,Musikant,1
+Ein Juwelier,Undirected,Puppenspieler,1
+Ein Juwelier,Undirected,Scharlatan,1
+Ein Juwelier,Undirected,Soldat,1
+Ein Juwelier,Undirected,Zigeunerin,1
+Ein Mädchen,Undirected,Ein Schüler (11. Bild),1
+Ein Mädchen,Undirected,Eine (andere) Mutter,1
+Ein Mädchen,Undirected,Eine Dirne,1
+Ein Mädchen,Undirected,Eine Mutter,1
+Ein Mädchen,Undirected,Eva,1
+Ein Mädchen,Undirected,Gastwirt,1
+Ein Mädchen,Undirected,Jüngling (Arthur),1
+Ein Mädchen,Undirected,Kleines Mädchen,1
+Ein Mädchen,Undirected,Lovel,1
+Ein Mädchen,Undirected,Luzifer,1
+Ein Mädchen,Undirected,Musikant,1
+Ein Mädchen,Undirected,Puppenspieler,1
+Ein Mädchen,Undirected,Scharlatan,1
+Ein Mädchen,Undirected,Soldat,1
+Ein Mädchen,Undirected,Zigeunerin,1
+Ein Mönch,Undirected,Ein alter Ketzer,1
+Ein Mönch,Undirected,Eva,1
+Ein Mönch,Undirected,Helene,1
+Ein Mönch,Undirected,Hexen,1
+Ein Mönch,Undirected,Luzifer,1
+Ein Mönch,Undirected,Mehrere,1
+Ein Mönch,Undirected,Patriarch,1
+Ein Sansculotte,Undirected,Eva,1
+Ein Sansculotte,Undirected,Offizier,1
+Ein Sansculotte,Undirected,Rekruten,1
+Ein Sansculotte,Undirected,Robespierre,1
+Ein Sansculotte,Undirected,Saint-Just,1
+Ein Sansculotte,Undirected,Volksmenge,1
+Ein Schüler (10. Bild),Undirected,Eva,1
+Ein Schüler (10. Bild),Undirected,Luzifer,1
+Ein Schüler (11. Bild),Undirected,Eine (andere) Mutter,1
+Ein Schüler (11. Bild),Undirected,Eine Dirne,1
+Ein Schüler (11. Bild),Undirected,Eine Mutter,1
+Ein Schüler (11. Bild),Undirected,Eva,1
+Ein Schüler (11. Bild),Undirected,Gastwirt,1
+Ein Schüler (11. Bild),Undirected,Jüngling (Arthur),1
+Ein Schüler (11. Bild),Undirected,Kleines Mädchen,1
+Ein Schüler (11. Bild),Undirected,Lovel,1
+Ein Schüler (11. Bild),Undirected,Luzifer,1
+Ein Schüler (11. Bild),Undirected,Musikant,1
+Ein Schüler (11. Bild),Undirected,Puppenspieler,1
+Ein Schüler (11. Bild),Undirected,Scharlatan,1
+Ein Schüler (11. Bild),Undirected,Soldat,1
+Ein Schüler (11. Bild),Undirected,Zigeunerin,1
+Ein alter Ketzer,Undirected,Eva,1
+Ein alter Ketzer,Undirected,Helene,1
+Ein alter Ketzer,Undirected,Hexen,1
+Ein alter Ketzer,Undirected,Luzifer,1
+Ein alter Ketzer,Undirected,Mehrere,1
+Ein alter Ketzer,Undirected,Patriarch,1
+Eine (andere) Mutter,Undirected,Eine Dirne,1
+Eine (andere) Mutter,Undirected,Eine Mutter,1
+Eine (andere) Mutter,Undirected,Eva,1
+Eine (andere) Mutter,Undirected,Gastwirt,1
+Eine (andere) Mutter,Undirected,Jüngling (Arthur),1
+Eine (andere) Mutter,Undirected,Kleines Mädchen,1
+Eine (andere) Mutter,Undirected,Lovel,1
+Eine (andere) Mutter,Undirected,Luzifer,1
+Eine (andere) Mutter,Undirected,Musikant,1
+Eine (andere) Mutter,Undirected,Puppenspieler,1
+Eine (andere) Mutter,Undirected,Scharlatan,1
+Eine (andere) Mutter,Undirected,Soldat,1
+Eine (andere) Mutter,Undirected,Zigeunerin,1
+Eine Dirne,Undirected,Eine Mutter,1
+Eine Dirne,Undirected,Eva,1
+Eine Dirne,Undirected,Gastwirt,1
+Eine Dirne,Undirected,Jüngling (Arthur),1
+Eine Dirne,Undirected,Kleines Mädchen,1
+Eine Dirne,Undirected,Lovel,1
+Eine Dirne,Undirected,Luzifer,1
+Eine Dirne,Undirected,Musikant,1
+Eine Dirne,Undirected,Puppenspieler,1
+Eine Dirne,Undirected,Scharlatan,1
+Eine Dirne,Undirected,Soldat,1
+Eine Dirne,Undirected,Zigeunerin,1
+Eine Mutter,Undirected,Eva,1
+Eine Mutter,Undirected,Gastwirt,1
+Eine Mutter,Undirected,Jüngling (Arthur),1
+Eine Mutter,Undirected,Kleines Mädchen,1
+Eine Mutter,Undirected,Lovel,1
+Eine Mutter,Undirected,Luzifer,1
+Eine Mutter,Undirected,Musikant,1
+Eine Mutter,Undirected,Puppenspieler,1
+Eine Mutter,Undirected,Scharlatan,1
+Eine Mutter,Undirected,Soldat,1
+Eine Mutter,Undirected,Zigeunerin,1
+Eros,Undirected,Eva,1
+Eros,Undirected,Kimon,1
+Eros,Undirected,Krispos,1
+Eros,Undirected,Luzifer,1
+Eros,Undirected,Thersites,1
+Erzengel Gabriel,Undirected,Erzengel Michael,1
+Erzengel Gabriel,Undirected,Erzengel Raphael,1
+Erzengel Gabriel,Undirected,Luzifer,1
+Erzengel Michael,Undirected,Erzengel Raphael,1
+Erzengel Michael,Undirected,Luzifer,1
+Erzengel Raphael,Undirected,Luzifer,1
+Eskimo,Undirected,Eva,1
+Eskimo,Undirected,Luzifer,1
+Eva,Undirected,Gastwirt,1
+Eva,Undirected,Gelehrter,1
+Eva,Undirected,Helene,1
+Eva,Undirected,Hexen,1
+Eva,Undirected,Himmelschor,1
+Eva,Undirected,Hippia,1
+Eva,Undirected,Jüngling (Arthur),1
+Eva,Undirected,Kimon,1
+Eva,Undirected,Kleines Mädchen,1
+Eva,Undirected,Krispos,1
+Eva,Undirected,Lovel,1
+Eva,Undirected,Luther,1
+Eva,Undirected,Luzifer,12
+Eva,Undirected,Mehrere,1
+Eva,Undirected,Michelangelo,1
+Eva,Undirected,Musikant,1
+Eva,Undirected,Offizier,1
+Eva,Undirected,Patriarch,1
+Eva,Undirected,Petrus,1
+Eva,Undirected,Platon,1
+Eva,Undirected,Puppenspieler,1
+Eva,Undirected,Rekruten,1
+Eva,Undirected,Robespierre,1
+Eva,Undirected,Rudolf,1
+Eva,Undirected,Saint-Just,1
+Eva,Undirected,Scharlatan,1
+Eva,Undirected,Soldat,1
+Eva,Undirected,Stimme des Erdgeistes,2
+Eva,Undirected,Thersites,1
+Eva,Undirected,Volksmenge,1
+Eva,Undirected,Zigeunerin,1
+Gastwirt,Undirected,Jüngling (Arthur),1
+Gastwirt,Undirected,Kleines Mädchen,1
+Gastwirt,Undirected,Lovel,1
+Gastwirt,Undirected,Luzifer,1
+Gastwirt,Undirected,Musikant,1
+Gastwirt,Undirected,Puppenspieler,1
+Gastwirt,Undirected,Scharlatan,1
+Gastwirt,Undirected,Soldat,1
+Gastwirt,Undirected,Zigeunerin,1
+Gelehrter,Undirected,Luther,1
+Gelehrter,Undirected,Luzifer,1
+Gelehrter,Undirected,Michelangelo,1
+Gelehrter,Undirected,Platon,1
+Gelehrter,Undirected,Stimme des Erdgeistes,1
+Helene,Undirected,Hexen,1
+Helene,Undirected,Luzifer,1
+Helene,Undirected,Mehrere,1
+Helene,Undirected,Patriarch,1
+Hexen,Undirected,Luzifer,1
+Hexen,Undirected,Mehrere,1
+Hexen,Undirected,Patriarch,1
+Himmelschor,Undirected,Luzifer,1
+Hippia,Undirected,Luzifer,1
+Hippia,Undirected,Petrus,1
+Jüngling (Arthur),Undirected,Kleines Mädchen,1
+Jüngling (Arthur),Undirected,Lovel,1
+Jüngling (Arthur),Undirected,Luzifer,1
+Jüngling (Arthur),Undirected,Musikant,1
+Jüngling (Arthur),Undirected,Puppenspieler,1
+Jüngling (Arthur),Undirected,Scharlatan,1
+Jüngling (Arthur),Undirected,Soldat,1
+Jüngling (Arthur),Undirected,Zigeunerin,1
+Kimon,Undirected,Krispos,1
+Kimon,Undirected,Luzifer,1
+Kimon,Undirected,Thersites,1
+Kleines Mädchen,Undirected,Lovel,1
+Kleines Mädchen,Undirected,Luzifer,1
+Kleines Mädchen,Undirected,Musikant,1
+Kleines Mädchen,Undirected,Puppenspieler,1
+Kleines Mädchen,Undirected,Scharlatan,1
+Kleines Mädchen,Undirected,Soldat,1
+Kleines Mädchen,Undirected,Zigeunerin,1
+Krispos,Undirected,Luzifer,1
+Krispos,Undirected,Thersites,1
+Lovel,Undirected,Luzifer,1
+Lovel,Undirected,Musikant,1
+Lovel,Undirected,Puppenspieler,1
+Lovel,Undirected,Scharlatan,1
+Lovel,Undirected,Soldat,1
+Lovel,Undirected,Zigeunerin,1
+Luther,Undirected,Luzifer,1
+Luther,Undirected,Michelangelo,1
+Luther,Undirected,Platon,1
+Luther,Undirected,Stimme des Erdgeistes,1
+Luzifer,Undirected,Mehrere,1
+Luzifer,Undirected,Michelangelo,1
+Luzifer,Undirected,Musikant,1
+Luzifer,Undirected,Patriarch,1
+Luzifer,Undirected,Petrus,1
+Luzifer,Undirected,Platon,1
+Luzifer,Undirected,Puppenspieler,1
+Luzifer,Undirected,Rudolf,1
+Luzifer,Undirected,Scharlatan,1
+Luzifer,Undirected,Soldat,1
+Luzifer,Undirected,Stimme des Erdgeistes,3
+Luzifer,Undirected,Thersites,1
+Luzifer,Undirected,Zigeunerin,1
+Mehrere,Undirected,Patriarch,1
+Michelangelo,Undirected,Platon,1
+Michelangelo,Undirected,Stimme des Erdgeistes,1
+Musikant,Undirected,Puppenspieler,1
+Musikant,Undirected,Scharlatan,1
+Musikant,Undirected,Soldat,1
+Musikant,Undirected,Zigeunerin,1
+Offizier,Undirected,Rekruten,1
+Offizier,Undirected,Robespierre,1
+Offizier,Undirected,Saint-Just,1
+Offizier,Undirected,Volksmenge,1
+Platon,Undirected,Stimme des Erdgeistes,1
+Puppenspieler,Undirected,Scharlatan,1
+Puppenspieler,Undirected,Soldat,1
+Puppenspieler,Undirected,Zigeunerin,1
+Rekruten,Undirected,Robespierre,1
+Rekruten,Undirected,Saint-Just,1
+Rekruten,Undirected,Volksmenge,1
+Robespierre,Undirected,Saint-Just,1
+Robespierre,Undirected,Volksmenge,1
+Saint-Just,Undirected,Volksmenge,1
+Scharlatan,Undirected,Soldat,1
+Scharlatan,Undirected,Zigeunerin,1
+Soldat,Undirected,Zigeunerin,1

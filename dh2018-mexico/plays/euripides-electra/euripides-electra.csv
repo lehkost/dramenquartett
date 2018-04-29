@@ -1,0 +1,19 @@
+Source,Type,Target,Weight
+Castor,Undirected,Chorus,1
+Castor,Undirected,Electra,1
+Castor,Undirected,Orestes,1
+Chorus,Undirected,Clytemnestra,2
+Chorus,Undirected,Electra,9
+Chorus,Undirected,Farmer,1
+Chorus,Undirected,Leader,1
+Chorus,Undirected,Old Man,1
+Chorus,Undirected,Orestes,5
+Clytemnestra,Undirected,Electra,1
+Electra,Undirected,Farmer,2
+Electra,Undirected,Leader,2
+Electra,Undirected,Messenger,1
+Electra,Undirected,Old Man,2
+Electra,Undirected,Orestes,5
+Farmer,Undirected,Orestes,1
+Leader,Undirected,Messenger,1
+Old Man,Undirected,Orestes,1

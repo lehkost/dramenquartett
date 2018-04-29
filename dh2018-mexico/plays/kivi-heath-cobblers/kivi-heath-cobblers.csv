@@ -1,0 +1,119 @@
+Source,Type,Target,Weight
+1:n häämies,Undirected,2:n häämies,2
+1:n häämies,Undirected,Esko,2
+1:n häämies,Undirected,Jaakko,1
+1:n häämies,Undirected,Karri,2
+1:n häämies,Undirected,Kreeta,1
+1:n häämies,Undirected,Mikko,2
+1:n häämies,Undirected,Teemu,2
+1:n kuokka,Undirected,2:n kuokka,1
+1:n kuokka,Undirected,Esko,1
+1:n kuokka,Undirected,Mikko,1
+1:n kuokka,Undirected,Sepeteus,1
+1:n kuokka,Undirected,Topias,1
+2:n häämies,Undirected,Esko,2
+2:n häämies,Undirected,Jaakko,1
+2:n häämies,Undirected,Karri,2
+2:n häämies,Undirected,Kreeta,1
+2:n häämies,Undirected,Mikko,2
+2:n häämies,Undirected,Teemu,2
+2:n kuokka,Undirected,Mikko,1
+Anna-muori,Undirected,Eerikki,2
+Anna-muori,Undirected,Esko,2
+Anna-muori,Undirected,Iivari,2
+Anna-muori,Undirected,Jaana,2
+Anna-muori,Undirected,Kristo,3
+Anna-muori,Undirected,Leenan-Kalle,2
+Anna-muori,Undirected,Martta,3
+Anna-muori,Undirected,Niko,2
+Anna-muori,Undirected,Sakeri,1
+Anna-muori,Undirected,Sepeteus,3
+Anna-muori,Undirected,Topias,3
+Antres,Undirected,Esko,2
+Antres,Undirected,Iivari,1
+Antres,Undirected,Niko,1
+Antres,Undirected,Sakeri,1
+Eerikki,Undirected,Esko,2
+Eerikki,Undirected,Iivari,2
+Eerikki,Undirected,Jaana,2
+Eerikki,Undirected,Kristo,2
+Eerikki,Undirected,Leenan-Kalle,1
+Eerikki,Undirected,Martta,2
+Eerikki,Undirected,Niko,3
+Eerikki,Undirected,Sakeri,1
+Eerikki,Undirected,Sepeteus,2
+Eerikki,Undirected,Topias,2
+Eräs naisista,Undirected,Jaakko,1
+Eräs naisista,Undirected,Karri,1
+Eräs naisista,Undirected,Kreeta,1
+Eräs naisista,Undirected,Teemu,1
+Esko,Undirected,Iivari,4
+Esko,Undirected,Jaakko,2
+Esko,Undirected,Jaana,4
+Esko,Undirected,Karri,3
+Esko,Undirected,Kreeta,2
+Esko,Undirected,Kristo,3
+Esko,Undirected,Leenan-Kalle,1
+Esko,Undirected,Martta,6
+Esko,Undirected,Mikko,7
+Esko,Undirected,Nainen,1
+Esko,Undirected,Niko,3
+Esko,Undirected,Sakeri,2
+Esko,Undirected,Sepeteus,5
+Esko,Undirected,Teemu,2
+Esko,Undirected,Topias,6
+Iivari,Undirected,Jaana,2
+Iivari,Undirected,Kristo,2
+Iivari,Undirected,Krouvari,3
+Iivari,Undirected,Leenan-Kalle,1
+Iivari,Undirected,Martta,4
+Iivari,Undirected,Mikko,1
+Iivari,Undirected,Niko,5
+Iivari,Undirected,Sakeri,7
+Iivari,Undirected,Sepeteus,3
+Iivari,Undirected,Topias,4
+Jaakko,Undirected,Karri,3
+Jaakko,Undirected,Kreeta,1
+Jaakko,Undirected,Mikko,2
+Jaakko,Undirected,Teemu,2
+Jaana,Undirected,Kristo,4
+Jaana,Undirected,Leenan-Kalle,1
+Jaana,Undirected,Martta,4
+Jaana,Undirected,Niko,2
+Jaana,Undirected,Sakeri,1
+Jaana,Undirected,Sepeteus,2
+Jaana,Undirected,Topias,3
+Karri,Undirected,Kreeta,2
+Karri,Undirected,Mikko,3
+Karri,Undirected,Teemu,3
+Kreeta,Undirected,Mikko,2
+Kreeta,Undirected,Nainen,1
+Kreeta,Undirected,Teemu,2
+Kristo,Undirected,Leenan-Kalle,2
+Kristo,Undirected,Martta,4
+Kristo,Undirected,Mikko,1
+Kristo,Undirected,Niko,2
+Kristo,Undirected,Sakeri,1
+Kristo,Undirected,Sepeteus,3
+Kristo,Undirected,Topias,3
+Krouvari,Undirected,Niko,2
+Krouvari,Undirected,Sakeri,3
+Leenan-Kalle,Undirected,Martta,2
+Leenan-Kalle,Undirected,Niko,1
+Leenan-Kalle,Undirected,Sepeteus,2
+Leenan-Kalle,Undirected,Topias,2
+Martta,Undirected,Mikko,1
+Martta,Undirected,Niko,2
+Martta,Undirected,Sakeri,2
+Martta,Undirected,Sepeteus,5
+Martta,Undirected,Topias,8
+Mikko,Undirected,Nainen,1
+Mikko,Undirected,Sepeteus,1
+Mikko,Undirected,Teemu,2
+Mikko,Undirected,Topias,1
+Niko,Undirected,Sakeri,4
+Niko,Undirected,Sepeteus,2
+Niko,Undirected,Topias,2
+Sakeri,Undirected,Sepeteus,1
+Sakeri,Undirected,Topias,2
+Sepeteus,Undirected,Topias,8

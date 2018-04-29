@@ -1,0 +1,176 @@
+Source,Type,Target,Weight
+Alberti,Undirected,Angelo Colonna,3
+Alberti,Undirected,Another Citizen (II/2),1
+Alberti,Undirected,Camillo,3
+Alberti,Undirected,Citizens (II/2),1
+Alberti,Undirected,Claudia,3
+Alberti,Undirected,Cola di Rienzi,4
+Alberti,Undirected,First Citizen (II/2),1
+Alberti,Undirected,Frangipani,1
+Alberti,Undirected,Lady Colonna,1
+Alberti,Undirected,Paolo,1
+Alberti,Undirected,Second Citizen (II/2),1
+Angelo Colonna,Undirected,Another Citizen (II/2),1
+Angelo Colonna,Undirected,Cafarello,3
+Angelo Colonna,Undirected,Camillo,2
+Angelo Colonna,Undirected,Citizen (IV/1),1
+Angelo Colonna,Undirected,Citizens (II/2),1
+Angelo Colonna,Undirected,Claudia,3
+Angelo Colonna,Undirected,Cola di Rienzi,6
+Angelo Colonna,Undirected,First Citizen (II/2),1
+Angelo Colonna,Undirected,Frangipani,4
+Angelo Colonna,Undirected,Lady Colonna,2
+Angelo Colonna,Undirected,Paolo,1
+Angelo Colonna,Undirected,Savelli,4
+Angelo Colonna,Undirected,Second Citizen (II/2),1
+Angelo Colonna,Undirected,Stephen Colonna,3
+Angelo Colonna,Undirected,Ursini,4
+Another Citizen (II/2),Undirected,Citizens (II/2),1
+Another Citizen (II/2),Undirected,Cola di Rienzi,1
+Another Citizen (II/2),Undirected,First Citizen (II/2),1
+Another Citizen (II/2),Undirected,Paolo,1
+Another Citizen (II/2),Undirected,Second Citizen (II/2),1
+Attendant,Undirected,Cola di Rienzi,1
+Attendant,Undirected,Crowd,1
+Attendant,Undirected,First Citizen (I/1),1
+Attendant,Undirected,Frangipani,1
+Attendant,Undirected,Paolo,1
+Attendant,Undirected,Second Citizen (I/1),1
+Attendant,Undirected,Third Citizen (I/1),1
+Attendant,Undirected,Ursini,1
+Berta,Undirected,Claudia,1
+Berta,Undirected,Cola di Rienzi,1
+Berta,Undirected,Rosa,1
+Berta,Undirected,Teresa,1
+Cafarello,Undirected,Citizen (IV/1),1
+Cafarello,Undirected,Claudia,1
+Cafarello,Undirected,Cola di Rienzi,4
+Cafarello,Undirected,Frangipani,3
+Cafarello,Undirected,Lady Colonna,1
+Cafarello,Undirected,Savelli,4
+Cafarello,Undirected,Stephen Colonna,3
+Cafarello,Undirected,Ursini,3
+Camillo,Undirected,Claudia,3
+Camillo,Undirected,Cola di Rienzi,3
+Camillo,Undirected,Frangipani,1
+Camillo,Undirected,Lady Colonna,1
+Citizen (IV/1),Undirected,Claudia,1
+Citizen (IV/1),Undirected,Cola di Rienzi,1
+Citizen (IV/1),Undirected,Frangipani,1
+Citizen (IV/1),Undirected,Savelli,1
+Citizen (IV/1),Undirected,Stephen Colonna,1
+Citizen (IV/1),Undirected,Ursini,1
+Citizens (II/2),Undirected,Cola di Rienzi,1
+Citizens (II/2),Undirected,First Citizen (II/2),1
+Citizens (II/2),Undirected,Paolo,1
+Citizens (II/2),Undirected,Second Citizen (II/2),1
+Citizens (III/1),Undirected,Cola di Rienzi,1
+Citizens (III/1),Undirected,Fifth Citizen (III/1),1
+Citizens (III/1),Undirected,First Citizen (III/1),1
+Citizens (III/1),Undirected,Fourth Citizen (III/1),1
+Citizens (III/1),Undirected,Frangipani,1
+Citizens (III/1),Undirected,Paolo,1
+Citizens (III/1),Undirected,Second Citizen (III/1),1
+Citizens (III/1),Undirected,Third Citizen (III/1),1
+Citizens (III/1),Undirected,Ursini,1
+Citizens (V/2),Undirected,Claudia,1
+Citizens (V/2),Undirected,Cola di Rienzi,1
+Citizens (V/2),Undirected,First Citizen (V/2),1
+Citizens (V/2),Undirected,Lady Colonna,1
+Citizens (V/2),Undirected,Savelli,1
+Citizens (V/2),Undirected,Second Citizen (V/2),1
+Claudia,Undirected,Cola di Rienzi,6
+Claudia,Undirected,First Citizen (V/2),1
+Claudia,Undirected,Frangipani,2
+Claudia,Undirected,Lady Colonna,2
+Claudia,Undirected,Rosa,1
+Claudia,Undirected,Savelli,2
+Claudia,Undirected,Second Citizen (V/2),1
+Claudia,Undirected,Stephen Colonna,1
+Claudia,Undirected,Teresa,1
+Claudia,Undirected,Ursini,1
+Cola di Rienzi,Undirected,Crowd,1
+Cola di Rienzi,Undirected,Fifth Citizen (III/1),1
+Cola di Rienzi,Undirected,First Citizen (I/1),1
+Cola di Rienzi,Undirected,First Citizen (II/2),1
+Cola di Rienzi,Undirected,First Citizen (III/1),1
+Cola di Rienzi,Undirected,First Citizen (V/2),1
+Cola di Rienzi,Undirected,Fourth Citizen (III/1),1
+Cola di Rienzi,Undirected,Frangipani,6
+Cola di Rienzi,Undirected,Lady Colonna,3
+Cola di Rienzi,Undirected,Paolo,3
+Cola di Rienzi,Undirected,Rosa,1
+Cola di Rienzi,Undirected,Savelli,5
+Cola di Rienzi,Undirected,Second Citizen (I/1),1
+Cola di Rienzi,Undirected,Second Citizen (II/2),1
+Cola di Rienzi,Undirected,Second Citizen (III/1),1
+Cola di Rienzi,Undirected,Second Citizen (V/2),1
+Cola di Rienzi,Undirected,Stephen Colonna,3
+Cola di Rienzi,Undirected,Teresa,1
+Cola di Rienzi,Undirected,Third Citizen (I/1),1
+Cola di Rienzi,Undirected,Third Citizen (III/1),1
+Cola di Rienzi,Undirected,Ursini,5
+Crowd,Undirected,First Citizen (I/1),1
+Crowd,Undirected,Frangipani,1
+Crowd,Undirected,Paolo,1
+Crowd,Undirected,Second Citizen (I/1),1
+Crowd,Undirected,Third Citizen (I/1),1
+Crowd,Undirected,Ursini,1
+Fifth Citizen (III/1),Undirected,First Citizen (III/1),1
+Fifth Citizen (III/1),Undirected,Fourth Citizen (III/1),1
+Fifth Citizen (III/1),Undirected,Frangipani,1
+Fifth Citizen (III/1),Undirected,Paolo,1
+Fifth Citizen (III/1),Undirected,Second Citizen (III/1),1
+Fifth Citizen (III/1),Undirected,Third Citizen (III/1),1
+Fifth Citizen (III/1),Undirected,Ursini,1
+First Citizen (I/1),Undirected,Frangipani,1
+First Citizen (I/1),Undirected,Paolo,1
+First Citizen (I/1),Undirected,Second Citizen (I/1),1
+First Citizen (I/1),Undirected,Third Citizen (I/1),1
+First Citizen (I/1),Undirected,Ursini,1
+First Citizen (II/2),Undirected,Paolo,1
+First Citizen (II/2),Undirected,Second Citizen (II/2),1
+First Citizen (III/1),Undirected,Fourth Citizen (III/1),1
+First Citizen (III/1),Undirected,Frangipani,1
+First Citizen (III/1),Undirected,Paolo,1
+First Citizen (III/1),Undirected,Second Citizen (III/1),1
+First Citizen (III/1),Undirected,Third Citizen (III/1),1
+First Citizen (III/1),Undirected,Ursini,1
+First Citizen (V/2),Undirected,Lady Colonna,1
+First Citizen (V/2),Undirected,Savelli,1
+First Citizen (V/2),Undirected,Second Citizen (V/2),1
+Fourth Citizen (III/1),Undirected,Frangipani,1
+Fourth Citizen (III/1),Undirected,Paolo,1
+Fourth Citizen (III/1),Undirected,Second Citizen (III/1),1
+Fourth Citizen (III/1),Undirected,Third Citizen (III/1),1
+Fourth Citizen (III/1),Undirected,Ursini,1
+Frangipani,Undirected,Lady Colonna,1
+Frangipani,Undirected,Paolo,2
+Frangipani,Undirected,Savelli,3
+Frangipani,Undirected,Second Citizen (I/1),1
+Frangipani,Undirected,Second Citizen (III/1),1
+Frangipani,Undirected,Stephen Colonna,2
+Frangipani,Undirected,Third Citizen (I/1),1
+Frangipani,Undirected,Third Citizen (III/1),1
+Frangipani,Undirected,Ursini,5
+Lady Colonna,Undirected,Savelli,3
+Lady Colonna,Undirected,Second Citizen (V/2),1
+Lady Colonna,Undirected,Stephen Colonna,2
+Lady Colonna,Undirected,Ursini,1
+Paolo,Undirected,Second Citizen (I/1),1
+Paolo,Undirected,Second Citizen (II/2),1
+Paolo,Undirected,Second Citizen (III/1),1
+Paolo,Undirected,Third Citizen (I/1),1
+Paolo,Undirected,Third Citizen (III/1),1
+Paolo,Undirected,Ursini,2
+Rosa,Undirected,Teresa,1
+Savelli,Undirected,Second Citizen (V/2),1
+Savelli,Undirected,Stephen Colonna,4
+Savelli,Undirected,Ursini,4
+Second Citizen (I/1),Undirected,Third Citizen (I/1),1
+Second Citizen (I/1),Undirected,Ursini,1
+Second Citizen (III/1),Undirected,Third Citizen (III/1),1
+Second Citizen (III/1),Undirected,Ursini,1
+Stephen Colonna,Undirected,Ursini,3
+Third Citizen (I/1),Undirected,Ursini,1
+Third Citizen (III/1),Undirected,Ursini,1

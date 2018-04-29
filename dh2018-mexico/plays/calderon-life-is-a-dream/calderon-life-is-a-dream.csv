@@ -1,0 +1,62 @@
+Source,Type,Target,Weight
+A Servant,Undirected,Clarin,1
+A Servant,Undirected,Clotaldo,1
+A Soldier,Undirected,All (III/14),1
+A Soldier,Undirected,Astolfo,1
+A Soldier,Undirected,Basilius,1
+A Soldier,Undirected,Clotaldo,1
+A Soldier,Undirected,Estrella,1
+A Soldier,Undirected,Rosaura,1
+A Soldier,Undirected,Sigismund,1
+All (I/6),Undirected,Astolfo,1
+All (I/6),Undirected,Basilius,1
+All (I/6),Undirected,Estrella,1
+All (III/14),Undirected,Astolfo,1
+All (III/14),Undirected,Basilius,1
+All (III/14),Undirected,Clotaldo,1
+All (III/14),Undirected,Estrella,1
+All (III/14),Undirected,Rosaura,1
+All (III/14),Undirected,Sigismund,1
+Astolfo,Undirected,Basilius,5
+Astolfo,Undirected,Clarin,2
+Astolfo,Undirected,Clotaldo,4
+Astolfo,Undirected,Estrella,9
+Astolfo,Undirected,Rosaura,5
+Astolfo,Undirected,Second Servant,2
+Astolfo,Undirected,Sigismund,5
+Basilius,Undirected,Clarin,2
+Basilius,Undirected,Clotaldo,7
+Basilius,Undirected,Estrella,4
+Basilius,Undirected,Rosaura,1
+Basilius,Undirected,Sigismund,4
+Clarin,Undirected,Clotaldo,8
+Clarin,Undirected,Estrella,1
+Clarin,Undirected,First Servant,1
+Clarin,Undirected,First Soldier,2
+Clarin,Undirected,Rosaura,7
+Clarin,Undirected,Second Servant,2
+Clarin,Undirected,Second Soldier,2
+Clarin,Undirected,Sigismund,9
+Clarin,Undirected,Soldiers (I/4),1
+Clarin,Undirected,Soldiers (III/12),1
+Clarin,Undirected,Soldiers (III/2+3),2
+Clotaldo,Undirected,Estrella,3
+Clotaldo,Undirected,First Servant,1
+Clotaldo,Undirected,Rosaura,6
+Clotaldo,Undirected,Second Servant,1
+Clotaldo,Undirected,Sigismund,7
+Clotaldo,Undirected,Soldiers (I/4),1
+Estrella,Undirected,Rosaura,3
+Estrella,Undirected,Second Servant,1
+Estrella,Undirected,Sigismund,3
+First Servant,Undirected,Second Servant,1
+First Servant,Undirected,Sigismund,1
+First Soldier,Undirected,Second Soldier,2
+First Soldier,Undirected,Sigismund,1
+First Soldier,Undirected,Soldiers (III/2+3),2
+Rosaura,Undirected,Sigismund,6
+Rosaura,Undirected,Soldiers (I/4),1
+Second Servant,Undirected,Sigismund,3
+Second Soldier,Undirected,Sigismund,1
+Second Soldier,Undirected,Soldiers (III/2+3),2
+Sigismund,Undirected,Soldiers (III/2+3),1
