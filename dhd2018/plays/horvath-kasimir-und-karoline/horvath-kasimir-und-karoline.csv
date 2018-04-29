@@ -1,44 +1,48 @@
 Source,Type,Target,Weight
-Der Arzt,Undirected,Der Sanitäter,1
-Der Ausrufer,Undirected,Der Liliputaner,2
-Der Ausrufer,Undirected,Die dicke Dame,2
-Der Ausrufer,Undirected,Juanita,2
-Der Ausrufer,Undirected,Karoline,1
-Der Ausrufer,Undirected,Kasimir,1
-Der Ausrufer,Undirected,Rauch,1
-Der Ausrufer,Undirected,Speer,1
-Der Liliputaner,Undirected,Die dicke Dame,1
-Der Liliputaner,Undirected,Juanita,2
-Der Liliputaner,Undirected,Karoline,1
-Der Liliputaner,Undirected,Kasimir,1
-Der Liliputaner,Undirected,Rauch,1
-Der Liliputaner,Undirected,Speer,1
-Der Merkl Franz,Undirected,Elli,1
-Der Merkl Franz,Undirected,Erna,10
-Der Merkl Franz,Undirected,Karoline,1
-Der Merkl Franz,Undirected,Kasimir,11
-Der Merkl Franz,Undirected,Maria,1
-Der Merkl Franz,Undirected,Schürzinger,2
-Der Sanitäter,Undirected,Karoline,3
-Der Sanitäter,Undirected,Rauch,1
-Die dicke Dame,Undirected,Juanita,1
-Elli,Undirected,Karoline,1
-Elli,Undirected,Kasimir,1
-Elli,Undirected,Maria,4
-Elli,Undirected,Speer,1
-Erna,Undirected,Karoline,1
-Erna,Undirected,Kasimir,15
-Erna,Undirected,Schürzinger,1
-Karoline,Undirected,Kasimir,6
-Karoline,Undirected,Maria,1
-Karoline,Undirected,Rauch,10
-Karoline,Undirected,Schürzinger,14
-Karoline,Undirected,Speer,4
-Kasimir,Undirected,Maria,1
-Kasimir,Undirected,Rauch,2
-Kasimir,Undirected,Schürzinger,3
-Kasimir,Undirected,Speer,1
-Maria,Undirected,Speer,2
-Rauch,Undirected,Schürzinger,5
-Rauch,Undirected,Speer,13
-Schürzinger,Undirected,Speer,2
+rauch,Undirected,der_ausrufer,1
+rauch,Undirected,speer,13
+rauch,Undirected,der_liliputaner,1
+rauch,Undirected,karoline,10
+rauch,Undirected,kasimir,2
+rauch,Undirected,schuerzinger,5
+rauch,Undirected,der_sanitaeter,1
+der_ausrufer,Undirected,speer,1
+der_ausrufer,Undirected,der_liliputaner,2
+der_ausrufer,Undirected,karoline,1
+der_ausrufer,Undirected,kasimir,1
+der_ausrufer,Undirected,juanita,2
+der_ausrufer,Undirected,die_dicke_dame,2
+speer,Undirected,der_liliputaner,1
+speer,Undirected,karoline,4
+speer,Undirected,kasimir,1
+speer,Undirected,schuerzinger,2
+speer,Undirected,maria,2
+speer,Undirected,elli,1
+der_liliputaner,Undirected,karoline,1
+der_liliputaner,Undirected,kasimir,1
+der_liliputaner,Undirected,juanita,2
+der_liliputaner,Undirected,die_dicke_dame,1
+karoline,Undirected,kasimir,6
+karoline,Undirected,schuerzinger,14
+karoline,Undirected,der_merkl_franz,1
+karoline,Undirected,der_sanitaeter,3
+karoline,Undirected,maria,1
+karoline,Undirected,elli,1
+karoline,Undirected,erna,1
+kasimir,Undirected,der_merkl_franz,11
+kasimir,Undirected,erna,16
+kasimir,Undirected,schuerzinger,3
+kasimir,Undirected,maria,1
+kasimir,Undirected,elli,1
+kasimir,Undirected,kellnerin,1
+schuerzinger,Undirected,der_merkl_franz,2
+schuerzinger,Undirected,erna,1
+der_merkl_franz,Undirected,erna,10
+der_merkl_franz,Undirected,maria,1
+der_merkl_franz,Undirected,elli,1
+der_merkl_franz,Undirected,kellnerin,1
+elli,Undirected,maria,4
+elli,Undirected,kellnerin,1
+maria,Undirected,kellnerin,1
+juanita,Undirected,die_dicke_dame,1
+der_sanitaeter,Undirected,der_arzt,1
