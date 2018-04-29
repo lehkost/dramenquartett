@@ -1,33 +1,33 @@
-Author;Title;Subtitle;Year;Network Size;Network Diameter;Network Density;Clustering Coefficient;Average Path Length;Maximum Degree;Character with Maximum Degree;Number of Segments
-Johann Christoph Gottsched;Sterbender Cato;Ein Trauerspiel;1731;10;3;0,56;0,75;1,47;8;Cato;31 Szenen (in 5 Akten)
-Friederike Caroline Neuber;Ein Deutsches Vorspiel;;1734;14;2;0,55;0,87;1,45;13;Alethea;8 Szenen
-Luise Adelgunde Victorie Gottsched;Die Pietisterey im Fischbein-Rocke;;1736;16;2;0,44;0,82;1,56;15;Frau Glaubeleichtin;40 Szenen (in 5 Akten)
-Johann Elias Schlegel;Canut;Ein Trauerspiel;1746;7;2;0,62;0,86;1,38;6;Estrithe;23 Szenen (in 5 Akten)
-Christian Fürchtegott Gellert;Die zärtlichen Schwestern;Ein Lustspiel;1747;8;2;0,86;0,93;1,14;7;mehrere Figuren;53 Szenen (in 3 Akten)
-Friedrich Gottlieb Klopstock;Der Tod Adams;Ein Trauerspiel;1757;11;2;0,73;0,94;1,27;10;Adam und Seth;20 Szenen (in 3 Akten)
-Gotthold Ephraim Lessing;Minna von Barnhelm oder Das Soldatenglück;Ein Lustspiel;1767;13;3;0,42;0,82;1,6;11;Major von Tellheim;56 Szenen (in 5 Akten)
-Heinrich Wilhelm von Gerstenberg;Ugolino;Eine Tragödie;1768;4;1;1;1;1;3;alle Figuren;5 Akte (keine Szenen)
-Gotthold Ephraim Lessing;Emilia Galotti;Ein Trauerspiel;1772;13;3;0,37;0,67;1,78;9;Marinelli;43 Szenen (in 5 Akten)
-Johann Wolfgang Goethe;Götz von Berlichingen mit der eisernen Hand;Ein Schauspiel;1773;79;5;0,09;0,87;2,49;46;Götz;55 Szenen (in 5 Akten)
-Jakob Michael Reinhold Lenz;Die Soldaten;Eine Komödie;1776;37;4;0,29;0,83;1,91;28;Mary;36 Szenen (in 5 Akten)
-Friedrich Maximilian Klinger;Sturm und Drang;Ein Schauspiel;1777;13;3;0,64;0,85;1,4;11;Wild;37 Szenen (in 5 Akten)
-Gotthold Ephraim Lessing;Nathan der Weise;Ein dramatisches Gedicht;1779;14;3;0,32;0,8;1,86;10;Saladin;41 Szenen (in 5 Akten)
-Friedrich Schiller;Die Räuber;Ein Schauspiel;1781;25;2;0,53;0,85;1,47;24;Grimm und Schwarz;15 Szenen (in 5 Akten)
-Friedrich Schiller;Kabale und Liebe;Ein bürgerliches Trauerspiel;1784;17;4;0,3;0,79;2,06;9;Lady Milford;37 Szenen (in 5 Akten)
-August von Kotzebue;Menschenhaß und Reue;Schauspiel;1788;12;2;0,64;0,77;1,36;11;Major von der Horst;51 Szenen (in 5 Akten)
-Friedrich Schiller;Wilhelm Tell;Schauspiel;1804;67;3;0,25;0,88;1,86;48;Stauffacher;15 Szenen (in 5 Akten)
-Johann Wolfgang Goethe;Faust;Eine Tragödie;1808;115;3;0,2;0,98;1,7;67;Faust;28 Szenen
-Heinrich von Kleist;Der zerbrochene Krug;Ein Lustspiel;1808;13;2;0,64;0,84;1,36;11;Adam, Walter und Licht;13 Szenen
-Heinrich von Kleist;Die Hermannsschlacht;Ein Drama;1808;84;4;0,11;0,84;2,58;44;Hermann;53 Szenen (in 5 Akten)
-Zacharias Werner;Der vierundzwanzigste Februar;Eine Tragödie;1809;3;1;1;1;1;2;alle Figuren;3 Szenen (in 1 Akt)
-Christian Dietrich Grabbe;Scherz, Satire, Ironie und tiefere Bedeutung;Ein Lustspiel;1827;27;3;0,5;0,86;1,51;24;Schulmeister und Mollfels;14 Szenen (in 3 Akten)
-Christian Dietrich Grabbe;Napoleon oder Die hundert Tage;Ein Drama;1831;259;6;0,09;0,96;2,83;106;Vitri und Chassecœur;25 Szenen (in 5 Akten)
-Johann Nestroy;Der böse Geist Lumpazivagabundus;Zauberposse mit Gesang;1833;51;4;0,16;0,82;2,08;39;Zwirn;44 Szenen (in 3 Akten)
-Christian Dietrich Grabbe;Hannibal;;1835;118;4;0,09;0,93;2,19;40;Hannibal;28 Szenen (in 5 Akten)
-Georg Büchner;Dantons Tod;Ein Drama;1835;103;4;0,1;0,92;2,46;43;Danton;32 Szenen (in 4 Akten)
-Gustav Freytag;Die Journalisten;Lustspiel;1852;24;2;0,74;0,88;1,26;23;Bolz und Bellmaus;7 Szenen (in 4 Akten)
-Ludwig Anzengruber;Das vierte Gebot;Volksstück;1877;32;4;0,29;0,79;1,86;24;Martin;40 Szenen (in 4 Akten)
-Arno Holz und Johannes Schlaf;Die Familie Selicke;Drama;1890;8;1;1;1;1;7;alle Figuren;3 Akte (keine Szenen)
-Frank Wedekind;Frühlings Erwachen;Eine Kindertragödie;1891;36;4;0,27;0,86;2,04;24;Melchior;19 Szenen (in 3 Akten)
-Arthur Schnitzler;Reigen;;1903;11;5;0,22;0,15;2,81;3;Graf und Dirne;10 Szenen
-Ödön von Horváth;Kasimir und Karoline;Volksstück;1932;16;4;0,39;0,72;1,86;11;Kasimir und Karoline;117 Szenen
+Author,Title,Subtitle,Year,Network Size,Network Diameter,Network Density,Clustering Coefficient,Average Path Length,Maximum Degree,Character with Maximum Degree,Number of Segments
+Johann Christoph Gottsched,Sterbender Cato,Ein Trauerspiel,1731,10,3,"0,56","0,75","1,47",8,Cato,31 Szenen (in 5 Akten)
+Friederike Caroline Neuber,Ein Deutsches Vorspiel,,1734,14,2,"0,55","0,87","1,45",13,Alethea,8 Szenen
+Luise Adelgunde Victorie Gottsched,Die Pietisterey im Fischbein-Rocke,,1736,16,2,"0,44","0,82","1,56",15,Frau Glaubeleichtin,40 Szenen (in 5 Akten)
+Johann Elias Schlegel,Canut,Ein Trauerspiel,1746,7,2,"0,62","0,86","1,38",6,Estrithe,23 Szenen (in 5 Akten)
+Christian Fürchtegott Gellert,Die zärtlichen Schwestern,Ein Lustspiel,1747,8,2,"0,86","0,93","1,14",7,mehrere Figuren,53 Szenen (in 3 Akten)
+Friedrich Gottlieb Klopstock,Der Tod Adams,Ein Trauerspiel,1757,11,2,"0,73","0,94","1,27",10,Adam und Seth,20 Szenen (in 3 Akten)
+Gotthold Ephraim Lessing,Minna von Barnhelm oder Das Soldatenglück,Ein Lustspiel,1767,13,3,"0,42","0,82","1,6",11,Major von Tellheim,56 Szenen (in 5 Akten)
+Heinrich Wilhelm von Gerstenberg,Ugolino,Eine Tragödie,1768,4,1,1,1,1,3,alle Figuren,5 Akte (keine Szenen)
+Gotthold Ephraim Lessing,Emilia Galotti,Ein Trauerspiel,1772,13,3,"0,37","0,67","1,78",9,Marinelli,43 Szenen (in 5 Akten)
+Johann Wolfgang Goethe,Götz von Berlichingen mit der eisernen Hand,Ein Schauspiel,1773,79,5,"0,09","0,87","2,49",46,Götz,55 Szenen (in 5 Akten)
+Jakob Michael Reinhold Lenz,Die Soldaten,Eine Komödie,1776,37,4,"0,29","0,83","1,91",28,Mary,36 Szenen (in 5 Akten)
+Friedrich Maximilian Klinger,Sturm und Drang,Ein Schauspiel,1777,13,3,"0,64","0,85","1,4",11,Wild,37 Szenen (in 5 Akten)
+Gotthold Ephraim Lessing,Nathan der Weise,Ein dramatisches Gedicht,1779,14,3,"0,32","0,8","1,86",10,Saladin,41 Szenen (in 5 Akten)
+Friedrich Schiller,Die Räuber,Ein Schauspiel,1781,25,2,"0,53","0,85","1,47",24,Grimm und Schwarz,15 Szenen (in 5 Akten)
+Friedrich Schiller,Kabale und Liebe,Ein bürgerliches Trauerspiel,1784,17,4,"0,3","0,79","2,06",9,Lady Milford,37 Szenen (in 5 Akten)
+August von Kotzebue,Menschenhaß und Reue,Schauspiel,1788,12,2,"0,64","0,77","1,36",11,Major von der Horst,51 Szenen (in 5 Akten)
+Friedrich Schiller,Wilhelm Tell,Schauspiel,1804,67,3,"0,25","0,88","1,86",48,Stauffacher,15 Szenen (in 5 Akten)
+Johann Wolfgang Goethe,Faust,Eine Tragödie,1808,115,3,"0,2","0,98","1,7",67,Faust,28 Szenen
+Heinrich von Kleist,Der zerbrochene Krug,Ein Lustspiel,1808,13,2,"0,64","0,84","1,36",11,"Adam, Walter und Licht",13 Szenen
+Heinrich von Kleist,Die Hermannsschlacht,Ein Drama,1808,84,4,"0,11","0,84","2,58",44,Hermann,53 Szenen (in 5 Akten)
+Zacharias Werner,Der vierundzwanzigste Februar,Eine Tragödie,1809,3,1,1,1,1,2,alle Figuren,3 Szenen (in 1 Akt)
+Christian Dietrich Grabbe,"Scherz, Satire, Ironie und tiefere Bedeutung",Ein Lustspiel,1827,27,3,"0,5","0,86","1,51",24,Schulmeister und Mollfels,14 Szenen (in 3 Akten)
+Christian Dietrich Grabbe,Napoleon oder Die hundert Tage,Ein Drama,1831,259,6,"0,09","0,96","2,83",106,Vitri und Chassecœur,25 Szenen (in 5 Akten)
+Johann Nestroy,Der böse Geist Lumpazivagabundus,Zauberposse mit Gesang,1833,51,4,"0,16","0,82","2,08",39,Zwirn,44 Szenen (in 3 Akten)
+Christian Dietrich Grabbe,Hannibal,,1835,118,4,"0,09","0,93","2,19",40,Hannibal,28 Szenen (in 5 Akten)
+Georg Büchner,Dantons Tod,Ein Drama,1835,103,4,"0,1","0,92","2,46",43,Danton,32 Szenen (in 4 Akten)
+Gustav Freytag,Die Journalisten,Lustspiel,1852,24,2,"0,74","0,88","1,26",23,Bolz und Bellmaus,7 Szenen (in 4 Akten)
+Ludwig Anzengruber,Das vierte Gebot,Volksstück,1877,32,4,"0,29","0,79","1,86",24,Martin,40 Szenen (in 4 Akten)
+Arno Holz und Johannes Schlaf,Die Familie Selicke,Drama,1890,8,1,1,1,1,7,alle Figuren,3 Akte (keine Szenen)
+Frank Wedekind,Frühlings Erwachen,Eine Kindertragödie,1891,36,4,"0,27","0,86","2,04",24,Melchior,19 Szenen (in 3 Akten)
+Arthur Schnitzler,Reigen,,1903,11,5,"0,22","0,15","2,81",3,Graf und Dirne,10 Szenen
+Ödön von Horváth,Kasimir und Karoline,Volksstück,1932,16,4,"0,39","0,72","1,86",11,Kasimir und Karoline,117 Szenen
