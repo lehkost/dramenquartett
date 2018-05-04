@@ -1,5 +1,6 @@
 Author,Title,Subtitle,Year,Original Language,Network Size,Network Diameter,Network Density,Clustering Coefficient,Average Path Length,Maximum Degree,Character with Maximum Degree
 Euripides,Electra,,c. 420–413 BC,Greek,9,2,"0,5","0,8","1,5",8,Electra
+Aristophanes,The Frogs,,405 BC,Greek,16,3,"0,29","0,82","1,78",14,Dionysus
 William Shakespeare,The Tragedy of Hamlet,,c. 1599/1602,English,34,3,"0,34","0,86","1,7",30,Horatio
 Ben Jonson,"Volpone; or, the Fox",,1606,English,26,3,"0,5","0,86","1,66",21,Mosca
 Pedro Calderón de la Barca,Life Is a Dream,,1635,Spanish,18,3,"0,4","0,84","1,66",14,Clarin

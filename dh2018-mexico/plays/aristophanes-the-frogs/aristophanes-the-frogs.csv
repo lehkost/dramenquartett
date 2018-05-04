@@ -1,0 +1,36 @@
+Source,Type,Target,Weight
+Aeacus,Undirected,Dionysus,2
+Aeacus,Undirected,Xanthias,3
+Aeschylus,Undirected,Chorus,6
+Aeschylus,Undirected,Chorus Leader,1
+Aeschylus,Undirected,Dionysus,6
+Aeschylus,Undirected,Euripides,6
+Aeschylus,Undirected,Pluto,2
+Charon,Undirected,Dionysus,2
+Charon,Undirected,Xanthias,2
+Chorus Leader,Undirected,Chorus of Blessed Mystics,1
+Chorus Leader,Undirected,Dionysus,2
+Chorus Leader,Undirected,Euripides,1
+Chorus Leader,Undirected,Xanthias,1
+Chorus of Blessed Mystics,Undirected,Dionysus,2
+Chorus of Blessed Mystics,Undirected,Xanthias,2
+Chorus of Frogs,Undirected,Dionysus,1
+Chorus,Undirected,Chorus Leader,2
+Chorus,Undirected,Dionysus,5
+Chorus,Undirected,Euripides,5
+Chorus,Undirected,Maid-Servant,1
+Chorus,Undirected,Pluto,2
+Chorus,Undirected,Xanthias,1
+Corpse,Undirected,Dionysus,1
+Corpse,Undirected,Xanthias,1
+Dionysus,Undirected,Euripides,6
+Dionysus,Undirected,Heracles,1
+Dionysus,Undirected,Hostess,1
+Dionysus,Undirected,Plathane,1
+Dionysus,Undirected,Pluto,1
+Dionysus,Undirected,Xanthias,10
+Euripides,Undirected,Pluto,1
+Heracles,Undirected,Xanthias,1
+Hostess,Undirected,Plathane,1
+Hostess,Undirected,Xanthias,1
+Plathane,Undirected,Xanthias,1
