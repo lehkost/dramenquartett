@@ -1,0 +1,17 @@
+Source,Type,Target,Weight
+Antigone,Undirected,Chorus of Theban Elders,6
+Antigone,Undirected,Creon,3
+Antigone,Undirected,Ismene,2
+Antigone,Undirected,Messenger,1
+Chorus of Theban Elders,Undirected,Creon,9
+Chorus of Theban Elders,Undirected,Eurydice,1
+Chorus of Theban Elders,Undirected,Haemon,1
+Chorus of Theban Elders,Undirected,Ismene,2
+Chorus of Theban Elders,Undirected,Messenger,2
+Chorus of Theban Elders,Undirected,Second Messenger,2
+Creon,Undirected,Haemon,1
+Creon,Undirected,Ismene,1
+Creon,Undirected,Messenger,2
+Creon,Undirected,Second Messenger,1
+Creon,Undirected,Teiresias,1
+Eurydice,Undirected,Second Messenger,1
