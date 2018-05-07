@@ -1,0 +1,9 @@
+Source,Type,Target,Weight
+Atossa,Undirected,Chorus Leader,1
+Atossa,Undirected,Chorus of Persian Elders,5
+Atossa,Undirected,Ghost of Darius,1
+Atossa,Undirected,Messenger,1
+Chorus Leader,Undirected,Chorus of Persian Elders,2
+Chorus of Persian Elders,Undirected,Ghost of Darius,1
+Chorus of Persian Elders,Undirected,Messenger,1
+Chorus of Persian Elders,Undirected,Xerxes,1
