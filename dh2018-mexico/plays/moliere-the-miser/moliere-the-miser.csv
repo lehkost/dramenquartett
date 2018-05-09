@@ -1,0 +1,49 @@
+Source,Type,Target,Weight
+Anselme,Undirected,Cléante,1
+Anselme,Undirected,Harpagon,2
+Anselme,Undirected,Le Commissaire,1
+Anselme,Undirected,Mariane,2
+Anselme,Undirected,Maître Jacques,2
+Anselme,Undirected,Valère,1
+Brindavoine,Undirected,Cléante,1
+Brindavoine,Undirected,Harpagon,2
+Brindavoine,Undirected,La Merluche,1
+Brindavoine,Undirected,Maître Jacques,1
+Brindavoine,Undirected,Valère,1
+Brindavoine,Undirected,Élise,1
+Cléante,Undirected,Frosine,2
+Cléante,Undirected,Harpagon,10
+Cléante,Undirected,La Flèche,3
+Cléante,Undirected,La Merluche,2
+Cléante,Undirected,Le Commissaire,1
+Cléante,Undirected,Mariane,3
+Cléante,Undirected,Maître Jacques,3
+Cléante,Undirected,Maître Simon,1
+Cléante,Undirected,Valère,3
+Cléante,Undirected,Élise,5
+Frosine,Undirected,Harpagon,6
+Frosine,Undirected,La Flèche,1
+Frosine,Undirected,Mariane,4
+Frosine,Undirected,Maître Jacques,2
+Frosine,Undirected,Valère,2
+Frosine,Undirected,Élise,3
+Harpagon,Undirected,La Flèche,2
+Harpagon,Undirected,La Merluche,2
+Harpagon,Undirected,Le Commissaire,3
+Harpagon,Undirected,Mariane,4
+Harpagon,Undirected,Maître Jacques,7
+Harpagon,Undirected,Maître Simon,1
+Harpagon,Undirected,Valère,7
+Harpagon,Undirected,Élise,6
+La Flèche,Undirected,Maître Simon,1
+La Merluche,Undirected,Maître Jacques,1
+La Merluche,Undirected,Valère,2
+La Merluche,Undirected,Élise,1
+Le Commissaire,Undirected,Mariane,1
+Le Commissaire,Undirected,Maître Jacques,2
+Mariane,Undirected,Maître Jacques,2
+Mariane,Undirected,Valère,2
+Mariane,Undirected,Élise,2
+Maître Jacques,Undirected,Valère,5
+Maître Jacques,Undirected,Élise,2
+Valère,Undirected,Élise,4
