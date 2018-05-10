@@ -1,0 +1,348 @@
+Source,Type,Target,Weight
+A Dwarf,Undirected,A Woman Giant,2
+A Dwarf,Undirected,Ariadne,2
+A Dwarf,Undirected,Aurelia,2
+A Dwarf,Undirected,Beaumond,2
+A Dwarf,Undirected,Blunt,2
+A Dwarf,Undirected,Guardian,1
+A Dwarf,Undirected,Harlequin,1
+A Dwarf,Undirected,Hunt,1
+A Dwarf,Undirected,La Nuche,2
+A Dwarf,Undirected,Lucia,1
+A Dwarf,Undirected,Nicholas Fetherfool,2
+A Dwarf,Undirected,Petronella Elenora,1
+A Dwarf,Undirected,Sancho,1
+A Dwarf,Undirected,Shift,2
+A Dwarf,Undirected,Willmore,2
+A Porter,Undirected,Ariadne,1
+A Porter,Undirected,Aurelia,1
+A Porter,Undirected,Beaumond,1
+A Porter,Undirected,Belvile,1
+A Porter,Undirected,Blunt,1
+A Porter,Undirected,Don Carlo,1
+A Porter,Undirected,La Nuche,1
+A Porter,Undirected,Lucia,1
+A Porter,Undirected,Nicholas Fetherfool,1
+A Porter,Undirected,Petronella Elenora,1
+A Porter,Undirected,Shift,1
+A Porter,Undirected,Willmore,1
+A Servant,Undirected,Belvile,1
+A Servant,Undirected,Blunt,1
+A Servant,Undirected,Don Pedro,1
+A Servant,Undirected,Florinda,1
+A Servant,Undirected,Frederick,1
+A Servant,Undirected,Hellena,1
+A Servant,Undirected,Page to Hellena,1
+A Servant,Undirected,Valeria,1
+A Servant,Undirected,Willmore,1
+A Woman Giant,Undirected,Ariadne,2
+A Woman Giant,Undirected,Aurelia,2
+A Woman Giant,Undirected,Beaumond,2
+A Woman Giant,Undirected,Blunt,2
+A Woman Giant,Undirected,Guardian,1
+A Woman Giant,Undirected,Harlequin,1
+A Woman Giant,Undirected,Hunt,1
+A Woman Giant,Undirected,La Nuche,2
+A Woman Giant,Undirected,Lucia,1
+A Woman Giant,Undirected,Nicholas Fetherfool,2
+A Woman Giant,Undirected,Petronella Elenora,1
+A Woman Giant,Undirected,Sancho,1
+A Woman Giant,Undirected,Shift,2
+A Woman Giant,Undirected,Willmore,2
+Abevile,Undirected,Ariadne,1
+Abevile,Undirected,Aurelia,1
+Abevile,Undirected,Beaumond,1
+Abevile,Undirected,Don Carlo,1
+Abevile,Undirected,Harlequin,1
+Abevile,Undirected,La Nuche,1
+Abevile,Undirected,Lucia,1
+Abevile,Undirected,Nicholas Fetherfool,1
+Abevile,Undirected,Petronella Elenora,1
+Abevile,Undirected,Sancho,1
+Abevile,Undirected,Willmore,1
+Angelica Bianca,Undirected,Belvile,4
+Angelica Bianca,Undirected,Blunt,3
+Angelica Bianca,Undirected,Blunt’s Man,1
+Angelica Bianca,Undirected,Boy to Willmore,1
+Angelica Bianca,Undirected,Bravo,1
+Angelica Bianca,Undirected,Callis,1
+Angelica Bianca,Undirected,Don Antonio,2
+Angelica Bianca,Undirected,Don Pedro,3
+Angelica Bianca,Undirected,Florinda,3
+Angelica Bianca,Undirected,Frederick,4
+Angelica Bianca,Undirected,Hellena,3
+Angelica Bianca,Undirected,Moretta,4
+Angelica Bianca,Undirected,Page to Don Antonio,1
+Angelica Bianca,Undirected,Sancho,1
+Angelica Bianca,Undirected,Sebastian,1
+Angelica Bianca,Undirected,Stephano,1
+Angelica Bianca,Undirected,Valeria,2
+Angelica Bianca,Undirected,Willmore,5
+Ariadne,Undirected,Aurelia,5
+Ariadne,Undirected,Beaumond,7
+Ariadne,Undirected,Belvile,1
+Ariadne,Undirected,Blunt,4
+Ariadne,Undirected,Don Carlo,3
+Ariadne,Undirected,Guardian,1
+Ariadne,Undirected,Harlequin,2
+Ariadne,Undirected,Hunt,2
+Ariadne,Undirected,La Nuche,6
+Ariadne,Undirected,Lucia,5
+Ariadne,Undirected,Nicholas Fetherfool,5
+Ariadne,Undirected,Petronella Elenora,4
+Ariadne,Undirected,Sancho,2
+Ariadne,Undirected,Shift,4
+Ariadne,Undirected,Willmore,6
+Aurelia,Undirected,Beaumond,5
+Aurelia,Undirected,Belvile,1
+Aurelia,Undirected,Blunt,4
+Aurelia,Undirected,Don Carlo,3
+Aurelia,Undirected,Guardian,1
+Aurelia,Undirected,Harlequin,2
+Aurelia,Undirected,Hunt,2
+Aurelia,Undirected,La Nuche,5
+Aurelia,Undirected,Lucia,4
+Aurelia,Undirected,Nicholas Fetherfool,5
+Aurelia,Undirected,Petronella Elenora,4
+Aurelia,Undirected,Sancho,2
+Aurelia,Undirected,Shift,4
+Aurelia,Undirected,Willmore,5
+Beaumond,Undirected,Belvile,1
+Beaumond,Undirected,Blunt,4
+Beaumond,Undirected,Don Carlo,3
+Beaumond,Undirected,Guardian,1
+Beaumond,Undirected,Harlequin,2
+Beaumond,Undirected,Hunt,2
+Beaumond,Undirected,La Nuche,7
+Beaumond,Undirected,Lucia,5
+Beaumond,Undirected,Nicholas Fetherfool,5
+Beaumond,Undirected,Petronella Elenora,5
+Beaumond,Undirected,Sancho,2
+Beaumond,Undirected,Shift,4
+Beaumond,Undirected,Willmore,7
+Belvile,Undirected,Blunt,6
+Belvile,Undirected,Blunt’s Man,1
+Belvile,Undirected,Boy to Willmore,1
+Belvile,Undirected,Bravo,1
+Belvile,Undirected,Callis,2
+Belvile,Undirected,Don Antonio,4
+Belvile,Undirected,Don Carlo,1
+Belvile,Undirected,Don Pedro,5
+Belvile,Undirected,Florinda,6
+Belvile,Undirected,Frederick,8
+Belvile,Undirected,Hellena,5
+Belvile,Undirected,La Nuche,1
+Belvile,Undirected,Lucetta,1
+Belvile,Undirected,Lucia,1
+Belvile,Undirected,Masqueraders,1
+Belvile,Undirected,Moretta,4
+Belvile,Undirected,Nicholas Fetherfool,1
+Belvile,Undirected,Officer,1
+Belvile,Undirected,Page to Don Antonio,2
+Belvile,Undirected,Page to Hellena,1
+Belvile,Undirected,Petronella Elenora,1
+Belvile,Undirected,Sancho,2
+Belvile,Undirected,Sebastian,1
+Belvile,Undirected,Shift,1
+Belvile,Undirected,Soldier,1
+Belvile,Undirected,Stephano,2
+Belvile,Undirected,Valeria,3
+Belvile,Undirected,Willmore,9
+Belvile,Undirected,Woman,1
+Blunt,Undirected,Blunt’s Man,1
+Blunt,Undirected,Boy to Willmore,1
+Blunt,Undirected,Bravo,1
+Blunt,Undirected,Callis,2
+Blunt,Undirected,Don Antonio,2
+Blunt,Undirected,Don Carlo,2
+Blunt,Undirected,Don Pedro,3
+Blunt,Undirected,Florinda,4
+Blunt,Undirected,Frederick,5
+Blunt,Undirected,Guardian,1
+Blunt,Undirected,Harlequin,1
+Blunt,Undirected,Hellena,4
+Blunt,Undirected,Hunt,2
+Blunt,Undirected,La Nuche,4
+Blunt,Undirected,Lucetta,2
+Blunt,Undirected,Lucia,3
+Blunt,Undirected,Moretta,2
+Blunt,Undirected,Nicholas Fetherfool,4
+Blunt,Undirected,Page to Don Antonio,1
+Blunt,Undirected,Page to Hellena,1
+Blunt,Undirected,Petronella Elenora,3
+Blunt,Undirected,Philippo,1
+Blunt,Undirected,Sancho,4
+Blunt,Undirected,Shift,4
+Blunt,Undirected,Valeria,3
+Blunt,Undirected,Willmore,9
+Blunt,Undirected,Woman,1
+Blunt’s Man,Undirected,Boy to Willmore,1
+Blunt’s Man,Undirected,Don Antonio,1
+Blunt’s Man,Undirected,Don Pedro,1
+Blunt’s Man,Undirected,Florinda,1
+Blunt’s Man,Undirected,Frederick,1
+Blunt’s Man,Undirected,Hellena,1
+Blunt’s Man,Undirected,Valeria,1
+Blunt’s Man,Undirected,Willmore,1
+Boy to Willmore,Undirected,Don Antonio,1
+Boy to Willmore,Undirected,Don Pedro,1
+Boy to Willmore,Undirected,Florinda,1
+Boy to Willmore,Undirected,Frederick,1
+Boy to Willmore,Undirected,Hellena,1
+Boy to Willmore,Undirected,Valeria,1
+Boy to Willmore,Undirected,Willmore,1
+Bravo,Undirected,Don Antonio,1
+Bravo,Undirected,Don Pedro,1
+Bravo,Undirected,Frederick,1
+Bravo,Undirected,Moretta,1
+Bravo,Undirected,Page to Don Antonio,1
+Bravo,Undirected,Willmore,1
+Callis,Undirected,Don Pedro,1
+Callis,Undirected,Florinda,3
+Callis,Undirected,Frederick,2
+Callis,Undirected,Hellena,3
+Callis,Undirected,Lucetta,1
+Callis,Undirected,Moretta,1
+Callis,Undirected,Sancho,2
+Callis,Undirected,Stephano,1
+Callis,Undirected,Valeria,1
+Callis,Undirected,Willmore,2
+Callis,Undirected,Woman,1
+Don Antonio,Undirected,Don Pedro,2
+Don Antonio,Undirected,Florinda,1
+Don Antonio,Undirected,Frederick,3
+Don Antonio,Undirected,Hellena,1
+Don Antonio,Undirected,Masqueraders,1
+Don Antonio,Undirected,Moretta,2
+Don Antonio,Undirected,Officer,1
+Don Antonio,Undirected,Page to Don Antonio,2
+Don Antonio,Undirected,Soldier,1
+Don Antonio,Undirected,Valeria,1
+Don Antonio,Undirected,Willmore,3
+Don Carlo,Undirected,Harlequin,1
+Don Carlo,Undirected,Hunt,1
+Don Carlo,Undirected,La Nuche,3
+Don Carlo,Undirected,Lucia,3
+Don Carlo,Undirected,Nicholas Fetherfool,3
+Don Carlo,Undirected,Petronella Elenora,3
+Don Carlo,Undirected,Sancho,1
+Don Carlo,Undirected,Shift,2
+Don Carlo,Undirected,Willmore,3
+Don Pedro,Undirected,Florinda,5
+Don Pedro,Undirected,Frederick,5
+Don Pedro,Undirected,Hellena,4
+Don Pedro,Undirected,Moretta,2
+Don Pedro,Undirected,Page to Don Antonio,1
+Don Pedro,Undirected,Page to Hellena,1
+Don Pedro,Undirected,Sebastian,1
+Don Pedro,Undirected,Stephano,3
+Don Pedro,Undirected,Valeria,2
+Don Pedro,Undirected,Willmore,5
+Florinda,Undirected,Frederick,6
+Florinda,Undirected,Hellena,6
+Florinda,Undirected,Lucetta,1
+Florinda,Undirected,Moretta,2
+Florinda,Undirected,Page to Hellena,1
+Florinda,Undirected,Sancho,2
+Florinda,Undirected,Sebastian,1
+Florinda,Undirected,Stephano,3
+Florinda,Undirected,Valeria,3
+Florinda,Undirected,Willmore,6
+Florinda,Undirected,Woman,1
+Frederick,Undirected,Hellena,5
+Frederick,Undirected,Lucetta,1
+Frederick,Undirected,Masqueraders,1
+Frederick,Undirected,Moretta,4
+Frederick,Undirected,Officer,1
+Frederick,Undirected,Page to Don Antonio,2
+Frederick,Undirected,Page to Hellena,1
+Frederick,Undirected,Sancho,2
+Frederick,Undirected,Sebastian,1
+Frederick,Undirected,Soldier,1
+Frederick,Undirected,Stephano,2
+Frederick,Undirected,Valeria,3
+Frederick,Undirected,Willmore,8
+Frederick,Undirected,Woman,1
+Guardian,Undirected,Harlequin,1
+Guardian,Undirected,La Nuche,1
+Guardian,Undirected,Nicholas Fetherfool,1
+Guardian,Undirected,Petronella Elenora,1
+Guardian,Undirected,Sancho,1
+Guardian,Undirected,Shift,1
+Guardian,Undirected,Willmore,1
+Harlequin,Undirected,La Nuche,2
+Harlequin,Undirected,Lucia,1
+Harlequin,Undirected,Nicholas Fetherfool,2
+Harlequin,Undirected,Petronella Elenora,2
+Harlequin,Undirected,Sancho,2
+Harlequin,Undirected,Shift,1
+Harlequin,Undirected,Willmore,2
+Hellena,Undirected,Lucetta,1
+Hellena,Undirected,Moretta,2
+Hellena,Undirected,Page to Hellena,1
+Hellena,Undirected,Sancho,2
+Hellena,Undirected,Sebastian,1
+Hellena,Undirected,Stephano,2
+Hellena,Undirected,Valeria,3
+Hellena,Undirected,Willmore,5
+Hellena,Undirected,Woman,1
+Hunt,Undirected,La Nuche,2
+Hunt,Undirected,Lucia,2
+Hunt,Undirected,Nicholas Fetherfool,2
+Hunt,Undirected,Petronella Elenora,1
+Hunt,Undirected,Shift,2
+Hunt,Undirected,Willmore,2
+La Nuche,Undirected,Lucia,4
+La Nuche,Undirected,Nicholas Fetherfool,5
+La Nuche,Undirected,Petronella Elenora,5
+La Nuche,Undirected,Sancho,2
+La Nuche,Undirected,Shift,4
+La Nuche,Undirected,Willmore,7
+Lucetta,Undirected,Philippo,1
+Lucetta,Undirected,Sancho,2
+Lucetta,Undirected,Willmore,1
+Lucetta,Undirected,Woman,1
+Lucia,Undirected,Nicholas Fetherfool,4
+Lucia,Undirected,Petronella Elenora,3
+Lucia,Undirected,Sancho,1
+Lucia,Undirected,Shift,3
+Lucia,Undirected,Willmore,4
+Masqueraders,Undirected,Moretta,1
+Masqueraders,Undirected,Officer,1
+Masqueraders,Undirected,Page to Don Antonio,1
+Masqueraders,Undirected,Soldier,1
+Masqueraders,Undirected,Willmore,1
+Moretta,Undirected,Officer,1
+Moretta,Undirected,Page to Don Antonio,2
+Moretta,Undirected,Sancho,1
+Moretta,Undirected,Sebastian,1
+Moretta,Undirected,Soldier,1
+Moretta,Undirected,Stephano,1
+Moretta,Undirected,Valeria,1
+Moretta,Undirected,Willmore,5
+Nicholas Fetherfool,Undirected,Petronella Elenora,4
+Nicholas Fetherfool,Undirected,Sancho,2
+Nicholas Fetherfool,Undirected,Shift,4
+Nicholas Fetherfool,Undirected,Willmore,5
+Officer,Undirected,Page to Don Antonio,1
+Officer,Undirected,Soldier,1
+Officer,Undirected,Willmore,1
+Page to Don Antonio,Undirected,Soldier,1
+Page to Don Antonio,Undirected,Willmore,2
+Page to Hellena,Undirected,Valeria,1
+Page to Hellena,Undirected,Willmore,1
+Petronella Elenora,Undirected,Sancho,2
+Petronella Elenora,Undirected,Shift,3
+Petronella Elenora,Undirected,Willmore,5
+Philippo,Undirected,Sancho,1
+Sancho,Undirected,Shift,1
+Sancho,Undirected,Valeria,1
+Sancho,Undirected,Willmore,4
+Sancho,Undirected,Woman,1
+Sebastian,Undirected,Stephano,1
+Sebastian,Undirected,Willmore,1
+Shift,Undirected,Willmore,4
+Soldier,Undirected,Willmore,1
+Stephano,Undirected,Willmore,2
+Valeria,Undirected,Willmore,3
+Willmore,Undirected,Woman,1
