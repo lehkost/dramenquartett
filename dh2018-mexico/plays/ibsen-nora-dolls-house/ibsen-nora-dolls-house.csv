@@ -1,0 +1,17 @@
+Source,Type,Target,Weight
+Doctor Rank,Undirected,Helmer,6
+Doctor Rank,Undirected,Housemaid,1
+Doctor Rank,Undirected,Mrs Linde,3
+Doctor Rank,Undirected,Nora,9
+Helmer,Undirected,Housemaid,3
+Helmer,Undirected,Mrs Linde,4
+Helmer,Undirected,Nora,19
+Housemaid,Undirected,Krogstad,1
+Housemaid,Undirected,Mrs Linde,1
+Housemaid,Undirected,Nora,6
+Krogstad,Undirected,Mrs Linde,2
+Krogstad,Undirected,Nora,3
+Mrs Linde,Undirected,Nora,12
+Nora,Undirected,Nurse,2
+Nora,Undirected,Porter,1
+Nora,Undirected,The Children,1
