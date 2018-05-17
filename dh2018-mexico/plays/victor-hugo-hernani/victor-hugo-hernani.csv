@@ -1,0 +1,129 @@
+Source,Type,Target,Weight
+A lady,Undirected,Don Francisco,1
+A lady,Undirected,Don Garcie,1
+A lady,Undirected,Don Matias,1
+A lady,Undirected,Don Ricardo,1
+A lady,Undirected,Don Sanchez,1
+All (IV/3),Undirected,Don Gil Tellez Giron,1
+All (IV/3),Undirected,Don Juan de Haro,1
+All (IV/3),Undirected,Don Ruy Gomez,1
+All (IV/3),Undirected,Duke of Gotha,1
+All (IV/3),Undirected,Duke of Lutzelburg,1
+All (IV/3),Undirected,First conspirator,1
+All (IV/3),Undirected,Hernani,1
+All (IV/3),Undirected,One of the conspirators,1
+All (IV/3),Undirected,Second conspirator,1
+All (IV/3),Undirected,Third conspirator,1
+All (IV/3),Undirected,Voice in shadows 1,1
+All (IV/3),Undirected,Voice in shadows 2,1
+All (IV/6),Undirected,Conspirators,1
+All (IV/6),Undirected,Don Carlos,1
+All (IV/6),Undirected,Don Ruy Gomez,1
+All (IV/6),Undirected,Doña Sol,1
+All (IV/6),Undirected,Hernani,1
+Conspirators,Undirected,Don Carlos,1
+Conspirators,Undirected,Don Ruy Gomez,1
+Conspirators,Undirected,Doña Sol,1
+Conspirators,Undirected,Hernani,1
+Cries offstage,Undirected,Doña Sol,1
+Cries offstage,Undirected,Hernani,1
+Cries offstage,Undirected,Mountaineer,1
+Crowd,Undirected,Don Carlos,1
+Crowd,Undirected,Duke of Bavaria,1
+Don Carlos,Undirected,Don Matias,1
+Don Carlos,Undirected,Don Ricardo,3
+Don Carlos,Undirected,Don Ruy Gomez,3
+Don Carlos,Undirected,Don Sanchez,1
+Don Carlos,Undirected,Doña Josepha,2
+Don Carlos,Undirected,Doña Sol,6
+Don Carlos,Undirected,Duke of Bavaria,1
+Don Carlos,Undirected,Hernani,5
+Don Francisco,Undirected,Don Garcie,1
+Don Francisco,Undirected,Don Matias,1
+Don Francisco,Undirected,Don Ricardo,2
+Don Francisco,Undirected,Don Sanchez,2
+Don Francisco,Undirected,Hernani,1
+Don Garcie,Undirected,Don Matias,1
+Don Garcie,Undirected,Don Ricardo,1
+Don Garcie,Undirected,Don Sanchez,1
+Don Gil Tellez Giron,Undirected,Don Juan de Haro,1
+Don Gil Tellez Giron,Undirected,Don Ruy Gomez,1
+Don Gil Tellez Giron,Undirected,Duke of Gotha,1
+Don Gil Tellez Giron,Undirected,Duke of Lutzelburg,1
+Don Gil Tellez Giron,Undirected,First conspirator,1
+Don Gil Tellez Giron,Undirected,Hernani,1
+Don Gil Tellez Giron,Undirected,One of the conspirators,1
+Don Gil Tellez Giron,Undirected,Second conspirator,1
+Don Gil Tellez Giron,Undirected,Third conspirator,1
+Don Gil Tellez Giron,Undirected,Voice in shadows 1,1
+Don Gil Tellez Giron,Undirected,Voice in shadows 2,1
+Don Juan de Haro,Undirected,Don Ruy Gomez,1
+Don Juan de Haro,Undirected,Duke of Gotha,1
+Don Juan de Haro,Undirected,Duke of Lutzelburg,1
+Don Juan de Haro,Undirected,First conspirator,1
+Don Juan de Haro,Undirected,Hernani,1
+Don Juan de Haro,Undirected,One of the conspirators,1
+Don Juan de Haro,Undirected,Second conspirator,1
+Don Juan de Haro,Undirected,Third conspirator,1
+Don Juan de Haro,Undirected,Voice in shadows 1,1
+Don Juan de Haro,Undirected,Voice in shadows 2,1
+Don Matias,Undirected,Don Ricardo,2
+Don Matias,Undirected,Don Sanchez,2
+Don Ricardo,Undirected,Don Sanchez,3
+Don Ricardo,Undirected,Hernani,2
+Don Ruy Gomez,Undirected,Doña Sol,7
+Don Ruy Gomez,Undirected,Duke of Gotha,1
+Don Ruy Gomez,Undirected,Duke of Lutzelburg,1
+Don Ruy Gomez,Undirected,First conspirator,1
+Don Ruy Gomez,Undirected,Hernani,8
+Don Ruy Gomez,Undirected,One of the conspirators,1
+Don Ruy Gomez,Undirected,Page,2
+Don Ruy Gomez,Undirected,Second conspirator,1
+Don Ruy Gomez,Undirected,Third conspirator,1
+Don Ruy Gomez,Undirected,Voice in shadows 1,1
+Don Ruy Gomez,Undirected,Voice in shadows 2,1
+Don Sanchez,Undirected,Hernani,1
+Doña Josepha,Undirected,Doña Sol,1
+Doña Josepha,Undirected,Hernani,1
+Doña Sol,Undirected,Hernani,10
+Doña Sol,Undirected,Mountaineer,1
+Doña Sol,Undirected,Page,2
+Duke of Gotha,Undirected,Duke of Lutzelburg,1
+Duke of Gotha,Undirected,First conspirator,1
+Duke of Gotha,Undirected,Hernani,1
+Duke of Gotha,Undirected,One of the conspirators,1
+Duke of Gotha,Undirected,Second conspirator,1
+Duke of Gotha,Undirected,Third conspirator,1
+Duke of Gotha,Undirected,Voice in shadows 1,1
+Duke of Gotha,Undirected,Voice in shadows 2,1
+Duke of Lutzelburg,Undirected,First conspirator,1
+Duke of Lutzelburg,Undirected,Hernani,1
+Duke of Lutzelburg,Undirected,One of the conspirators,1
+Duke of Lutzelburg,Undirected,Second conspirator,1
+Duke of Lutzelburg,Undirected,Third conspirator,1
+Duke of Lutzelburg,Undirected,Voice in shadows 1,1
+Duke of Lutzelburg,Undirected,Voice in shadows 2,1
+First conspirator,Undirected,Hernani,1
+First conspirator,Undirected,One of the conspirators,1
+First conspirator,Undirected,Second conspirator,1
+First conspirator,Undirected,Third conspirator,1
+First conspirator,Undirected,Voice in shadows 1,1
+First conspirator,Undirected,Voice in shadows 2,1
+Hernani,Undirected,Mask,1
+Hernani,Undirected,Mountaineer,1
+Hernani,Undirected,One of the conspirators,1
+Hernani,Undirected,Page,1
+Hernani,Undirected,Second conspirator,1
+Hernani,Undirected,Third conspirator,1
+Hernani,Undirected,Voice in shadows 1,1
+Hernani,Undirected,Voice in shadows 2,1
+One of the conspirators,Undirected,Second conspirator,1
+One of the conspirators,Undirected,Third conspirator,1
+One of the conspirators,Undirected,Voice in shadows 1,1
+One of the conspirators,Undirected,Voice in shadows 2,1
+Second conspirator,Undirected,Third conspirator,1
+Second conspirator,Undirected,Voice in shadows 1,1
+Second conspirator,Undirected,Voice in shadows 2,1
+Third conspirator,Undirected,Voice in shadows 1,1
+Third conspirator,Undirected,Voice in shadows 2,1
+Voice in shadows 1,Undirected,Voice in shadows 2,1
