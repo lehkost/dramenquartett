@@ -1,0 +1,100 @@
+Source,Type,Target,Weight
+Brânzovenescu,Undirected,Cațavencu,4
+Brânzovenescu,Undirected,Cațavencu's group,2
+Brânzovenescu,Undirected,Everybody,1
+Brânzovenescu,Undirected,Everybody in the back,1
+Brânzovenescu,Undirected,Everybody in the front,1
+Brânzovenescu,Undirected,Farfuridi,7
+Brânzovenescu,Undirected,Ionescu,2
+Brânzovenescu,Undirected,Popescu,1
+Brânzovenescu,Undirected,Pristanda,2
+Brânzovenescu,Undirected,Servant,1
+Brânzovenescu,Undirected,The Sloshed Citizen,3
+Brânzovenescu,Undirected,Tipătescu,4
+Brânzovenescu,Undirected,Trahanache,4
+Brânzovenescu,Undirected,Zoe,3
+Cațavencu's group,Undirected,Everybody,3
+Cațavencu's group,Undirected,Everybody in the back,1
+Cațavencu's group,Undirected,Everybody in the front,1
+Cațavencu's group,Undirected,Farfuridi,3
+Cațavencu's group,Undirected,Ionescu,5
+Cațavencu's group,Undirected,Popescu,4
+Cațavencu's group,Undirected,Pristanda,2
+Cațavencu's group,Undirected,The Sloshed Citizen,2
+Cațavencu's group,Undirected,Tipătescu,1
+Cațavencu's group,Undirected,Trahanache,4
+Cațavencu's group,Undirected,Zoe,1
+Cațavencu,Undirected,Cațavencu's group,5
+Cațavencu,Undirected,Dandanache,1
+Cațavencu,Undirected,Everybody,3
+Cațavencu,Undirected,Everybody in the back,1
+Cațavencu,Undirected,Everybody in the front,1
+Cațavencu,Undirected,Farfuridi,6
+Cațavencu,Undirected,Ionescu,5
+Cațavencu,Undirected,Popescu,4
+Cațavencu,Undirected,Pristanda,5
+Cațavencu,Undirected,The Sloshed Citizen,7
+Cațavencu,Undirected,Tipătescu,6
+Cațavencu,Undirected,Trahanache,7
+Cațavencu,Undirected,Zoe,8
+Dandanache,Undirected,Farfuridi,1
+Dandanache,Undirected,Pristanda,1
+Dandanache,Undirected,The Sloshed Citizen,1
+Dandanache,Undirected,Tipătescu,3
+Dandanache,Undirected,Trahanache,4
+Dandanache,Undirected,Zoe,3
+Everybody in the back,Undirected,Everybody in the front,1
+Everybody in the back,Undirected,Farfuridi,1
+Everybody in the back,Undirected,Ionescu,1
+Everybody in the back,Undirected,Pristanda,1
+Everybody in the back,Undirected,The Sloshed Citizen,1
+Everybody in the back,Undirected,Tipătescu,1
+Everybody in the back,Undirected,Trahanache,1
+Everybody in the back,Undirected,Zoe,1
+Everybody in the front,Undirected,Farfuridi,1
+Everybody in the front,Undirected,Ionescu,1
+Everybody in the front,Undirected,Pristanda,1
+Everybody in the front,Undirected,The Sloshed Citizen,1
+Everybody in the front,Undirected,Tipătescu,1
+Everybody in the front,Undirected,Trahanache,1
+Everybody in the front,Undirected,Zoe,1
+Everybody,Undirected,Everybody in the back,1
+Everybody,Undirected,Everybody in the front,1
+Everybody,Undirected,Farfuridi,2
+Everybody,Undirected,Ionescu,3
+Everybody,Undirected,Popescu,2
+Everybody,Undirected,Pristanda,1
+Everybody,Undirected,The Sloshed Citizen,1
+Everybody,Undirected,Tipătescu,1
+Everybody,Undirected,Trahanache,3
+Everybody,Undirected,Zoe,1
+Farfuridi,Undirected,Ionescu,3
+Farfuridi,Undirected,Popescu,2
+Farfuridi,Undirected,Pristanda,3
+Farfuridi,Undirected,Servant,1
+Farfuridi,Undirected,The Sloshed Citizen,4
+Farfuridi,Undirected,Tipătescu,4
+Farfuridi,Undirected,Trahanache,6
+Farfuridi,Undirected,Zoe,3
+Ionescu,Undirected,Popescu,4
+Ionescu,Undirected,Pristanda,2
+Ionescu,Undirected,The Sloshed Citizen,2
+Ionescu,Undirected,Tipătescu,1
+Ionescu,Undirected,Trahanache,4
+Ionescu,Undirected,Zoe,1
+Popescu,Undirected,Pristanda,1
+Popescu,Undirected,The Sloshed Citizen,1
+Popescu,Undirected,Trahanache,3
+Pristanda,Undirected,Some voices,1
+Pristanda,Undirected,The Sloshed Citizen,5
+Pristanda,Undirected,Tipătescu,7
+Pristanda,Undirected,Trahanache,7
+Pristanda,Undirected,Zoe,8
+Servant,Undirected,Tipătescu,1
+Some voices,Undirected,Trahanache,1
+The Sloshed Citizen,Undirected,Tipătescu,6
+The Sloshed Citizen,Undirected,Trahanache,5
+The Sloshed Citizen,Undirected,Zoe,7
+Tipătescu,Undirected,Trahanache,9
+Tipătescu,Undirected,Zoe,17
+Trahanache,Undirected,Zoe,8
