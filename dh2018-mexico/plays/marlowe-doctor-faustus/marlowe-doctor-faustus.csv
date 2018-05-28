@@ -1,0 +1,161 @@
+Source,Type,Target,Weight
+Archbishop,Undirected,Faustus,1
+Archbishop,Undirected,Pope,1
+Archbishop,Undirected,Raymond,1
+Belzebub,Undirected,Covetousness,1
+Belzebub,Undirected,Envy,1
+Belzebub,Undirected,Faustus,2
+Belzebub,Undirected,Gluttony,1
+Belzebub,Undirected,Lechery,1
+Belzebub,Undirected,Lucifer,4
+Belzebub,Undirected,Mephistophilis,2
+Belzebub,Undirected,Pride,1
+Belzebub,Undirected,Sloth,1
+Belzebub,Undirected,Wrath,1
+Benvolio,Undirected,Duke of Saxony,1
+Benvolio,Undirected,Emperor,2
+Benvolio,Undirected,Faustus,3
+Benvolio,Undirected,Frederick,5
+Benvolio,Undirected,Martino,6
+Benvolio,Undirected,Mephistophilis,1
+Bruno,Undirected,Cardinal of France,1
+Bruno,Undirected,Faustus,2
+Bruno,Undirected,Mephistophilis,2
+Bruno,Undirected,Pope,2
+Bruno,Undirected,Raymond,2
+Cardinal of France,Undirected,Cardinal of Padua,1
+Cardinal of France,Undirected,Faustus,2
+Cardinal of France,Undirected,Mephistophilis,2
+Cardinal of France,Undirected,Pope,2
+Cardinal of France,Undirected,Raymond,2
+Cardinal of Padua,Undirected,Faustus,1
+Cardinal of Padua,Undirected,Mephistophilis,1
+Cardinal of Padua,Undirected,Pope,1
+Cardinal of Padua,Undirected,Raymond,1
+Carter,Undirected,Dick,5
+Carter,Undirected,Duchess,3
+Carter,Undirected,Duke of Vanholt,3
+Carter,Undirected,Faustus,3
+Carter,Undirected,Horse-Courser,5
+Carter,Undirected,Hostess,2
+Carter,Undirected,Mephistophilis,3
+Carter,Undirected,Robin,5
+Carter,Undirected,Servant,3
+Clown,Undirected,Wagner,3
+Cornelius,Undirected,Faustus,1
+Cornelius,Undirected,Valdes,1
+Covetousness,Undirected,Envy,1
+Covetousness,Undirected,Faustus,1
+Covetousness,Undirected,Gluttony,1
+Covetousness,Undirected,Lechery,1
+Covetousness,Undirected,Lucifer,1
+Covetousness,Undirected,Pride,1
+Covetousness,Undirected,Sloth,1
+Covetousness,Undirected,Wrath,1
+Dick,Undirected,Duchess,3
+Dick,Undirected,Duke of Vanholt,3
+Dick,Undirected,Faustus,3
+Dick,Undirected,Horse-Courser,5
+Dick,Undirected,Hostess,2
+Dick,Undirected,Mephistophilis,4
+Dick,Undirected,Robin,9
+Dick,Undirected,Servant,3
+Dick,Undirected,Vintner,1
+Duchess,Undirected,Duke of Vanholt,3
+Duchess,Undirected,Faustus,3
+Duchess,Undirected,Horse-Courser,3
+Duchess,Undirected,Hostess,1
+Duchess,Undirected,Mephistophilis,3
+Duchess,Undirected,Robin,3
+Duchess,Undirected,Servant,3
+Duke of Saxony,Undirected,Emperor,2
+Duke of Saxony,Undirected,Faustus,2
+Duke of Vanholt,Undirected,Faustus,3
+Duke of Vanholt,Undirected,Horse-Courser,3
+Duke of Vanholt,Undirected,Hostess,1
+Duke of Vanholt,Undirected,Mephistophilis,3
+Duke of Vanholt,Undirected,Robin,3
+Duke of Vanholt,Undirected,Servant,3
+Emperor,Undirected,Faustus,3
+Emperor,Undirected,Mephistophilis,1
+Envy,Undirected,Faustus,1
+Envy,Undirected,Gluttony,1
+Envy,Undirected,Lechery,1
+Envy,Undirected,Lucifer,1
+Envy,Undirected,Pride,1
+Envy,Undirected,Sloth,1
+Envy,Undirected,Wrath,1
+Evil Angel,Undirected,Faustus,6
+Evil Angel,Undirected,Good Angel,5
+Faustus,Undirected,First Friar,1
+Faustus,Undirected,First Scholar,2
+Faustus,Undirected,First Soldier,1
+Faustus,Undirected,Frederick,2
+Faustus,Undirected,Friars,1
+Faustus,Undirected,Gluttony,1
+Faustus,Undirected,Good Angel,5
+Faustus,Undirected,Horse-Courser,4
+Faustus,Undirected,Hostess,1
+Faustus,Undirected,Lechery,1
+Faustus,Undirected,Lucifer,3
+Faustus,Undirected,Martino,1
+Faustus,Undirected,Mephistophilis,25
+Faustus,Undirected,Old Man,1
+Faustus,Undirected,Pope,5
+Faustus,Undirected,Pride,1
+Faustus,Undirected,Raymond,5
+Faustus,Undirected,Robin,3
+Faustus,Undirected,Second Scholar,2
+Faustus,Undirected,Second Soldier,1
+Faustus,Undirected,Servant,3
+Faustus,Undirected,Sloth,1
+Faustus,Undirected,Third Scholar,2
+Faustus,Undirected,Valdes,1
+Faustus,Undirected,Wagner,3
+Faustus,Undirected,Wrath,1
+First Friar,Undirected,Friars,1
+First Friar,Undirected,Mephistophilis,1
+First Scholar,Undirected,Mephistophilis,1
+First Scholar,Undirected,Second Scholar,6
+First Scholar,Undirected,Third Scholar,3
+First Scholar,Undirected,Wagner,1
+First Soldier,Undirected,Second Soldier,1
+Frederick,Undirected,Martino,6
+Frederick,Undirected,Mephistophilis,1
+Friars,Undirected,Mephistophilis,1
+Gluttony,Undirected,Lechery,1
+Gluttony,Undirected,Lucifer,1
+Gluttony,Undirected,Pride,1
+Gluttony,Undirected,Sloth,1
+Gluttony,Undirected,Wrath,1
+Horse-Courser,Undirected,Hostess,2
+Horse-Courser,Undirected,Mephistophilis,3
+Horse-Courser,Undirected,Robin,5
+Horse-Courser,Undirected,Servant,3
+Hostess,Undirected,Mephistophilis,1
+Hostess,Undirected,Robin,2
+Hostess,Undirected,Servant,1
+Lechery,Undirected,Lucifer,1
+Lechery,Undirected,Pride,1
+Lechery,Undirected,Sloth,1
+Lechery,Undirected,Wrath,1
+Lucifer,Undirected,Mephistophilis,2
+Lucifer,Undirected,Pride,1
+Lucifer,Undirected,Sloth,1
+Lucifer,Undirected,Wrath,1
+Mephistophilis,Undirected,Old Man,1
+Mephistophilis,Undirected,Pope,4
+Mephistophilis,Undirected,Raymond,4
+Mephistophilis,Undirected,Robin,4
+Mephistophilis,Undirected,Second Scholar,1
+Mephistophilis,Undirected,Servant,3
+Mephistophilis,Undirected,Third Scholar,1
+Mephistophilis,Undirected,Wagner,1
+Pope,Undirected,Raymond,6
+Pride,Undirected,Sloth,1
+Pride,Undirected,Wrath,1
+Robin,Undirected,Servant,3
+Robin,Undirected,Vintner,1
+Second Scholar,Undirected,Third Scholar,3
+Second Scholar,Undirected,Wagner,1
+Sloth,Undirected,Wrath,1
