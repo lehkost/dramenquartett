@@ -1,0 +1,9 @@
+Source,Type,Target,Weight
+A Boy,Undirected,Estragon,2
+A Boy,Undirected,Vladimir,2
+Estragon,Undirected,Lucky,2
+Estragon,Undirected,Pozzo,2
+Estragon,Undirected,Vladimir,6
+Lucky,Undirected,Pozzo,2
+Lucky,Undirected,Vladimir,2
+Pozzo,Undirected,Vladimir,2
