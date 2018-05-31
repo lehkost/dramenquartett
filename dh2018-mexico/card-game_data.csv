@@ -1,9 +1,9 @@
-Author,Title,Subtitle,Year,Original Language,Network Size,Network Diameter,Network Density,Clustering Coefficient,Average Path Length,Maximum Degree,Character with Maximum Degree
+Playwright,Title,Original Subtitle,Year,Original Language,Network Size,Network Diameter,Network Density,Clustering Coefficient,Average Path Length,Maximum Degree,Character with Maximum Degree
 Aeschylus,The Persians,,472 BC,Greek,6,2,"0,53","0,76","1,47",5,Chorus
 Sophocles,Antigone,,441 BC,Greek,9,3,"0,44","0,78","1,58",7,Creon and Chorus
 Euripides,Electra,,c. 420–413 BC,Greek,9,2,"0,5","0,8","1,5",8,Electra
 Aristophanes,The Frogs,,405 BC,Greek,16,3,"0,29","0,82","1,78",14,Dionysus
-Christopher Marlowe,Doctor Faustus (Quarto from 1616),,c. 1588/1592,English,46,4,"0,16","0,91","1,91",42,Faust
+Christopher Marlowe,Doctor Faustus (Quarto of 1616),,c. 1588/1592,English,46,4,"0,16","0,91","1,91",42,Faust
 William Shakespeare,Hamlet,,c. 1599/1602,English,34,3,"0,34","0,86","1,7",30,Horatio
 Ben Jonson,"Volpone; or, the Fox",,1606,English,26,3,"0,5","0,86","1,66",21,Mosca
 Pedro Calderón de la Barca,Life Is a Dream,,1635,Spanish,18,3,"0,4","0,84","1,66",14,Clarin
@@ -12,6 +12,7 @@ Molière,The Miser,Comedy,1668,French,13,2,"0,62","0,83","1,39",12,Harpagon and 
 Aphra Behn,"The Rover, Parts One and Two",,1677/1681,English,43,3,"0,38","0,84","1,62",41,Willmore
 Carlo Goldoni,The Servant of Two Masters,A Comedy,1746,Italian,13,3,"0,59","0,87","1,42",11,Beatrice and Truffaldino
 Johann Wolfgang Goethe,Götz von Berlichingen with the Iron Hand,A Drama,1773,German,79,5,"0,09","0,87","2,49",46,Götz
+Ludwig Tieck,Puss in Boots,A Fairy-Tale for Children in 3 Acts,1797,German,48,3,"0,45","0,87","1,61",43,Fischer
 Elizabeth Inchbald,Lovers’ Vows,A Play,1798,English,15,3,"0,54","0,85","1,53",12,Frederick
 Johann Wolfgang Goethe,"Faust, Part One",A Tragedy,1808,German,115,3,"0,2","0,98","1,7",67,Faust
 Alexander Pushkin,Boris Godunov,,1825,Russian,79,6,"0,11","0,92","3,03",29,Tsar Boris
