@@ -1,6 +1,6 @@
 # Dramenquartett
 
-This repo holds the network data and visualisations for our [DHd2018](http://dhd2018.uni-koeln.de/) and [DH2018](https://dh2018.adho.org/en/) conference posters.
+This repo holds network data and visualisations for our [DHd2018](http://dhd2018.uni-koeln.de/) and [DH2018](https://dh2018.adho.org/en/) conference posters.
 
 ## Brecht Beats Shakespeare! – A Card-Game Introduction to the Network Analysis of European Drama (DH2018)
 
@@ -12,7 +12,7 @@ Full-res version: https://doi.org/10.6084/m9.figshare.6667424.v1
 
 ![conference poster DH2018, small version](/dh2018-mexico/brecht_beats_shakespeare_poster_small.jpg)
 
-Network data per play is ([here](/dh2018-mexico/brecht_beats_shakespeare_data.csv)).
+Network data per play is [here](/dh2018-mexico/brecht_beats_shakespeare_data.csv).
 
 ## Dramenquartett – Eine didaktische Intervention (DHd2018)
 
